@@ -7,6 +7,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 0,Total,04000US08,Colorado,2018,2018,71953,655,colorado
 0,Total,04000US09,Connecticut,2018,2018,76348,921,connecticut
 0,Total,04000US10,Delaware,2018,2018,64805,1570,delaware
+0,Total,04000US11,District of Columbia,2018,2018,85203,3414,district-of-columbia
 0,Total,04000US12,Florida,2018,2018,55462,384,florida
 0,Total,04000US13,Georgia,2018,2018,58756,711,georgia
 0,Total,04000US15,Hawaii,2018,2018,80212,2020,hawaii
@@ -18,7 +19,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 0,Total,04000US21,Kentucky,2018,2018,50247,567,kentucky
 0,Total,04000US22,Louisiana,2018,2018,47905,740,louisiana
 0,Total,04000US23,Maine,2018,2018,55602,1326,maine
-0,Total,04000US24,Maryland,2018,2018,84223,1022,maryland
+0,Total,04000US24,Maryland,2018,2018,83242,1022,maryland
 0,Total,04000US25,Massachusetts,2018,2018,79835,970,massachusetts
 0,Total,04000US26,Michigan,2018,2018,56697,406,michigan
 0,Total,04000US27,Minnesota,2018,2018,70315,539,minnesota
@@ -49,6 +50,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 0,Total,04000US54,West Virginia,2018,2018,44097,1016,west-virginia
 0,Total,04000US55,Wisconsin,2018,2018,60773,391,wisconsin
 0,Total,04000US56,Wyoming,2018,2018,61584,1401,wyoming
+0,Total,04000US72,Puerto Rico,2018,2018,20296,426,puerto-rico
 1,White,04000US01,Alabama,2018,2018,57661,1068,alabama
 1,White,04000US02,Alaska,2018,2018,82967,3279,alaska
 1,White,04000US04,Arizona,2018,2018,61080,492,arizona
@@ -57,6 +59,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 1,White,04000US08,Colorado,2018,2018,74361,889,colorado
 1,White,04000US09,Connecticut,2018,2018,83337,1124,connecticut
 1,White,04000US10,Delaware,2018,2018,69698,1988,delaware
+1,White,04000US11,District of Columbia,2018,2018,136460,3359,district-of-columbia
 1,White,04000US12,Florida,2018,2018,59004,572,florida
 1,White,04000US13,Georgia,2018,2018,66421,732,georgia
 1,White,04000US15,Hawaii,2018,2018,79722,3517,hawaii
@@ -99,6 +102,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 1,White,04000US54,West Virginia,2018,2018,44808,1042,west-virginia
 1,White,04000US55,Wisconsin,2018,2018,63178,625,wisconsin
 1,White,04000US56,Wyoming,2018,2018,62266,1747,wyoming
+1,White,04000US72,Puerto Rico,2018,2018,21366,531,puerto-rico
 2,Black,04000US01,Alabama,2018,2018,33539,1240,alabama
 2,Black,04000US02,Alaska,2018,2018,63198,8294,alaska
 2,Black,04000US04,Arizona,2018,2018,50068,3920,arizona
@@ -107,6 +111,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 2,Black,04000US08,Colorado,2018,2018,49081,3821,colorado
 2,Black,04000US09,Connecticut,2018,2018,50113,3239,connecticut
 2,Black,04000US10,Delaware,2018,2018,44666,3852,delaware
+2,Black,04000US11,District of Columbia,2018,2018,45193,3297,district-of-columbia
 2,Black,04000US12,Florida,2018,2018,41416,684,florida
 2,Black,04000US13,Georgia,2018,2018,45100,878,georgia
 2,Black,04000US15,Hawaii,2018,2018,70185,13350,hawaii
@@ -149,6 +154,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 2,Black,04000US54,West Virginia,2018,2018,30925,3043,west-virginia
 2,Black,04000US55,Wisconsin,2018,2018,30798,1499,wisconsin
 2,Black,04000US56,Wyoming,2018,2018,88951,66837,wyoming
+2,Black,04000US72,Puerto Rico,2018,2018,19476,1173,puerto-rico
 3,Native American,04000US01,Alabama,2018,2018,47582,11643,alabama
 3,Native American,04000US02,Alaska,2018,2018,49727,2901,alaska
 3,Native American,04000US04,Arizona,2018,2018,37644,2380,arizona
@@ -157,6 +163,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 3,Native American,04000US08,Colorado,2018,2018,48427,5367,colorado
 3,Native American,04000US09,Connecticut,2018,2018,38175,10290,connecticut
 3,Native American,04000US10,Delaware,2018,2018,54926,38408,delaware
+3,Native American,04000US11,District of Columbia,2018,2018,56797,45437,district-of-columbia
 3,Native American,04000US12,Florida,2018,2018,47526,7728,florida
 3,Native American,04000US13,Georgia,2018,2018,31917,7269,georgia
 3,Native American,04000US15,Hawaii,2018,2018,40619,26500,hawaii
@@ -198,6 +205,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 3,Native American,04000US54,West Virginia,2018,2018,34018,10557,west-virginia
 3,Native American,04000US55,Wisconsin,2018,2018,46633,6557,wisconsin
 3,Native American,04000US56,Wyoming,2018,2018,55292,10999,wyoming
+3,Native American,04000US72,Puerto Rico,2018,2018,18624,10119,puerto-rico
 4,Asian,04000US01,Alabama,2018,2018,57324,11451,alabama
 4,Asian,04000US02,Alaska,2018,2018,63248,8294,alaska
 4,Asian,04000US04,Arizona,2018,2018,81026,4910,arizona
@@ -206,6 +214,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 4,Asian,04000US08,Colorado,2018,2018,79399,4610,colorado
 4,Asian,04000US09,Connecticut,2018,2018,95018,7733,connecticut
 4,Asian,04000US10,Delaware,2018,2018,89354,6763,delaware
+4,Asian,04000US11,District of Columbia,2018,2018,116382,16471,district-of-columbia
 4,Asian,04000US12,Florida,2018,2018,66546,3363,florida
 4,Asian,04000US13,Georgia,2018,2018,81531,2508,georgia
 4,Asian,04000US15,Hawaii,2018,2018,86048,2714,hawaii
@@ -248,6 +257,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 4,Asian,04000US54,West Virginia,2018,2018,62159,15115,west-virginia
 4,Asian,04000US55,Wisconsin,2018,2018,67221,4211,wisconsin
 4,Asian,04000US56,Wyoming,2018,2018,46256,25913,wyoming
+4,Asian,04000US72,Puerto Rico,2018,2018,26591,20281,puerto-rico
 5,Pacific Islander,04000US02,Alaska,2018,2018,90330,64661,alaska
 5,Pacific Islander,04000US04,Arizona,2018,2018,55497,35977,arizona
 5,Pacific Islander,04000US05,Arkansas,2018,2018,37120,16736,arkansas
@@ -293,6 +303,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 6,Other,04000US08,Colorado,2018,2018,52784,4601,colorado
 6,Other,04000US09,Connecticut,2018,2018,35860,3004,connecticut
 6,Other,04000US10,Delaware,2018,2018,57345,2640,delaware
+6,Other,04000US11,District of Columbia,2018,2018,54124,13299,district-of-columbia
 6,Other,04000US12,Florida,2018,2018,45430,2537,florida
 6,Other,04000US13,Georgia,2018,2018,50121,3512,georgia
 6,Other,04000US15,Hawaii,2018,2018,62365,31291,hawaii
@@ -334,6 +345,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 6,Other,04000US54,West Virginia,2018,2018,45325,29238,west-virginia
 6,Other,04000US55,Wisconsin,2018,2018,42942,3544,wisconsin
 6,Other,04000US56,Wyoming,2018,2018,36403,1322,wyoming
+6,Other,04000US72,Puerto Rico,2018,2018,16716,769,puerto-rico
 7,Two Or More,04000US01,Alabama,2018,2018,35884,6485,alabama
 7,Two Or More,04000US02,Alaska,2018,2018,66114,4284,alaska
 7,Two Or More,04000US04,Arizona,2018,2018,53408,3872,arizona
@@ -342,6 +354,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 7,Two Or More,04000US08,Colorado,2018,2018,66396,4014,colorado
 7,Two Or More,04000US09,Connecticut,2018,2018,58651,7692,connecticut
 7,Two Or More,04000US10,Delaware,2018,2018,43866,16459,delaware
+7,Two Or More,04000US11,District of Columbia,2018,2018,95367,16132,district-of-columbia
 7,Two Or More,04000US12,Florida,2018,2018,53279,3951,florida
 7,Two Or More,04000US13,Georgia,2018,2018,56856,5680,georgia
 7,Two Or More,04000US15,Hawaii,2018,2018,77573,4456,hawaii
@@ -384,6 +397,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 7,Two Or More,04000US54,West Virginia,2018,2018,45948,7665,west-virginia
 7,Two Or More,04000US55,Wisconsin,2018,2018,50692,2540,wisconsin
 7,Two Or More,04000US56,Wyoming,2018,2018,46205,26784,wyoming
+7,Two Or More,04000US72,Puerto Rico,2018,2018,20232,2461,puerto-rico
 8,White Non-Hispanic,04000US01,Alabama,2018,2018,58257,1125,alabama
 8,White Non-Hispanic,04000US02,Alaska,2018,2018,83245,3339,alaska
 8,White Non-Hispanic,04000US04,Arizona,2018,2018,64876,758,arizona
@@ -392,6 +406,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 8,White Non-Hispanic,04000US08,Colorado,2018,2018,77732,1079,colorado
 8,White Non-Hispanic,04000US09,Connecticut,2018,2018,87666,1155,connecticut
 8,White Non-Hispanic,04000US10,Delaware,2018,2018,70623,2211,delaware
+8,White Non-Hispanic,04000US11,District of Columbia,2018,2018,142544,6168,district-of-columbia
 8,White Non-Hispanic,04000US12,Florida,2018,2018,61446,408,florida
 8,White Non-Hispanic,04000US13,Georgia,2018,2018,68055,1037,georgia
 8,White Non-Hispanic,04000US15,Hawaii,2018,2018,80940,3648,hawaii
@@ -434,6 +449,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 8,White Non-Hispanic,04000US54,West Virginia,2018,2018,44840,1058,west-virginia
 8,White Non-Hispanic,04000US55,Wisconsin,2018,2018,63906,640,wisconsin
 8,White Non-Hispanic,04000US56,Wyoming,2018,2018,62507,2153,wyoming
+8,White Non-Hispanic,04000US72,Puerto Rico,2018,2018,26840,6645,puerto-rico
 9,Hispanic,04000US01,Alabama,2018,2018,37412,4510,alabama
 9,Hispanic,04000US02,Alaska,2018,2018,63921,14477,alaska
 9,Hispanic,04000US04,Arizona,2018,2018,50140,945,arizona
@@ -442,6 +458,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 9,Hispanic,04000US08,Colorado,2018,2018,55206,2014,colorado
 9,Hispanic,04000US09,Connecticut,2018,2018,42456,2390,connecticut
 9,Hispanic,04000US10,Delaware,2018,2018,60688,6452,delaware
+9,Hispanic,04000US11,District of Columbia,2018,2018,72284,10981,district-of-columbia
 9,Hispanic,04000US12,Florida,2018,2018,49903,822,florida
 9,Hispanic,04000US13,Georgia,2018,2018,50955,1087,georgia
 9,Hispanic,04000US15,Hawaii,2018,2018,70193,7530,hawaii
@@ -484,6 +501,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 9,Hispanic,04000US54,West Virginia,2018,2018,45424,6598,west-virginia
 9,Hispanic,04000US55,Wisconsin,2018,2018,46849,1896,wisconsin
 9,Hispanic,04000US56,Wyoming,2018,2018,49483,11229,wyoming
+9,Hispanic,04000US72,Puerto Rico,2018,2018,20203,418,puerto-rico
 0,Total,04000US01,Alabama,2017,2017,48123,768,alabama
 0,Total,04000US02,Alaska,2017,2017,73181,2628,alaska
 0,Total,04000US04,Arizona,2017,2017,56581,516,arizona
@@ -492,6 +510,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 0,Total,04000US08,Colorado,2017,2017,69117,780,colorado
 0,Total,04000US09,Connecticut,2017,2017,74168,1345,connecticut
 0,Total,04000US10,Delaware,2017,2017,62852,2464,delaware
+0,Total,04000US11,District of Columbia,2017,2017,82372,2651,district-of-columbia
 0,Total,04000US12,Florida,2017,2017,52594,364,florida
 0,Total,04000US13,Georgia,2017,2017,56183,572,georgia
 0,Total,04000US15,Hawaii,2017,2017,77765,1795,hawaii
@@ -503,7 +522,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 0,Total,04000US21,Kentucky,2017,2017,48375,630,kentucky
 0,Total,04000US22,Louisiana,2017,2017,46145,634,louisiana
 0,Total,04000US23,Maine,2017,2017,56277,1168,maine
-0,Total,04000US24,Maryland,2017,2017,81574,707,maryland
+0,Total,04000US24,Maryland,2017,2017,80776,707,maryland
 0,Total,04000US25,Massachusetts,2017,2017,77385,907,massachusetts
 0,Total,04000US26,Michigan,2017,2017,54909,440,michigan
 0,Total,04000US27,Minnesota,2017,2017,68388,658,minnesota
@@ -534,6 +553,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 0,Total,04000US54,West Virginia,2017,2017,43469,1393,west-virginia
 0,Total,04000US55,Wisconsin,2017,2017,59305,587,wisconsin
 0,Total,04000US56,Wyoming,2017,2017,60434,1759,wyoming
+0,Total,04000US72,Puerto Rico,2017,2017,19343,404,puerto-rico
 1,White,04000US01,Alabama,2017,2017,55771,867,alabama
 1,White,04000US02,Alaska,2017,2017,81067,2238,alaska
 1,White,04000US04,Arizona,2017,2017,59018,748,arizona
@@ -542,6 +562,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 1,White,04000US08,Colorado,2017,2017,71137,766,colorado
 1,White,04000US09,Connecticut,2017,2017,81009,1017,connecticut
 1,White,04000US10,Delaware,2017,2017,67507,1915,delaware
+1,White,04000US11,District of Columbia,2017,2017,132698,4835,district-of-columbia
 1,White,04000US12,Florida,2017,2017,55496,396,florida
 1,White,04000US13,Georgia,2017,2017,63900,985,georgia
 1,White,04000US15,Hawaii,2017,2017,77849,3731,hawaii
@@ -584,6 +605,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 1,White,04000US54,West Virginia,2017,2017,44539,1356,west-virginia
 1,White,04000US55,Wisconsin,2017,2017,61807,410,wisconsin
 1,White,04000US56,Wyoming,2017,2017,60907,1678,wyoming
+1,White,04000US72,Puerto Rico,2017,2017,20095,511,puerto-rico
 2,Black,04000US01,Alabama,2017,2017,31289,759,alabama
 2,Black,04000US02,Alaska,2017,2017,61879,16176,alaska
 2,Black,04000US04,Arizona,2017,2017,44757,2789,arizona
@@ -592,6 +614,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 2,Black,04000US08,Colorado,2017,2017,51558,2367,colorado
 2,Black,04000US09,Connecticut,2017,2017,46474,1558,connecticut
 2,Black,04000US10,Delaware,2017,2017,44980,3906,delaware
+2,Black,04000US11,District of Columbia,2017,2017,42161,3349,district-of-columbia
 2,Black,04000US12,Florida,2017,2017,40104,668,florida
 2,Black,04000US13,Georgia,2017,2017,42696,1056,georgia
 2,Black,04000US15,Hawaii,2017,2017,54501,10397,hawaii
@@ -633,6 +656,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 2,Black,04000US53,Washington,2017,2017,49300,5019,washington
 2,Black,04000US54,West Virginia,2017,2017,30077,3575,west-virginia
 2,Black,04000US55,Wisconsin,2017,2017,29340,1970,wisconsin
+2,Black,04000US72,Puerto Rico,2017,2017,18882,1193,puerto-rico
 3,Native American,04000US01,Alabama,2017,2017,48713,6799,alabama
 3,Native American,04000US02,Alaska,2017,2017,48920,1906,alaska
 3,Native American,04000US04,Arizona,2017,2017,34849,2060,arizona
@@ -641,6 +665,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 3,Native American,04000US08,Colorado,2017,2017,47745,6901,colorado
 3,Native American,04000US09,Connecticut,2017,2017,32653,16333,connecticut
 3,Native American,04000US10,Delaware,2017,2017,38438,8498,delaware
+3,Native American,04000US11,District of Columbia,2017,2017,21534,7605,district-of-columbia
 3,Native American,04000US12,Florida,2017,2017,45073,6942,florida
 3,Native American,04000US13,Georgia,2017,2017,49294,13619,georgia
 3,Native American,04000US15,Hawaii,2017,2017,36820,28009,hawaii
@@ -683,6 +708,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 3,Native American,04000US54,West Virginia,2017,2017,23250,22303,west-virginia
 3,Native American,04000US55,Wisconsin,2017,2017,41262,4382,wisconsin
 3,Native American,04000US56,Wyoming,2017,2017,44291,7535,wyoming
+3,Native American,04000US72,Puerto Rico,2017,2017,27114,7246,puerto-rico
 4,Asian,04000US01,Alabama,2017,2017,71682,8999,alabama
 4,Asian,04000US02,Alaska,2017,2017,68679,6825,alaska
 4,Asian,04000US04,Arizona,2017,2017,75862,3868,arizona
@@ -691,6 +717,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 4,Asian,04000US08,Colorado,2017,2017,79594,4456,colorado
 4,Asian,04000US09,Connecticut,2017,2017,86593,6278,connecticut
 4,Asian,04000US10,Delaware,2017,2017,98597,6712,delaware
+4,Asian,04000US11,District of Columbia,2017,2017,96394,7237,district-of-columbia
 4,Asian,04000US12,Florida,2017,2017,70195,1949,florida
 4,Asian,04000US13,Georgia,2017,2017,77389,4704,georgia
 4,Asian,04000US15,Hawaii,2017,2017,83096,3151,hawaii
@@ -772,6 +799,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 6,Other,04000US08,Colorado,2017,2017,48599,3473,colorado
 6,Other,04000US09,Connecticut,2017,2017,40958,2717,connecticut
 6,Other,04000US10,Delaware,2017,2017,38620,15120,delaware
+6,Other,04000US11,District of Columbia,2017,2017,60964,4868,district-of-columbia
 6,Other,04000US12,Florida,2017,2017,47376,2649,florida
 6,Other,04000US13,Georgia,2017,2017,40309,3584,georgia
 6,Other,04000US15,Hawaii,2017,2017,73053,12445,hawaii
@@ -814,6 +842,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 6,Other,04000US54,West Virginia,2017,2017,24127,11469,west-virginia
 6,Other,04000US55,Wisconsin,2017,2017,42846,4136,wisconsin
 6,Other,04000US56,Wyoming,2017,2017,59523,15663,wyoming
+6,Other,04000US72,Puerto Rico,2017,2017,16094,900,puerto-rico
 7,Two Or More,04000US01,Alabama,2017,2017,40552,3423,alabama
 7,Two Or More,04000US02,Alaska,2017,2017,70678,8679,alaska
 7,Two Or More,04000US04,Arizona,2017,2017,50394,4835,arizona
@@ -822,6 +851,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 7,Two Or More,04000US08,Colorado,2017,2017,62634,5287,colorado
 7,Two Or More,04000US09,Connecticut,2017,2017,58264,8622,connecticut
 7,Two Or More,04000US10,Delaware,2017,2017,63477,30036,delaware
+7,Two Or More,04000US11,District of Columbia,2017,2017,85501,14251,district-of-columbia
 7,Two Or More,04000US12,Florida,2017,2017,52398,3084,florida
 7,Two Or More,04000US13,Georgia,2017,2017,50719,4617,georgia
 7,Two Or More,04000US15,Hawaii,2017,2017,79532,3196,hawaii
@@ -864,6 +894,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 7,Two Or More,04000US54,West Virginia,2017,2017,39371,17520,west-virginia
 7,Two Or More,04000US55,Wisconsin,2017,2017,44949,5458,wisconsin
 7,Two Or More,04000US56,Wyoming,2017,2017,59973,18978,wyoming
+7,Two Or More,04000US72,Puerto Rico,2017,2017,21365,2505,puerto-rico
 8,White Non-Hispanic,04000US01,Alabama,2017,2017,56138,852,alabama
 8,White Non-Hispanic,04000US02,Alaska,2017,2017,81838,2518,alaska
 8,White Non-Hispanic,04000US04,Arizona,2017,2017,62391,625,arizona
@@ -872,6 +903,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 8,White Non-Hispanic,04000US08,Colorado,2017,2017,75285,911,colorado
 8,White Non-Hispanic,04000US09,Connecticut,2017,2017,85122,1635,connecticut
 8,White Non-Hispanic,04000US10,Delaware,2017,2017,69271,2182,delaware
+8,White Non-Hispanic,04000US11,District of Columbia,2017,2017,134358,6398,district-of-columbia
 8,White Non-Hispanic,04000US12,Florida,2017,2017,58110,560,florida
 8,White Non-Hispanic,04000US13,Georgia,2017,2017,65420,729,georgia
 8,White Non-Hispanic,04000US15,Hawaii,2017,2017,77472,3394,hawaii
@@ -914,6 +946,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 8,White Non-Hispanic,04000US54,West Virginia,2017,2017,44536,1362,west-virginia
 8,White Non-Hispanic,04000US55,Wisconsin,2017,2017,62286,398,wisconsin
 8,White Non-Hispanic,04000US56,Wyoming,2017,2017,61439,1838,wyoming
+8,White Non-Hispanic,04000US72,Puerto Rico,2017,2017,33963,14480,puerto-rico
 9,Hispanic,04000US01,Alabama,2017,2017,37578,4151,alabama
 9,Hispanic,04000US02,Alaska,2017,2017,63954,7966,alaska
 9,Hispanic,04000US04,Arizona,2017,2017,46900,861,arizona
@@ -922,6 +955,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 9,Hispanic,04000US08,Colorado,2017,2017,51550,1276,colorado
 9,Hispanic,04000US09,Connecticut,2017,2017,46324,2163,connecticut
 9,Hispanic,04000US10,Delaware,2017,2017,47160,8294,delaware
+9,Hispanic,04000US11,District of Columbia,2017,2017,84728,6874,district-of-columbia
 9,Hispanic,04000US12,Florida,2017,2017,47257,746,florida
 9,Hispanic,04000US13,Georgia,2017,2017,46144,1795,georgia
 9,Hispanic,04000US15,Hawaii,2017,2017,72888,7549,hawaii
@@ -964,6 +998,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 9,Hispanic,04000US54,West Virginia,2017,2017,49605,9000,west-virginia
 9,Hispanic,04000US55,Wisconsin,2017,2017,42861,2105,wisconsin
 9,Hispanic,04000US56,Wyoming,2017,2017,51568,7249,wyoming
+9,Hispanic,04000US72,Puerto Rico,2017,2017,19273,412,puerto-rico
 0,Total,04000US01,Alabama,2016,2016,46257,677,alabama
 0,Total,04000US02,Alaska,2016,2016,76440,2230,alaska
 0,Total,04000US04,Arizona,2016,2016,53558,634,arizona
@@ -972,6 +1007,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 0,Total,04000US08,Colorado,2016,2016,65685,636,colorado
 0,Total,04000US09,Connecticut,2016,2016,73433,1059,connecticut
 0,Total,04000US10,Delaware,2016,2016,61757,1492,delaware
+0,Total,04000US11,District of Columbia,2016,2016,75506,3416,district-of-columbia
 0,Total,04000US12,Florida,2016,2016,50860,241,florida
 0,Total,04000US13,Georgia,2016,2016,53559,710,georgia
 0,Total,04000US15,Hawaii,2016,2016,74511,1776,hawaii
@@ -983,7 +1019,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 0,Total,04000US21,Kentucky,2016,2016,46659,600,kentucky
 0,Total,04000US22,Louisiana,2016,2016,45146,776,louisiana
 0,Total,04000US23,Maine,2016,2016,53079,1379,maine
-0,Total,04000US24,Maryland,2016,2016,77226,737,maryland
+0,Total,04000US24,Maryland,2016,2016,78945,737,maryland
 0,Total,04000US25,Massachusetts,2016,2016,75297,771,massachusetts
 0,Total,04000US26,Michigan,2016,2016,52492,402,michigan
 0,Total,04000US27,Minnesota,2016,2016,65599,606,minnesota
@@ -1014,6 +1050,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 0,Total,04000US54,West Virginia,2016,2016,43385,1112,west-virginia
 0,Total,04000US55,Wisconsin,2016,2016,56811,549,wisconsin
 0,Total,04000US56,Wyoming,2016,2016,59882,2214,wyoming
+0,Total,04000US72,Puerto Rico,2016,2016,20078,354,puerto-rico
 1,White,04000US01,Alabama,2016,2016,52104,576,alabama
 1,White,04000US02,Alaska,2016,2016,82684,1952,alaska
 1,White,04000US04,Arizona,2016,2016,56051,593,arizona
@@ -1022,6 +1059,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 1,White,04000US08,Colorado,2016,2016,67825,899,colorado
 1,White,04000US09,Connecticut,2016,2016,80474,980,connecticut
 1,White,04000US10,Delaware,2016,2016,66664,1782,delaware
+1,White,04000US11,District of Columbia,2016,2016,125747,5102,district-of-columbia
 1,White,04000US12,Florida,2016,2016,53072,426,florida
 1,White,04000US13,Georgia,2016,2016,61005,601,georgia
 1,White,04000US15,Hawaii,2016,2016,75327,3683,hawaii
@@ -1064,6 +1102,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 1,White,04000US54,West Virginia,2016,2016,43847,1179,west-virginia
 1,White,04000US55,Wisconsin,2016,2016,59512,679,wisconsin
 1,White,04000US56,Wyoming,2016,2016,60108,2202,wyoming
+1,White,04000US72,Puerto Rico,2016,2016,21244,447,puerto-rico
 2,Black,04000US01,Alabama,2016,2016,31617,800,alabama
 2,Black,04000US02,Alaska,2016,2016,60363,17330,alaska
 2,Black,04000US04,Arizona,2016,2016,41842,1932,arizona
@@ -1072,6 +1111,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 2,Black,04000US08,Colorado,2016,2016,48058,2372,colorado
 2,Black,04000US09,Connecticut,2016,2016,43236,2426,connecticut
 2,Black,04000US10,Delaware,2016,2016,44663,4161,delaware
+2,Black,04000US11,District of Columbia,2016,2016,37891,3438,district-of-columbia
 2,Black,04000US12,Florida,2016,2016,37553,670,florida
 2,Black,04000US13,Georgia,2016,2016,41337,542,georgia
 2,Black,04000US15,Hawaii,2016,2016,71858,10093,hawaii
@@ -1114,6 +1154,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 2,Black,04000US54,West Virginia,2016,2016,32850,3878,west-virginia
 2,Black,04000US55,Wisconsin,2016,2016,28276,1694,wisconsin
 2,Black,04000US56,Wyoming,2016,2016,60320,26069,wyoming
+2,Black,04000US72,Puerto Rico,2016,2016,18185,1182,puerto-rico
 3,Native American,04000US01,Alabama,2016,2016,50116,9277,alabama
 3,Native American,04000US02,Alaska,2016,2016,47824,4941,alaska
 3,Native American,04000US04,Arizona,2016,2016,34813,2223,arizona
@@ -1161,6 +1202,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 3,Native American,04000US54,West Virginia,2016,2016,18406,10029,west-virginia
 3,Native American,04000US55,Wisconsin,2016,2016,39687,3183,wisconsin
 3,Native American,04000US56,Wyoming,2016,2016,40414,5420,wyoming
+3,Native American,04000US72,Puerto Rico,2016,2016,22917,8995,puerto-rico
 4,Asian,04000US01,Alabama,2016,2016,61413,8063,alabama
 4,Asian,04000US02,Alaska,2016,2016,79048,11411,alaska
 4,Asian,04000US04,Arizona,2016,2016,69816,3458,arizona
@@ -1169,6 +1211,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 4,Asian,04000US08,Colorado,2016,2016,70370,5253,colorado
 4,Asian,04000US09,Connecticut,2016,2016,89946,7513,connecticut
 4,Asian,04000US10,Delaware,2016,2016,84307,10585,delaware
+4,Asian,04000US11,District of Columbia,2016,2016,99385,11697,district-of-columbia
 4,Asian,04000US12,Florida,2016,2016,67059,2747,florida
 4,Asian,04000US13,Georgia,2016,2016,75632,5167,georgia
 4,Asian,04000US15,Hawaii,2016,2016,78800,2604,hawaii
@@ -1211,6 +1254,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 4,Asian,04000US54,West Virginia,2016,2016,60071,8909,west-virginia
 4,Asian,04000US55,Wisconsin,2016,2016,68327,5549,wisconsin
 4,Asian,04000US56,Wyoming,2016,2016,80229,30325,wyoming
+4,Asian,04000US72,Puerto Rico,2016,2016,33385,16962,puerto-rico
 5,Pacific Islander,04000US01,Alabama,2016,2016,26320,1045,alabama
 5,Pacific Islander,04000US02,Alaska,2016,2016,63465,33118,alaska
 5,Pacific Islander,04000US04,Arizona,2016,2016,54875,16841,arizona
@@ -1247,6 +1291,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 6,Other,04000US08,Colorado,2016,2016,48463,3752,colorado
 6,Other,04000US09,Connecticut,2016,2016,42463,4017,connecticut
 6,Other,04000US10,Delaware,2016,2016,35409,32475,delaware
+6,Other,04000US11,District of Columbia,2016,2016,49897,8951,district-of-columbia
 6,Other,04000US12,Florida,2016,2016,41865,1679,florida
 6,Other,04000US13,Georgia,2016,2016,41354,3348,georgia
 6,Other,04000US15,Hawaii,2016,2016,49929,18458,hawaii
@@ -1288,6 +1333,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 6,Other,04000US54,West Virginia,2016,2016,30750,27675,west-virginia
 6,Other,04000US55,Wisconsin,2016,2016,41046,7743,wisconsin
 6,Other,04000US56,Wyoming,2016,2016,24373,21564,wyoming
+6,Other,04000US72,Puerto Rico,2016,2016,16866,772,puerto-rico
 7,Two Or More,04000US01,Alabama,2016,2016,44843,9066,alabama
 7,Two Or More,04000US02,Alaska,2016,2016,62811,4913,alaska
 7,Two Or More,04000US04,Arizona,2016,2016,51405,5108,arizona
@@ -1296,6 +1342,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 7,Two Or More,04000US08,Colorado,2016,2016,58131,4585,colorado
 7,Two Or More,04000US09,Connecticut,2016,2016,53715,8291,connecticut
 7,Two Or More,04000US10,Delaware,2016,2016,40099,17311,delaware
+7,Two Or More,04000US11,District of Columbia,2016,2016,81848,20039,district-of-columbia
 7,Two Or More,04000US12,Florida,2016,2016,47221,2070,florida
 7,Two Or More,04000US13,Georgia,2016,2016,57396,5011,georgia
 7,Two Or More,04000US15,Hawaii,2016,2016,79175,5015,hawaii
@@ -1338,6 +1385,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 7,Two Or More,04000US54,West Virginia,2016,2016,34882,8306,west-virginia
 7,Two Or More,04000US55,Wisconsin,2016,2016,45354,7143,wisconsin
 7,Two Or More,04000US56,Wyoming,2016,2016,63712,15265,wyoming
+7,Two Or More,04000US72,Puerto Rico,2016,2016,20141,1865,puerto-rico
 8,White Non-Hispanic,04000US01,Alabama,2016,2016,52312,630,alabama
 8,White Non-Hispanic,04000US02,Alaska,2016,2016,83106,2124,alaska
 8,White Non-Hispanic,04000US04,Arizona,2016,2016,59495,789,arizona
@@ -1346,6 +1394,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 8,White Non-Hispanic,04000US08,Colorado,2016,2016,71406,623,colorado
 8,White Non-Hispanic,04000US09,Connecticut,2016,2016,84030,1309,connecticut
 8,White Non-Hispanic,04000US10,Delaware,2016,2016,68591,1908,delaware
+8,White Non-Hispanic,04000US11,District of Columbia,2016,2016,127369,7679,district-of-columbia
 8,White Non-Hispanic,04000US12,Florida,2016,2016,55877,444,florida
 8,White Non-Hispanic,04000US13,Georgia,2016,2016,62023,674,georgia
 8,White Non-Hispanic,04000US15,Hawaii,2016,2016,75265,3980,hawaii
@@ -1388,6 +1437,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 8,White Non-Hispanic,04000US54,West Virginia,2016,2016,43849,1183,west-virginia
 8,White Non-Hispanic,04000US55,Wisconsin,2016,2016,60087,569,wisconsin
 8,White Non-Hispanic,04000US56,Wyoming,2016,2016,60917,2054,wyoming
+8,White Non-Hispanic,04000US72,Puerto Rico,2016,2016,31751,5997,puerto-rico
 9,Hispanic,04000US01,Alabama,2016,2016,40236,4999,alabama
 9,Hispanic,04000US02,Alaska,2016,2016,64200,11210,alaska
 9,Hispanic,04000US04,Arizona,2016,2016,43657,1198,arizona
@@ -1396,6 +1446,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 9,Hispanic,04000US08,Colorado,2016,2016,49201,1815,colorado
 9,Hispanic,04000US09,Connecticut,2016,2016,46808,1436,connecticut
 9,Hispanic,04000US10,Delaware,2016,2016,47478,7837,delaware
+9,Hispanic,04000US11,District of Columbia,2016,2016,64930,4855,district-of-columbia
 9,Hispanic,04000US12,Florida,2016,2016,44042,1013,florida
 9,Hispanic,04000US13,Georgia,2016,2016,46389,1649,georgia
 9,Hispanic,04000US15,Hawaii,2016,2016,62018,5456,hawaii
@@ -1438,6 +1489,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 9,Hispanic,04000US54,West Virginia,2016,2016,38362,10282,west-virginia
 9,Hispanic,04000US55,Wisconsin,2016,2016,42323,2791,wisconsin
 9,Hispanic,04000US56,Wyoming,2016,2016,46271,5331,wyoming
+9,Hispanic,04000US72,Puerto Rico,2016,2016,19977,345,puerto-rico
 0,Total,04000US01,Alabama,2015,2015,44765,744,alabama
 0,Total,04000US02,Alaska,2015,2015,73355,2316,alaska
 0,Total,04000US04,Arizona,2015,2015,51492,431,arizona
@@ -1446,6 +1498,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 0,Total,04000US08,Colorado,2015,2015,63909,891,colorado
 0,Total,04000US09,Connecticut,2015,2015,71346,783,connecticut
 0,Total,04000US10,Delaware,2015,2015,61255,1281,delaware
+0,Total,04000US11,District of Columbia,2015,2015,75628,2493,district-of-columbia
 0,Total,04000US12,Florida,2015,2015,49426,331,florida
 0,Total,04000US13,Georgia,2015,2015,51244,372,georgia
 0,Total,04000US15,Hawaii,2015,2015,73486,2012,hawaii
@@ -1457,7 +1510,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 0,Total,04000US21,Kentucky,2015,2015,45215,470,kentucky
 0,Total,04000US22,Louisiana,2015,2015,45727,670,louisiana
 0,Total,04000US23,Maine,2015,2015,51494,854,maine
-0,Total,04000US24,Maryland,2015,2015,75738,591,maryland
+0,Total,04000US24,Maryland,2015,2015,75847,591,maryland
 0,Total,04000US25,Massachusetts,2015,2015,70628,620,massachusetts
 0,Total,04000US26,Michigan,2015,2015,51084,244,michigan
 0,Total,04000US27,Minnesota,2015,2015,63488,669,minnesota
@@ -1488,6 +1541,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 0,Total,04000US54,West Virginia,2015,2015,42019,793,west-virginia
 0,Total,04000US55,Wisconsin,2015,2015,55638,427,wisconsin
 0,Total,04000US56,Wyoming,2015,2015,60214,1582,wyoming
+0,Total,04000US72,Puerto Rico,2015,2015,18626,332,puerto-rico
 1,White,04000US01,Alabama,2015,2015,51401,639,alabama
 1,White,04000US02,Alaska,2015,2015,81159,2437,alaska
 1,White,04000US04,Arizona,2015,2015,53701,732,arizona
@@ -1496,6 +1550,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 1,White,04000US08,Colorado,2015,2015,66004,627,colorado
 1,White,04000US09,Connecticut,2015,2015,77506,1317,connecticut
 1,White,04000US10,Delaware,2015,2015,63708,2234,delaware
+1,White,04000US11,District of Columbia,2015,2015,120405,3758,district-of-columbia
 1,White,04000US12,Florida,2015,2015,51597,246,florida
 1,White,04000US13,Georgia,2015,2015,58791,852,georgia
 1,White,04000US15,Hawaii,2015,2015,71548,1998,hawaii
@@ -1538,6 +1593,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 1,White,04000US54,West Virginia,2015,2015,42337,878,west-virginia
 1,White,04000US55,Wisconsin,2015,2015,58232,589,wisconsin
 1,White,04000US56,Wyoming,2015,2015,60825,1386,wyoming
+1,White,04000US72,Puerto Rico,2015,2015,19642,474,puerto-rico
 2,Black,04000US01,Alabama,2015,2015,29854,982,alabama
 2,Black,04000US02,Alaska,2015,2015,52562,4837,alaska
 2,Black,04000US04,Arizona,2015,2015,39771,2316,arizona
@@ -1546,6 +1602,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 2,Black,04000US08,Colorado,2015,2015,45793,3845,colorado
 2,Black,04000US09,Connecticut,2015,2015,44418,2534,connecticut
 2,Black,04000US10,Delaware,2015,2015,47189,4610,delaware
+2,Black,04000US11,District of Columbia,2015,2015,41522,1738,district-of-columbia
 2,Black,04000US12,Florida,2015,2015,35936,595,florida
 2,Black,04000US13,Georgia,2015,2015,37855,1008,georgia
 2,Black,04000US15,Hawaii,2015,2015,69448,20094,hawaii
@@ -1588,6 +1645,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 2,Black,04000US54,West Virginia,2015,2015,31740,5495,west-virginia
 2,Black,04000US55,Wisconsin,2015,2015,29223,1589,wisconsin
 2,Black,04000US56,Wyoming,2015,2015,41471,10594,wyoming
+2,Black,04000US72,Puerto Rico,2015,2015,18045,1185,puerto-rico
 3,Native American,04000US01,Alabama,2015,2015,52884,15123,alabama
 3,Native American,04000US02,Alaska,2015,2015,45090,3425,alaska
 3,Native American,04000US04,Arizona,2015,2015,33700,2988,arizona
@@ -1638,6 +1696,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 3,Native American,04000US54,West Virginia,2015,2015,41432,32428,west-virginia
 3,Native American,04000US55,Wisconsin,2015,2015,32727,2876,wisconsin
 3,Native American,04000US56,Wyoming,2015,2015,47614,11640,wyoming
+3,Native American,04000US72,Puerto Rico,2015,2015,19668,5022,puerto-rico
 4,Asian,04000US01,Alabama,2015,2015,51846,3992,alabama
 4,Asian,04000US02,Alaska,2015,2015,67405,6854,alaska
 4,Asian,04000US04,Arizona,2015,2015,70456,4626,arizona
@@ -1646,6 +1705,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 4,Asian,04000US08,Colorado,2015,2015,70487,4935,colorado
 4,Asian,04000US09,Connecticut,2015,2015,90894,4848,connecticut
 4,Asian,04000US10,Delaware,2015,2015,100236,10444,delaware
+4,Asian,04000US11,District of Columbia,2015,2015,93877,18408,district-of-columbia
 4,Asian,04000US12,Florida,2015,2015,62794,2822,florida
 4,Asian,04000US13,Georgia,2015,2015,72924,3504,georgia
 4,Asian,04000US15,Hawaii,2015,2015,76164,2518,hawaii
@@ -1688,6 +1748,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 4,Asian,04000US54,West Virginia,2015,2015,76286,31181,west-virginia
 4,Asian,04000US55,Wisconsin,2015,2015,60474,5163,wisconsin
 4,Asian,04000US56,Wyoming,2015,2015,70453,42530,wyoming
+4,Asian,04000US72,Puerto Rico,2015,2015,14081,5291,puerto-rico
 5,Pacific Islander,04000US01,Alabama,2015,2015,50138,30552,alabama
 5,Pacific Islander,04000US02,Alaska,2015,2015,60263,50690,alaska
 5,Pacific Islander,04000US04,Arizona,2015,2015,58323,5202,arizona
@@ -1730,6 +1791,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 6,Other,04000US08,Colorado,2015,2015,46028,3466,colorado
 6,Other,04000US09,Connecticut,2015,2015,38642,4464,connecticut
 6,Other,04000US10,Delaware,2015,2015,38634,13471,delaware
+6,Other,04000US11,District of Columbia,2015,2015,52516,5197,district-of-columbia
 6,Other,04000US12,Florida,2015,2015,41544,1510,florida
 6,Other,04000US13,Georgia,2015,2015,37218,2757,georgia
 6,Other,04000US15,Hawaii,2015,2015,60448,14732,hawaii
@@ -1772,6 +1834,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 6,Other,04000US54,West Virginia,2015,2015,52451,12537,west-virginia
 6,Other,04000US55,Wisconsin,2015,2015,38348,4299,wisconsin
 6,Other,04000US56,Wyoming,2015,2015,43411,12008,wyoming
+6,Other,04000US72,Puerto Rico,2015,2015,15905,648,puerto-rico
 7,Two Or More,04000US01,Alabama,2015,2015,39211,3481,alabama
 7,Two Or More,04000US02,Alaska,2015,2015,66366,8919,alaska
 7,Two Or More,04000US04,Arizona,2015,2015,45422,3453,arizona
@@ -1780,6 +1843,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 7,Two Or More,04000US08,Colorado,2015,2015,60654,4524,colorado
 7,Two Or More,04000US09,Connecticut,2015,2015,52297,7504,connecticut
 7,Two Or More,04000US10,Delaware,2015,2015,54295,9485,delaware
+7,Two Or More,04000US11,District of Columbia,2015,2015,95987,30070,district-of-columbia
 7,Two Or More,04000US12,Florida,2015,2015,47540,2393,florida
 7,Two Or More,04000US13,Georgia,2015,2015,49279,3975,georgia
 7,Two Or More,04000US15,Hawaii,2015,2015,75733,2133,hawaii
@@ -1822,6 +1886,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 7,Two Or More,04000US54,West Virginia,2015,2015,30380,4521,west-virginia
 7,Two Or More,04000US55,Wisconsin,2015,2015,41310,2232,wisconsin
 7,Two Or More,04000US56,Wyoming,2015,2015,50175,12438,wyoming
+7,Two Or More,04000US72,Puerto Rico,2015,2015,20025,2316,puerto-rico
 8,White Non-Hispanic,04000US01,Alabama,2015,2015,51754,648,alabama
 8,White Non-Hispanic,04000US02,Alaska,2015,2015,81711,2349,alaska
 8,White Non-Hispanic,04000US04,Arizona,2015,2015,57485,689,arizona
@@ -1830,6 +1895,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 8,White Non-Hispanic,04000US08,Colorado,2015,2015,70332,613,colorado
 8,White Non-Hispanic,04000US09,Connecticut,2015,2015,81324,936,connecticut
 8,White Non-Hispanic,04000US10,Delaware,2015,2015,65267,1723,delaware
+8,White Non-Hispanic,04000US11,District of Columbia,2015,2015,124801,5111,district-of-columbia
 8,White Non-Hispanic,04000US12,Florida,2015,2015,54626,508,florida
 8,White Non-Hispanic,04000US13,Georgia,2015,2015,60125,563,georgia
 8,White Non-Hispanic,04000US15,Hawaii,2015,2015,74197,4041,hawaii
@@ -1872,6 +1938,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 8,White Non-Hispanic,04000US54,West Virginia,2015,2015,42349,913,west-virginia
 8,White Non-Hispanic,04000US55,Wisconsin,2015,2015,59056,577,wisconsin
 8,White Non-Hispanic,04000US56,Wyoming,2015,2015,61683,1637,wyoming
+8,White Non-Hispanic,04000US72,Puerto Rico,2015,2015,25572,5682,puerto-rico
 9,Hispanic,04000US01,Alabama,2015,2015,36162,5546,alabama
 9,Hispanic,04000US02,Alaska,2015,2015,63937,9506,alaska
 9,Hispanic,04000US04,Arizona,2015,2015,40643,729,arizona
@@ -1880,6 +1947,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 9,Hispanic,04000US08,Colorado,2015,2015,46041,1274,colorado
 9,Hispanic,04000US09,Connecticut,2015,2015,42731,2595,connecticut
 9,Hispanic,04000US10,Delaware,2015,2015,45277,7732,delaware
+9,Hispanic,04000US11,District of Columbia,2015,2015,65973,14735,district-of-columbia
 9,Hispanic,04000US12,Florida,2015,2015,41776,463,florida
 9,Hispanic,04000US13,Georgia,2015,2015,41252,1356,georgia
 9,Hispanic,04000US15,Hawaii,2015,2015,60320,6604,hawaii
@@ -1922,6 +1990,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 9,Hispanic,04000US54,West Virginia,2015,2015,42289,7590,west-virginia
 9,Hispanic,04000US55,Wisconsin,2015,2015,41280,1656,wisconsin
 9,Hispanic,04000US56,Wyoming,2015,2015,46370,7769,wyoming
+9,Hispanic,04000US72,Puerto Rico,2015,2015,18570,327,puerto-rico
 0,Total,04000US01,Alabama,2014,2014,42830,598,alabama
 0,Total,04000US02,Alaska,2014,2014,71583,1784,alaska
 0,Total,04000US04,Arizona,2014,2014,50068,483,arizona
@@ -1930,6 +1999,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 0,Total,04000US08,Colorado,2014,2014,61303,487,colorado
 0,Total,04000US09,Connecticut,2014,2014,70048,828,connecticut
 0,Total,04000US10,Delaware,2014,2014,59716,1674,delaware
+0,Total,04000US11,District of Columbia,2014,2014,71648,1996,district-of-columbia
 0,Total,04000US12,Florida,2014,2014,47463,329,florida
 0,Total,04000US13,Georgia,2014,2014,49321,543,georgia
 0,Total,04000US15,Hawaii,2014,2014,69592,1456,hawaii
@@ -1941,7 +2011,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 0,Total,04000US21,Kentucky,2014,2014,42958,697,kentucky
 0,Total,04000US22,Louisiana,2014,2014,44555,738,louisiana
 0,Total,04000US23,Maine,2014,2014,49462,1112,maine
-0,Total,04000US24,Maryland,2014,2014,72810,867,maryland
+0,Total,04000US24,Maryland,2014,2014,73971,867,maryland
 0,Total,04000US25,Massachusetts,2014,2014,69160,957,massachusetts
 0,Total,04000US26,Michigan,2014,2014,49847,385,michigan
 0,Total,04000US27,Minnesota,2014,2014,61481,471,minnesota
@@ -1972,6 +2042,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 0,Total,04000US54,West Virginia,2014,2014,41059,651,west-virginia
 0,Total,04000US55,Wisconsin,2014,2014,52622,433,wisconsin
 0,Total,04000US56,Wyoming,2014,2014,57055,1983,wyoming
+0,Total,04000US72,Puerto Rico,2014,2014,18928,367,puerto-rico
 1,White,04000US01,Alabama,2014,2014,49652,722,alabama
 1,White,04000US02,Alaska,2014,2014,79626,3213,alaska
 1,White,04000US04,Arizona,2014,2014,51629,448,arizona
@@ -1980,6 +2051,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 1,White,04000US08,Colorado,2014,2014,63790,853,colorado
 1,White,04000US09,Connecticut,2014,2014,76008,864,connecticut
 1,White,04000US10,Delaware,2014,2014,64388,2387,delaware
+1,White,04000US11,District of Columbia,2014,2014,114747,5103,district-of-columbia
 1,White,04000US12,Florida,2014,2014,50336,302,florida
 1,White,04000US13,Georgia,2014,2014,56315,583,georgia
 1,White,04000US15,Hawaii,2014,2014,68415,3263,hawaii
@@ -2022,6 +2094,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 1,White,04000US54,West Virginia,2014,2014,41686,677,west-virginia
 1,White,04000US55,Wisconsin,2014,2014,55619,413,wisconsin
 1,White,04000US56,Wyoming,2014,2014,58875,2546,wyoming
+1,White,04000US72,Puerto Rico,2014,2014,19422,514,puerto-rico
 2,Black,04000US01,Alabama,2014,2014,28622,873,alabama
 2,Black,04000US02,Alaska,2014,2014,47226,14725,alaska
 2,Black,04000US04,Arizona,2014,2014,40064,2108,arizona
@@ -2030,6 +2103,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 2,Black,04000US08,Colorado,2014,2014,41763,2462,colorado
 2,Black,04000US09,Connecticut,2014,2014,45002,3991,connecticut
 2,Black,04000US10,Delaware,2014,2014,45264,2799,delaware
+2,Black,04000US11,District of Columbia,2014,2014,40739,1796,district-of-columbia
 2,Black,04000US12,Florida,2014,2014,34563,782,florida
 2,Black,04000US13,Georgia,2014,2014,36521,603,georgia
 2,Black,04000US15,Hawaii,2014,2014,66343,10611,hawaii
@@ -2071,6 +2145,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 2,Black,04000US53,Washington,2014,2014,43296,3861,washington
 2,Black,04000US54,West Virginia,2014,2014,30044,3291,west-virginia
 2,Black,04000US55,Wisconsin,2014,2014,26053,1345,wisconsin
+2,Black,04000US72,Puerto Rico,2014,2014,19227,1007,puerto-rico
 3,Native American,04000US01,Alabama,2014,2014,44340,9968,alabama
 3,Native American,04000US02,Alaska,2014,2014,48721,2675,alaska
 3,Native American,04000US04,Arizona,2014,2014,30293,2870,arizona
@@ -2121,6 +2196,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 3,Native American,04000US54,West Virginia,2014,2014,20484,12281,west-virginia
 3,Native American,04000US55,Wisconsin,2014,2014,35504,4355,wisconsin
 3,Native American,04000US56,Wyoming,2014,2014,45020,26441,wyoming
+3,Native American,04000US72,Puerto Rico,2014,2014,20226,5990,puerto-rico
 4,Asian,04000US01,Alabama,2014,2014,54577,10988,alabama
 4,Asian,04000US02,Alaska,2014,2014,62348,10544,alaska
 4,Asian,04000US04,Arizona,2014,2014,63943,3939,arizona
@@ -2129,6 +2205,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 4,Asian,04000US08,Colorado,2014,2014,60000,4901,colorado
 4,Asian,04000US09,Connecticut,2014,2014,88529,5945,connecticut
 4,Asian,04000US10,Delaware,2014,2014,85172,16208,delaware
+4,Asian,04000US11,District of Columbia,2014,2014,84466,19755,district-of-columbia
 4,Asian,04000US12,Florida,2014,2014,57814,4349,florida
 4,Asian,04000US13,Georgia,2014,2014,67044,4222,georgia
 4,Asian,04000US15,Hawaii,2014,2014,74723,2049,hawaii
@@ -2171,6 +2248,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 4,Asian,04000US54,West Virginia,2014,2014,38666,15845,west-virginia
 4,Asian,04000US55,Wisconsin,2014,2014,50264,5679,wisconsin
 4,Asian,04000US56,Wyoming,2014,2014,46579,14966,wyoming
+4,Asian,04000US72,Puerto Rico,2014,2014,14991,2323,puerto-rico
 5,Pacific Islander,04000US01,Alabama,2014,2014,165733,118366,alabama
 5,Pacific Islander,04000US02,Alaska,2014,2014,40227,19002,alaska
 5,Pacific Islander,04000US04,Arizona,2014,2014,37113,16187,arizona
@@ -2212,6 +2290,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 6,Other,04000US08,Colorado,2014,2014,40278,4092,colorado
 6,Other,04000US09,Connecticut,2014,2014,34444,4321,connecticut
 6,Other,04000US10,Delaware,2014,2014,40843,6203,delaware
+6,Other,04000US11,District of Columbia,2014,2014,48019,8090,district-of-columbia
 6,Other,04000US12,Florida,2014,2014,39652,2343,florida
 6,Other,04000US13,Georgia,2014,2014,37174,3334,georgia
 6,Other,04000US15,Hawaii,2014,2014,47059,3509,hawaii
@@ -2253,6 +2332,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 6,Other,04000US54,West Virginia,2014,2014,22077,21111,west-virginia
 6,Other,04000US55,Wisconsin,2014,2014,34564,2610,wisconsin
 6,Other,04000US56,Wyoming,2014,2014,32398,18722,wyoming
+6,Other,04000US72,Puerto Rico,2014,2014,16231,717,puerto-rico
 7,Two Or More,04000US01,Alabama,2014,2014,37563,5758,alabama
 7,Two Or More,04000US02,Alaska,2014,2014,63909,5767,alaska
 7,Two Or More,04000US04,Arizona,2014,2014,48202,3193,arizona
@@ -2261,6 +2341,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 7,Two Or More,04000US08,Colorado,2014,2014,50134,2795,colorado
 7,Two Or More,04000US09,Connecticut,2014,2014,52546,6666,connecticut
 7,Two Or More,04000US10,Delaware,2014,2014,49267,5721,delaware
+7,Two Or More,04000US11,District of Columbia,2014,2014,72691,27195,district-of-columbia
 7,Two Or More,04000US12,Florida,2014,2014,42670,2007,florida
 7,Two Or More,04000US13,Georgia,2014,2014,45775,4444,georgia
 7,Two Or More,04000US15,Hawaii,2014,2014,69801,3252,hawaii
@@ -2303,6 +2384,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 7,Two Or More,04000US54,West Virginia,2014,2014,32967,10351,west-virginia
 7,Two Or More,04000US55,Wisconsin,2014,2014,41193,4053,wisconsin
 7,Two Or More,04000US56,Wyoming,2014,2014,29451,15606,wyoming
+7,Two Or More,04000US72,Puerto Rico,2014,2014,20092,1233,puerto-rico
 8,White Non-Hispanic,04000US01,Alabama,2014,2014,50076,594,alabama
 8,White Non-Hispanic,04000US02,Alaska,2014,2014,80656,2297,alaska
 8,White Non-Hispanic,04000US04,Arizona,2014,2014,55321,662,arizona
@@ -2311,6 +2393,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 8,White Non-Hispanic,04000US08,Colorado,2014,2014,67360,772,colorado
 8,White Non-Hispanic,04000US09,Connecticut,2014,2014,78959,1453,connecticut
 8,White Non-Hispanic,04000US10,Delaware,2014,2014,65361,1815,delaware
+8,White Non-Hispanic,04000US11,District of Columbia,2014,2014,117134,4932,district-of-columbia
 8,White Non-Hispanic,04000US12,Florida,2014,2014,52321,336,florida
 8,White Non-Hispanic,04000US13,Georgia,2014,2014,57555,763,georgia
 8,White Non-Hispanic,04000US15,Hawaii,2014,2014,70259,2593,hawaii
@@ -2353,6 +2436,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 8,White Non-Hispanic,04000US54,West Virginia,2014,2014,41673,673,west-virginia
 8,White Non-Hispanic,04000US55,Wisconsin,2014,2014,56083,410,wisconsin
 8,White Non-Hispanic,04000US56,Wyoming,2014,2014,60360,1647,wyoming
+8,White Non-Hispanic,04000US72,Puerto Rico,2014,2014,27995,9478,puerto-rico
 9,Hispanic,04000US01,Alabama,2014,2014,31664,2519,alabama
 9,Hispanic,04000US02,Alaska,2014,2014,54996,9276,alaska
 9,Hispanic,04000US04,Arizona,2014,2014,39180,1080,arizona
@@ -2361,6 +2445,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 9,Hispanic,04000US08,Colorado,2014,2014,44174,1575,colorado
 9,Hispanic,04000US09,Connecticut,2014,2014,39148,2365,connecticut
 9,Hispanic,04000US10,Delaware,2014,2014,50525,2696,delaware
+9,Hispanic,04000US11,District of Columbia,2014,2014,63065,13111,district-of-columbia
 9,Hispanic,04000US12,Florida,2014,2014,40903,509,florida
 9,Hispanic,04000US13,Georgia,2014,2014,39492,1985,georgia
 9,Hispanic,04000US15,Hawaii,2014,2014,58683,6111,hawaii
@@ -2403,6 +2488,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 9,Hispanic,04000US54,West Virginia,2014,2014,34907,12351,west-virginia
 9,Hispanic,04000US55,Wisconsin,2014,2014,37140,1535,wisconsin
 9,Hispanic,04000US56,Wyoming,2014,2014,43002,2923,wyoming
+9,Hispanic,04000US72,Puerto Rico,2014,2014,18862,364,puerto-rico
 0,Total,04000US01,Alabama,2013,2013,42849,641,alabama
 0,Total,04000US02,Alaska,2013,2013,72237,1892,alaska
 0,Total,04000US04,Arizona,2013,2013,48510,587,arizona
@@ -2411,6 +2497,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 0,Total,04000US08,Colorado,2013,2013,58823,808,colorado
 0,Total,04000US09,Connecticut,2013,2013,67098,1058,connecticut
 0,Total,04000US10,Delaware,2013,2013,57846,1876,delaware
+0,Total,04000US11,District of Columbia,2013,2013,67572,3383,district-of-columbia
 0,Total,04000US12,Florida,2013,2013,46036,310,florida
 0,Total,04000US13,Georgia,2013,2013,47829,628,georgia
 0,Total,04000US15,Hawaii,2013,2013,68020,1523,hawaii
@@ -2422,7 +2509,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 0,Total,04000US21,Kentucky,2013,2013,43399,650,kentucky
 0,Total,04000US22,Louisiana,2013,2013,44164,869,louisiana
 0,Total,04000US23,Maine,2013,2013,46974,797,maine
-0,Total,04000US24,Maryland,2013,2013,70028,718,maryland
+0,Total,04000US24,Maryland,2013,2013,72483,718,maryland
 0,Total,04000US25,Massachusetts,2013,2013,66768,715,massachusetts
 0,Total,04000US26,Michigan,2013,2013,48273,378,michigan
 0,Total,04000US27,Minnesota,2013,2013,60702,432,minnesota
@@ -2453,6 +2540,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 0,Total,04000US54,West Virginia,2013,2013,41253,746,west-virginia
 0,Total,04000US55,Wisconsin,2013,2013,51467,370,wisconsin
 0,Total,04000US56,Wyoming,2013,2013,58752,1796,wyoming
+0,Total,04000US72,Puerto Rico,2013,2013,19183,313,puerto-rico
 1,White,04000US01,Alabama,2013,2013,49465,726,alabama
 1,White,04000US02,Alaska,2013,2013,79102,2827,alaska
 1,White,04000US04,Arizona,2013,2013,50487,437,arizona
@@ -2461,6 +2549,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 1,White,04000US08,Colorado,2013,2013,61067,488,colorado
 1,White,04000US09,Connecticut,2013,2013,73486,1287,connecticut
 1,White,04000US10,Delaware,2013,2013,61227,1582,delaware
+1,White,04000US11,District of Columbia,2013,2013,111886,4044,district-of-columbia
 1,White,04000US12,Florida,2013,2013,48794,478,florida
 1,White,04000US13,Georgia,2013,2013,54717,697,georgia
 1,White,04000US15,Hawaii,2013,2013,66794,2459,hawaii
@@ -2503,6 +2592,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 1,White,04000US54,West Virginia,2013,2013,41568,789,west-virginia
 1,White,04000US55,Wisconsin,2013,2013,53763,547,wisconsin
 1,White,04000US56,Wyoming,2013,2013,60110,1278,wyoming
+1,White,04000US72,Puerto Rico,2013,2013,19459,427,puerto-rico
 2,Black,04000US01,Alabama,2013,2013,29210,918,alabama
 2,Black,04000US02,Alaska,2013,2013,51780,13403,alaska
 2,Black,04000US04,Arizona,2013,2013,36528,1558,arizona
@@ -2511,6 +2601,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 2,Black,04000US08,Colorado,2013,2013,43145,2930,colorado
 2,Black,04000US09,Connecticut,2013,2013,41286,1913,connecticut
 2,Black,04000US10,Delaware,2013,2013,51995,3091,delaware
+2,Black,04000US11,District of Columbia,2013,2013,38124,3081,district-of-columbia
 2,Black,04000US12,Florida,2013,2013,32956,852,florida
 2,Black,04000US13,Georgia,2013,2013,35288,639,georgia
 2,Black,04000US15,Hawaii,2013,2013,66629,10904,hawaii
@@ -2553,6 +2644,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 2,Black,04000US54,West Virginia,2013,2013,30500,3872,west-virginia
 2,Black,04000US55,Wisconsin,2013,2013,26935,1122,wisconsin
 2,Black,04000US56,Wyoming,2013,2013,41432,20807,wyoming
+2,Black,04000US72,Puerto Rico,2013,2013,18463,1154,puerto-rico
 3,Native American,04000US01,Alabama,2013,2013,38333,7989,alabama
 3,Native American,04000US02,Alaska,2013,2013,40705,2128,alaska
 3,Native American,04000US04,Arizona,2013,2013,30582,1721,arizona
@@ -2561,6 +2653,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 3,Native American,04000US08,Colorado,2013,2013,35858,5521,colorado
 3,Native American,04000US09,Connecticut,2013,2013,65983,19915,connecticut
 3,Native American,04000US10,Delaware,2013,2013,34390,10120,delaware
+3,Native American,04000US11,District of Columbia,2013,2013,67373,40861,district-of-columbia
 3,Native American,04000US12,Florida,2013,2013,42095,8142,florida
 3,Native American,04000US13,Georgia,2013,2013,44849,6242,georgia
 3,Native American,04000US16,Idaho,2013,2013,38168,6979,idaho
@@ -2601,6 +2694,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 3,Native American,04000US54,West Virginia,2013,2013,24792,17064,west-virginia
 3,Native American,04000US55,Wisconsin,2013,2013,36711,6745,wisconsin
 3,Native American,04000US56,Wyoming,2013,2013,47356,11869,wyoming
+3,Native American,04000US72,Puerto Rico,2013,2013,17963,3365,puerto-rico
 4,Asian,04000US01,Alabama,2013,2013,58713,12396,alabama
 4,Asian,04000US02,Alaska,2013,2013,76126,11034,alaska
 4,Asian,04000US04,Arizona,2013,2013,65257,3789,arizona
@@ -2609,6 +2703,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 4,Asian,04000US08,Colorado,2013,2013,72315,5554,colorado
 4,Asian,04000US09,Connecticut,2013,2013,86018,4805,connecticut
 4,Asian,04000US10,Delaware,2013,2013,70868,10337,delaware
+4,Asian,04000US11,District of Columbia,2013,2013,63218,13881,district-of-columbia
 4,Asian,04000US12,Florida,2013,2013,60221,2505,florida
 4,Asian,04000US13,Georgia,2013,2013,63314,5067,georgia
 4,Asian,04000US15,Hawaii,2013,2013,73386,2371,hawaii
@@ -2651,6 +2746,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 4,Asian,04000US54,West Virginia,2013,2013,52938,9043,west-virginia
 4,Asian,04000US55,Wisconsin,2013,2013,60153,7734,wisconsin
 4,Asian,04000US56,Wyoming,2013,2013,24387,20073,wyoming
+4,Asian,04000US72,Puerto Rico,2013,2013,10089,3767,puerto-rico
 5,Pacific Islander,04000US01,Alabama,2013,2013,66077,51063,alabama
 5,Pacific Islander,04000US02,Alaska,2013,2013,49728,9799,alaska
 5,Pacific Islander,04000US04,Arizona,2013,2013,32482,11626,arizona
@@ -2694,6 +2790,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 6,Other,04000US08,Colorado,2013,2013,38821,3051,colorado
 6,Other,04000US09,Connecticut,2013,2013,33902,2270,connecticut
 6,Other,04000US10,Delaware,2013,2013,32260,7879,delaware
+6,Other,04000US11,District of Columbia,2013,2013,34991,15366,district-of-columbia
 6,Other,04000US12,Florida,2013,2013,40345,2318,florida
 6,Other,04000US13,Georgia,2013,2013,34643,2170,georgia
 6,Other,04000US15,Hawaii,2013,2013,48871,10164,hawaii
@@ -2734,6 +2831,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 6,Other,04000US54,West Virginia,2013,2013,50541,28034,west-virginia
 6,Other,04000US55,Wisconsin,2013,2013,32425,2747,wisconsin
 6,Other,04000US56,Wyoming,2013,2013,48505,11095,wyoming
+6,Other,04000US72,Puerto Rico,2013,2013,17437,781,puerto-rico
 7,Two Or More,04000US01,Alabama,2013,2013,40614,5941,alabama
 7,Two Or More,04000US02,Alaska,2013,2013,58086,7702,alaska
 7,Two Or More,04000US04,Arizona,2013,2013,49148,3425,arizona
@@ -2742,6 +2840,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 7,Two Or More,04000US08,Colorado,2013,2013,46131,4647,colorado
 7,Two Or More,04000US09,Connecticut,2013,2013,51086,5916,connecticut
 7,Two Or More,04000US10,Delaware,2013,2013,27023,11027,delaware
+7,Two Or More,04000US11,District of Columbia,2013,2013,89428,17339,district-of-columbia
 7,Two Or More,04000US12,Florida,2013,2013,41824,1854,florida
 7,Two Or More,04000US13,Georgia,2013,2013,49548,4815,georgia
 7,Two Or More,04000US15,Hawaii,2013,2013,65832,4634,hawaii
@@ -2784,6 +2883,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 7,Two Or More,04000US54,West Virginia,2013,2013,30883,5445,west-virginia
 7,Two Or More,04000US55,Wisconsin,2013,2013,36834,5682,wisconsin
 7,Two Or More,04000US56,Wyoming,2013,2013,48579,6918,wyoming
+7,Two Or More,04000US72,Puerto Rico,2013,2013,20447,1191,puerto-rico
 8,White Non-Hispanic,04000US01,Alabama,2013,2013,49799,722,alabama
 8,White Non-Hispanic,04000US02,Alaska,2013,2013,79483,2749,alaska
 8,White Non-Hispanic,04000US04,Arizona,2013,2013,53850,741,arizona
@@ -2792,6 +2892,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 8,White Non-Hispanic,04000US08,Colorado,2013,2013,64104,757,colorado
 8,White Non-Hispanic,04000US09,Connecticut,2013,2013,76593,1219,connecticut
 8,White Non-Hispanic,04000US10,Delaware,2013,2013,62067,1600,delaware
+8,White Non-Hispanic,04000US11,District of Columbia,2013,2013,118402,4912,district-of-columbia
 8,White Non-Hispanic,04000US12,Florida,2013,2013,51081,346,florida
 8,White Non-Hispanic,04000US13,Georgia,2013,2013,56264,632,georgia
 8,White Non-Hispanic,04000US15,Hawaii,2013,2013,68143,3027,hawaii
@@ -2834,6 +2935,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 8,White Non-Hispanic,04000US54,West Virginia,2013,2013,41528,793,west-virginia
 8,White Non-Hispanic,04000US55,Wisconsin,2013,2013,54626,556,wisconsin
 8,White Non-Hispanic,04000US56,Wyoming,2013,2013,60708,942,wyoming
+8,White Non-Hispanic,04000US72,Puerto Rico,2013,2013,30559,9237,puerto-rico
 9,Hispanic,04000US01,Alabama,2013,2013,34773,3355,alabama
 9,Hispanic,04000US02,Alaska,2013,2013,60521,14881,alaska
 9,Hispanic,04000US04,Arizona,2013,2013,37179,873,arizona
@@ -2842,6 +2944,7 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 9,Hispanic,04000US08,Colorado,2013,2013,40606,1376,colorado
 9,Hispanic,04000US09,Connecticut,2013,2013,37125,2170,connecticut
 9,Hispanic,04000US10,Delaware,2013,2013,37092,4195,delaware
+9,Hispanic,04000US11,District of Columbia,2013,2013,50861,7016,district-of-columbia
 9,Hispanic,04000US12,Florida,2013,2013,40420,572,florida
 9,Hispanic,04000US13,Georgia,2013,2013,36921,1163,georgia
 9,Hispanic,04000US15,Hawaii,2013,2013,59755,5448,hawaii
@@ -2884,3 +2987,4 @@ ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Inco
 9,Hispanic,04000US54,West Virginia,2013,2013,45498,10452,west-virginia
 9,Hispanic,04000US55,Wisconsin,2013,2013,33394,1994,wisconsin
 9,Hispanic,04000US56,Wyoming,2013,2013,44920,9102,wyoming
+9,Hispanic,04000US72,Puerto Rico,2013,2013,19128,308,puerto-rico
