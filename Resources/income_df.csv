@@ -1,0 +1,2990 @@
+ID Race,Race,ID State,State,ID Year,Year,Household Income by Race,Household Income by Race Moe,Slug State
+0,Total,04000US01,Alabama,2018,2018,49861,783,alabama
+0,Total,04000US02,Alaska,2018,2018,74346,2288,alaska
+0,Total,04000US04,Arizona,2018,2018,59246,732,arizona
+0,Total,04000US05,Arkansas,2018,2018,47062,713,arkansas
+0,Total,04000US06,California,2018,2018,75277,317,california
+0,Total,04000US08,Colorado,2018,2018,71953,655,colorado
+0,Total,04000US09,Connecticut,2018,2018,76348,921,connecticut
+0,Total,04000US10,Delaware,2018,2018,64805,1570,delaware
+0,Total,04000US11,District of Columbia,2018,2018,85203,3414,district-of-columbia
+0,Total,04000US12,Florida,2018,2018,55462,384,florida
+0,Total,04000US13,Georgia,2018,2018,58756,711,georgia
+0,Total,04000US15,Hawaii,2018,2018,80212,2020,hawaii
+0,Total,04000US16,Idaho,2018,2018,55583,915,idaho
+0,Total,04000US17,Illinois,2018,2018,65030,500,illinois
+0,Total,04000US18,Indiana,2018,2018,55746,522,indiana
+0,Total,04000US19,Iowa,2018,2018,59955,877,iowa
+0,Total,04000US20,Kansas,2018,2018,58218,773,kansas
+0,Total,04000US21,Kentucky,2018,2018,50247,567,kentucky
+0,Total,04000US22,Louisiana,2018,2018,47905,740,louisiana
+0,Total,04000US23,Maine,2018,2018,55602,1326,maine
+0,Total,04000US24,Maryland,2018,2018,83242,1022,maryland
+0,Total,04000US25,Massachusetts,2018,2018,79835,970,massachusetts
+0,Total,04000US26,Michigan,2018,2018,56697,406,michigan
+0,Total,04000US27,Minnesota,2018,2018,70315,539,minnesota
+0,Total,04000US28,Mississippi,2018,2018,44717,793,mississippi
+0,Total,04000US29,Missouri,2018,2018,54478,751,missouri
+0,Total,04000US30,Montana,2018,2018,55328,1172,montana
+0,Total,04000US31,Nebraska,2018,2018,59566,1072,nebraska
+0,Total,04000US32,Nevada,2018,2018,58646,1133,nevada
+0,Total,04000US33,New Hampshire,2018,2018,74991,1555,new-hampshire
+0,Total,04000US34,New Jersey,2018,2018,81740,687,new-jersey
+0,Total,04000US35,New Mexico,2018,2018,47169,900,new-mexico
+0,Total,04000US36,New York,2018,2018,67844,637,new-york
+0,Total,04000US37,North Carolina,2018,2018,53855,573,north-carolina
+0,Total,04000US38,North Dakota,2018,2018,63837,2324,north-dakota
+0,Total,04000US39,Ohio,2018,2018,56111,425,ohio
+0,Total,04000US40,Oklahoma,2018,2018,51924,450,oklahoma
+0,Total,04000US41,Oregon,2018,2018,63426,1056,oregon
+0,Total,04000US42,Pennsylvania,2018,2018,60905,315,pennsylvania
+0,Total,04000US44,Rhode Island,2018,2018,64340,2058,rhode-island
+0,Total,04000US45,South Carolina,2018,2018,52306,631,south-carolina
+0,Total,04000US46,South Dakota,2018,2018,56274,1454,south-dakota
+0,Total,04000US47,Tennessee,2018,2018,52375,489,tennessee
+0,Total,04000US48,Texas,2018,2018,60629,279,texas
+0,Total,04000US49,Utah,2018,2018,71414,741,utah
+0,Total,04000US50,Vermont,2018,2018,60782,1551,vermont
+0,Total,04000US51,Virginia,2018,2018,72577,686,virginia
+0,Total,04000US53,Washington,2018,2018,74073,697,washington
+0,Total,04000US54,West Virginia,2018,2018,44097,1016,west-virginia
+0,Total,04000US55,Wisconsin,2018,2018,60773,391,wisconsin
+0,Total,04000US56,Wyoming,2018,2018,61584,1401,wyoming
+0,Total,04000US72,Puerto Rico,2018,2018,20296,426,puerto-rico
+1,White,04000US01,Alabama,2018,2018,57661,1068,alabama
+1,White,04000US02,Alaska,2018,2018,82967,3279,alaska
+1,White,04000US04,Arizona,2018,2018,61080,492,arizona
+1,White,04000US05,Arkansas,2018,2018,50841,717,arkansas
+1,White,04000US06,California,2018,2018,77904,505,california
+1,White,04000US08,Colorado,2018,2018,74361,889,colorado
+1,White,04000US09,Connecticut,2018,2018,83337,1124,connecticut
+1,White,04000US10,Delaware,2018,2018,69698,1988,delaware
+1,White,04000US11,District of Columbia,2018,2018,136460,3359,district-of-columbia
+1,White,04000US12,Florida,2018,2018,59004,572,florida
+1,White,04000US13,Georgia,2018,2018,66421,732,georgia
+1,White,04000US15,Hawaii,2018,2018,79722,3517,hawaii
+1,White,04000US16,Idaho,2018,2018,56765,962,idaho
+1,White,04000US17,Illinois,2018,2018,70692,477,illinois
+1,White,04000US18,Indiana,2018,2018,59113,762,indiana
+1,White,04000US19,Iowa,2018,2018,61217,696,iowa
+1,White,04000US20,Kansas,2018,2018,60465,583,kansas
+1,White,04000US21,Kentucky,2018,2018,52021,579,kentucky
+1,White,04000US22,Louisiana,2018,2018,59240,1337,louisiana
+1,White,04000US23,Maine,2018,2018,55953,1375,maine
+1,White,04000US24,Maryland,2018,2018,92394,1179,maryland
+1,White,04000US25,Massachusetts,2018,2018,83090,1090,massachusetts
+1,White,04000US26,Michigan,2018,2018,61053,376,michigan
+1,White,04000US27,Minnesota,2018,2018,73027,775,minnesota
+1,White,04000US28,Mississippi,2018,2018,55609,1236,mississippi
+1,White,04000US29,Missouri,2018,2018,57684,835,missouri
+1,White,04000US30,Montana,2018,2018,56689,1147,montana
+1,White,04000US31,Nebraska,2018,2018,61457,870,nebraska
+1,White,04000US32,Nevada,2018,2018,63849,1796,nevada
+1,White,04000US33,New Hampshire,2018,2018,75653,1338,new-hampshire
+1,White,04000US34,New Jersey,2018,2018,87765,1313,new-jersey
+1,White,04000US35,New Mexico,2018,2018,50054,912,new-mexico
+1,White,04000US36,New York,2018,2018,75976,510,new-york
+1,White,04000US37,North Carolina,2018,2018,60701,458,north-carolina
+1,White,04000US38,North Dakota,2018,2018,66983,2345,north-dakota
+1,White,04000US39,Ohio,2018,2018,60783,379,ohio
+1,White,04000US40,Oklahoma,2018,2018,55603,726,oklahoma
+1,White,04000US41,Oregon,2018,2018,64295,1204,oregon
+1,White,04000US42,Pennsylvania,2018,2018,64643,545,pennsylvania
+1,White,04000US44,Rhode Island,2018,2018,68614,2246,rhode-island
+1,White,04000US45,South Carolina,2018,2018,61078,709,south-carolina
+1,White,04000US46,South Dakota,2018,2018,59507,1966,south-dakota
+1,White,04000US47,Tennessee,2018,2018,56408,695,tennessee
+1,White,04000US48,Texas,2018,2018,63382,594,texas
+1,White,04000US49,Utah,2018,2018,73343,1147,utah
+1,White,04000US50,Vermont,2018,2018,61751,1620,vermont
+1,White,04000US51,Virginia,2018,2018,78310,815,virginia
+1,White,04000US53,Washington,2018,2018,75172,727,washington
+1,White,04000US54,West Virginia,2018,2018,44808,1042,west-virginia
+1,White,04000US55,Wisconsin,2018,2018,63178,625,wisconsin
+1,White,04000US56,Wyoming,2018,2018,62266,1747,wyoming
+1,White,04000US72,Puerto Rico,2018,2018,21366,531,puerto-rico
+2,Black,04000US01,Alabama,2018,2018,33539,1240,alabama
+2,Black,04000US02,Alaska,2018,2018,63198,8294,alaska
+2,Black,04000US04,Arizona,2018,2018,50068,3920,arizona
+2,Black,04000US05,Arkansas,2018,2018,30769,1559,arkansas
+2,Black,04000US06,California,2018,2018,53565,1740,california
+2,Black,04000US08,Colorado,2018,2018,49081,3821,colorado
+2,Black,04000US09,Connecticut,2018,2018,50113,3239,connecticut
+2,Black,04000US10,Delaware,2018,2018,44666,3852,delaware
+2,Black,04000US11,District of Columbia,2018,2018,45193,3297,district-of-columbia
+2,Black,04000US12,Florida,2018,2018,41416,684,florida
+2,Black,04000US13,Georgia,2018,2018,45100,878,georgia
+2,Black,04000US15,Hawaii,2018,2018,70185,13350,hawaii
+2,Black,04000US16,Idaho,2018,2018,41326,1896,idaho
+2,Black,04000US17,Illinois,2018,2018,39719,1228,illinois
+2,Black,04000US18,Indiana,2018,2018,34290,1438,indiana
+2,Black,04000US19,Iowa,2018,2018,31992,2026,iowa
+2,Black,04000US20,Kansas,2018,2018,35412,4008,kansas
+2,Black,04000US21,Kentucky,2018,2018,35565,1485,kentucky
+2,Black,04000US22,Louisiana,2018,2018,30188,794,louisiana
+2,Black,04000US23,Maine,2018,2018,48840,8279,maine
+2,Black,04000US24,Maryland,2018,2018,66926,1704,maryland
+2,Black,04000US25,Massachusetts,2018,2018,53270,4794,massachusetts
+2,Black,04000US26,Michigan,2018,2018,34503,806,michigan
+2,Black,04000US27,Minnesota,2018,2018,36849,1877,minnesota
+2,Black,04000US28,Mississippi,2018,2018,30612,811,mississippi
+2,Black,04000US29,Missouri,2018,2018,35998,1449,missouri
+2,Black,04000US30,Montana,2018,2018,41981,12494,montana
+2,Black,04000US31,Nebraska,2018,2018,37986,5417,nebraska
+2,Black,04000US32,Nevada,2018,2018,40560,1748,nevada
+2,Black,04000US33,New Hampshire,2018,2018,47625,16981,new-hampshire
+2,Black,04000US34,New Jersey,2018,2018,55072,1630,new-jersey
+2,Black,04000US35,New Mexico,2018,2018,29629,7331,new-mexico
+2,Black,04000US36,New York,2018,2018,48347,1330,new-york
+2,Black,04000US37,North Carolina,2018,2018,38597,834,north-carolina
+2,Black,04000US38,North Dakota,2018,2018,45802,4318,north-dakota
+2,Black,04000US39,Ohio,2018,2018,33590,898,ohio
+2,Black,04000US40,Oklahoma,2018,2018,35887,1526,oklahoma
+2,Black,04000US41,Oregon,2018,2018,46076,5479,oregon
+2,Black,04000US42,Pennsylvania,2018,2018,37201,994,pennsylvania
+2,Black,04000US44,Rhode Island,2018,2018,48961,6470,rhode-island
+2,Black,04000US45,South Carolina,2018,2018,34576,1009,south-carolina
+2,Black,04000US46,South Dakota,2018,2018,43686,14589,south-dakota
+2,Black,04000US47,Tennessee,2018,2018,36533,938,tennessee
+2,Black,04000US48,Texas,2018,2018,45545,849,texas
+2,Black,04000US49,Utah,2018,2018,44090,8057,utah
+2,Black,04000US50,Vermont,2018,2018,40509,10587,vermont
+2,Black,04000US51,Virginia,2018,2018,50064,1267,virginia
+2,Black,04000US53,Washington,2018,2018,55661,5168,washington
+2,Black,04000US54,West Virginia,2018,2018,30925,3043,west-virginia
+2,Black,04000US55,Wisconsin,2018,2018,30798,1499,wisconsin
+2,Black,04000US56,Wyoming,2018,2018,88951,66837,wyoming
+2,Black,04000US72,Puerto Rico,2018,2018,19476,1173,puerto-rico
+3,Native American,04000US01,Alabama,2018,2018,47582,11643,alabama
+3,Native American,04000US02,Alaska,2018,2018,49727,2901,alaska
+3,Native American,04000US04,Arizona,2018,2018,37644,2380,arizona
+3,Native American,04000US05,Arkansas,2018,2018,38906,10360,arkansas
+3,Native American,04000US06,California,2018,2018,61861,3142,california
+3,Native American,04000US08,Colorado,2018,2018,48427,5367,colorado
+3,Native American,04000US09,Connecticut,2018,2018,38175,10290,connecticut
+3,Native American,04000US10,Delaware,2018,2018,54926,38408,delaware
+3,Native American,04000US11,District of Columbia,2018,2018,56797,45437,district-of-columbia
+3,Native American,04000US12,Florida,2018,2018,47526,7728,florida
+3,Native American,04000US13,Georgia,2018,2018,31917,7269,georgia
+3,Native American,04000US15,Hawaii,2018,2018,40619,26500,hawaii
+3,Native American,04000US16,Idaho,2018,2018,31779,4078,idaho
+3,Native American,04000US17,Illinois,2018,2018,54191,13953,illinois
+3,Native American,04000US18,Indiana,2018,2018,49786,4122,indiana
+3,Native American,04000US19,Iowa,2018,2018,41265,5647,iowa
+3,Native American,04000US20,Kansas,2018,2018,42181,12005,kansas
+3,Native American,04000US21,Kentucky,2018,2018,36746,13958,kentucky
+3,Native American,04000US22,Louisiana,2018,2018,46613,5385,louisiana
+3,Native American,04000US23,Maine,2018,2018,28333,16024,maine
+3,Native American,04000US24,Maryland,2018,2018,71782,11372,maryland
+3,Native American,04000US25,Massachusetts,2018,2018,48316,24156,massachusetts
+3,Native American,04000US26,Michigan,2018,2018,46663,9044,michigan
+3,Native American,04000US27,Minnesota,2018,2018,35148,4075,minnesota
+3,Native American,04000US28,Mississippi,2018,2018,28680,6809,mississippi
+3,Native American,04000US29,Missouri,2018,2018,42772,8676,missouri
+3,Native American,04000US30,Montana,2018,2018,32001,3266,montana
+3,Native American,04000US31,Nebraska,2018,2018,40659,7996,nebraska
+3,Native American,04000US32,Nevada,2018,2018,41198,7458,nevada
+3,Native American,04000US33,New Hampshire,2018,2018,55691,18242,new-hampshire
+3,Native American,04000US34,New Jersey,2018,2018,76768,13927,new-jersey
+3,Native American,04000US35,New Mexico,2018,2018,34764,2471,new-mexico
+3,Native American,04000US36,New York,2018,2018,40290,4588,new-york
+3,Native American,04000US37,North Carolina,2018,2018,40304,3819,north-carolina
+3,Native American,04000US38,North Dakota,2018,2018,45888,4865,north-dakota
+3,Native American,04000US39,Ohio,2018,2018,29062,3956,ohio
+3,Native American,04000US40,Oklahoma,2018,2018,44894,2440,oklahoma
+3,Native American,04000US41,Oregon,2018,2018,50774,9168,oregon
+3,Native American,04000US42,Pennsylvania,2018,2018,52404,11067,pennsylvania
+3,Native American,04000US44,Rhode Island,2018,2018,36889,28876,rhode-island
+3,Native American,04000US45,South Carolina,2018,2018,46740,5823,south-carolina
+3,Native American,04000US46,South Dakota,2018,2018,26505,3480,south-dakota
+3,Native American,04000US47,Tennessee,2018,2018,54561,12970,tennessee
+3,Native American,04000US48,Texas,2018,2018,55148,5381,texas
+3,Native American,04000US49,Utah,2018,2018,47668,13396,utah
+3,Native American,04000US51,Virginia,2018,2018,61336,16037,virginia
+3,Native American,04000US53,Washington,2018,2018,53243,5640,washington
+3,Native American,04000US54,West Virginia,2018,2018,34018,10557,west-virginia
+3,Native American,04000US55,Wisconsin,2018,2018,46633,6557,wisconsin
+3,Native American,04000US56,Wyoming,2018,2018,55292,10999,wyoming
+3,Native American,04000US72,Puerto Rico,2018,2018,18624,10119,puerto-rico
+4,Asian,04000US01,Alabama,2018,2018,57324,11451,alabama
+4,Asian,04000US02,Alaska,2018,2018,63248,8294,alaska
+4,Asian,04000US04,Arizona,2018,2018,81026,4910,arizona
+4,Asian,04000US05,Arkansas,2018,2018,58322,13886,arkansas
+4,Asian,04000US06,California,2018,2018,97352,1348,california
+4,Asian,04000US08,Colorado,2018,2018,79399,4610,colorado
+4,Asian,04000US09,Connecticut,2018,2018,95018,7733,connecticut
+4,Asian,04000US10,Delaware,2018,2018,89354,6763,delaware
+4,Asian,04000US11,District of Columbia,2018,2018,116382,16471,district-of-columbia
+4,Asian,04000US12,Florida,2018,2018,66546,3363,florida
+4,Asian,04000US13,Georgia,2018,2018,81531,2508,georgia
+4,Asian,04000US15,Hawaii,2018,2018,86048,2714,hawaii
+4,Asian,04000US16,Idaho,2018,2018,45240,7683,idaho
+4,Asian,04000US17,Illinois,2018,2018,85548,3367,illinois
+4,Asian,04000US18,Indiana,2018,2018,61950,4396,indiana
+4,Asian,04000US19,Iowa,2018,2018,57585,10402,iowa
+4,Asian,04000US20,Kansas,2018,2018,70834,7496,kansas
+4,Asian,04000US21,Kentucky,2018,2018,58635,13947,kentucky
+4,Asian,04000US22,Louisiana,2018,2018,57198,5469,louisiana
+4,Asian,04000US23,Maine,2018,2018,61897,33284,maine
+4,Asian,04000US24,Maryland,2018,2018,101203,3117,maryland
+4,Asian,04000US25,Massachusetts,2018,2018,97539,5483,massachusetts
+4,Asian,04000US26,Michigan,2018,2018,85905,3247,michigan
+4,Asian,04000US27,Minnesota,2018,2018,80943,4906,minnesota
+4,Asian,04000US28,Mississippi,2018,2018,67890,15754,mississippi
+4,Asian,04000US29,Missouri,2018,2018,71928,4926,missouri
+4,Asian,04000US30,Montana,2018,2018,61839,13754,montana
+4,Asian,04000US31,Nebraska,2018,2018,66427,10242,nebraska
+4,Asian,04000US32,Nevada,2018,2018,67419,4126,nevada
+4,Asian,04000US33,New Hampshire,2018,2018,80609,13893,new-hampshire
+4,Asian,04000US34,New Jersey,2018,2018,118772,3804,new-jersey
+4,Asian,04000US35,New Mexico,2018,2018,70130,11417,new-mexico
+4,Asian,04000US36,New York,2018,2018,76694,1518,new-york
+4,Asian,04000US37,North Carolina,2018,2018,79216,4035,north-carolina
+4,Asian,04000US38,North Dakota,2018,2018,62184,14573,north-dakota
+4,Asian,04000US39,Ohio,2018,2018,75822,4459,ohio
+4,Asian,04000US40,Oklahoma,2018,2018,53607,7333,oklahoma
+4,Asian,04000US41,Oregon,2018,2018,80316,6161,oregon
+4,Asian,04000US42,Pennsylvania,2018,2018,77044,3790,pennsylvania
+4,Asian,04000US44,Rhode Island,2018,2018,70437,8282,rhode-island
+4,Asian,04000US45,South Carolina,2018,2018,69149,7277,south-carolina
+4,Asian,04000US46,South Dakota,2018,2018,54183,25922,south-dakota
+4,Asian,04000US47,Tennessee,2018,2018,74307,10516,tennessee
+4,Asian,04000US48,Texas,2018,2018,87120,3777,texas
+4,Asian,04000US49,Utah,2018,2018,67135,7438,utah
+4,Asian,04000US50,Vermont,2018,2018,60547,18863,vermont
+4,Asian,04000US51,Virginia,2018,2018,109050,5043,virginia
+4,Asian,04000US53,Washington,2018,2018,97356,4930,washington
+4,Asian,04000US54,West Virginia,2018,2018,62159,15115,west-virginia
+4,Asian,04000US55,Wisconsin,2018,2018,67221,4211,wisconsin
+4,Asian,04000US56,Wyoming,2018,2018,46256,25913,wyoming
+4,Asian,04000US72,Puerto Rico,2018,2018,26591,20281,puerto-rico
+5,Pacific Islander,04000US02,Alaska,2018,2018,90330,64661,alaska
+5,Pacific Islander,04000US04,Arizona,2018,2018,55497,35977,arizona
+5,Pacific Islander,04000US05,Arkansas,2018,2018,37120,16736,arkansas
+5,Pacific Islander,04000US06,California,2018,2018,75798,4667,california
+5,Pacific Islander,04000US08,Colorado,2018,2018,72129,39961,colorado
+5,Pacific Islander,04000US09,Connecticut,2018,2018,2499,,connecticut
+5,Pacific Islander,04000US10,Delaware,2018,2018,61010,19614,delaware
+5,Pacific Islander,04000US12,Florida,2018,2018,29223,10826,florida
+5,Pacific Islander,04000US13,Georgia,2018,2018,40959,9637,georgia
+5,Pacific Islander,04000US15,Hawaii,2018,2018,65163,8028,hawaii
+5,Pacific Islander,04000US17,Illinois,2018,2018,33376,11894,illinois
+5,Pacific Islander,04000US18,Indiana,2018,2018,53552,17205,indiana
+5,Pacific Islander,04000US19,Iowa,2018,2018,51921,15923,iowa
+5,Pacific Islander,04000US20,Kansas,2018,2018,106538,21636,kansas
+5,Pacific Islander,04000US21,Kentucky,2018,2018,32560,10871,kentucky
+5,Pacific Islander,04000US22,Louisiana,2018,2018,71033,26210,louisiana
+5,Pacific Islander,04000US25,Massachusetts,2018,2018,79280,18065,massachusetts
+5,Pacific Islander,04000US26,Michigan,2018,2018,93286,13630,michigan
+5,Pacific Islander,04000US27,Minnesota,2018,2018,48254,7005,minnesota
+5,Pacific Islander,04000US28,Mississippi,2018,2018,2499,,mississippi
+5,Pacific Islander,04000US29,Missouri,2018,2018,80406,7293,missouri
+5,Pacific Islander,04000US30,Montana,2018,2018,37246,16240,montana
+5,Pacific Islander,04000US32,Nevada,2018,2018,58846,11875,nevada
+5,Pacific Islander,04000US34,New Jersey,2018,2018,85631,72963,new-jersey
+5,Pacific Islander,04000US36,New York,2018,2018,61793,37546,new-york
+5,Pacific Islander,04000US37,North Carolina,2018,2018,52736,7792,north-carolina
+5,Pacific Islander,04000US39,Ohio,2018,2018,26310,15827,ohio
+5,Pacific Islander,04000US40,Oklahoma,2018,2018,47356,13918,oklahoma
+5,Pacific Islander,04000US41,Oregon,2018,2018,61736,15535,oregon
+5,Pacific Islander,04000US42,Pennsylvania,2018,2018,46513,21432,pennsylvania
+5,Pacific Islander,04000US45,South Carolina,2018,2018,71947,26593,south-carolina
+5,Pacific Islander,04000US48,Texas,2018,2018,60734,8708,texas
+5,Pacific Islander,04000US49,Utah,2018,2018,66783,10568,utah
+5,Pacific Islander,04000US51,Virginia,2018,2018,72189,9834,virginia
+5,Pacific Islander,04000US53,Washington,2018,2018,66400,16429,washington
+5,Pacific Islander,04000US55,Wisconsin,2018,2018,33909,31688,wisconsin
+5,Pacific Islander,04000US56,Wyoming,2018,2018,225697,148484,wyoming
+6,Other,04000US01,Alabama,2018,2018,35433,3731,alabama
+6,Other,04000US02,Alaska,2018,2018,74423,13174,alaska
+6,Other,04000US04,Arizona,2018,2018,49034,2977,arizona
+6,Other,04000US05,Arkansas,2018,2018,39865,4359,arkansas
+6,Other,04000US06,California,2018,2018,56332,875,california
+6,Other,04000US08,Colorado,2018,2018,52784,4601,colorado
+6,Other,04000US09,Connecticut,2018,2018,35860,3004,connecticut
+6,Other,04000US10,Delaware,2018,2018,57345,2640,delaware
+6,Other,04000US11,District of Columbia,2018,2018,54124,13299,district-of-columbia
+6,Other,04000US12,Florida,2018,2018,45430,2537,florida
+6,Other,04000US13,Georgia,2018,2018,50121,3512,georgia
+6,Other,04000US15,Hawaii,2018,2018,62365,31291,hawaii
+6,Other,04000US16,Idaho,2018,2018,42268,7925,idaho
+6,Other,04000US17,Illinois,2018,2018,53470,2167,illinois
+6,Other,04000US18,Indiana,2018,2018,44809,5293,indiana
+6,Other,04000US19,Iowa,2018,2018,46101,3771,iowa
+6,Other,04000US20,Kansas,2018,2018,44563,4357,kansas
+6,Other,04000US21,Kentucky,2018,2018,39793,4135,kentucky
+6,Other,04000US22,Louisiana,2018,2018,35053,4774,louisiana
+6,Other,04000US24,Maryland,2018,2018,65269,2822,maryland
+6,Other,04000US25,Massachusetts,2018,2018,45518,2963,massachusetts
+6,Other,04000US26,Michigan,2018,2018,48744,4163,michigan
+6,Other,04000US27,Minnesota,2018,2018,48404,5540,minnesota
+6,Other,04000US28,Mississippi,2018,2018,41872,7167,mississippi
+6,Other,04000US29,Missouri,2018,2018,39264,7289,missouri
+6,Other,04000US30,Montana,2018,2018,42283,25258,montana
+6,Other,04000US31,Nebraska,2018,2018,45005,7268,nebraska
+6,Other,04000US32,Nevada,2018,2018,45347,2041,nevada
+6,Other,04000US33,New Hampshire,2018,2018,71555,50119,new-hampshire
+6,Other,04000US34,New Jersey,2018,2018,50960,2025,new-jersey
+6,Other,04000US35,New Mexico,2018,2018,32683,3042,new-mexico
+6,Other,04000US36,New York,2018,2018,44047,1975,new-york
+6,Other,04000US37,North Carolina,2018,2018,39707,2111,north-carolina
+6,Other,04000US38,North Dakota,2018,2018,45923,20371,north-dakota
+6,Other,04000US39,Ohio,2018,2018,42527,4233,ohio
+6,Other,04000US40,Oklahoma,2018,2018,40786,2821,oklahoma
+6,Other,04000US41,Oregon,2018,2018,50872,3330,oregon
+6,Other,04000US42,Pennsylvania,2018,2018,35146,3258,pennsylvania
+6,Other,04000US44,Rhode Island,2018,2018,33248,5610,rhode-island
+6,Other,04000US45,South Carolina,2018,2018,42243,4531,south-carolina
+6,Other,04000US46,South Dakota,2018,2018,44030,14859,south-dakota
+6,Other,04000US47,Tennessee,2018,2018,37445,5597,tennessee
+6,Other,04000US48,Texas,2018,2018,44322,1395,texas
+6,Other,04000US49,Utah,2018,2018,52860,4396,utah
+6,Other,04000US50,Vermont,2018,2018,44375,31054,vermont
+6,Other,04000US51,Virginia,2018,2018,57099,3988,virginia
+6,Other,04000US53,Washington,2018,2018,52043,1862,washington
+6,Other,04000US54,West Virginia,2018,2018,45325,29238,west-virginia
+6,Other,04000US55,Wisconsin,2018,2018,42942,3544,wisconsin
+6,Other,04000US56,Wyoming,2018,2018,36403,1322,wyoming
+6,Other,04000US72,Puerto Rico,2018,2018,16716,769,puerto-rico
+7,Two Or More,04000US01,Alabama,2018,2018,35884,6485,alabama
+7,Two Or More,04000US02,Alaska,2018,2018,66114,4284,alaska
+7,Two Or More,04000US04,Arizona,2018,2018,53408,3872,arizona
+7,Two Or More,04000US05,Arkansas,2018,2018,36781,5770,arkansas
+7,Two Or More,04000US06,California,2018,2018,78235,2586,california
+7,Two Or More,04000US08,Colorado,2018,2018,66396,4014,colorado
+7,Two Or More,04000US09,Connecticut,2018,2018,58651,7692,connecticut
+7,Two Or More,04000US10,Delaware,2018,2018,43866,16459,delaware
+7,Two Or More,04000US11,District of Columbia,2018,2018,95367,16132,district-of-columbia
+7,Two Or More,04000US12,Florida,2018,2018,53279,3951,florida
+7,Two Or More,04000US13,Georgia,2018,2018,56856,5680,georgia
+7,Two Or More,04000US15,Hawaii,2018,2018,77573,4456,hawaii
+7,Two Or More,04000US16,Idaho,2018,2018,50800,4742,idaho
+7,Two Or More,04000US17,Illinois,2018,2018,58029,4626,illinois
+7,Two Or More,04000US18,Indiana,2018,2018,42853,4301,indiana
+7,Two Or More,04000US19,Iowa,2018,2018,39482,6133,iowa
+7,Two Or More,04000US20,Kansas,2018,2018,48254,7683,kansas
+7,Two Or More,04000US21,Kentucky,2018,2018,42431,3159,kentucky
+7,Two Or More,04000US22,Louisiana,2018,2018,47752,4852,louisiana
+7,Two Or More,04000US23,Maine,2018,2018,47195,10142,maine
+7,Two Or More,04000US24,Maryland,2018,2018,86408,7748,maryland
+7,Two Or More,04000US25,Massachusetts,2018,2018,64466,4984,massachusetts
+7,Two Or More,04000US26,Michigan,2018,2018,48666,3226,michigan
+7,Two Or More,04000US27,Minnesota,2018,2018,55171,5707,minnesota
+7,Two Or More,04000US28,Mississippi,2018,2018,47851,9985,mississippi
+7,Two Or More,04000US29,Missouri,2018,2018,44003,3764,missouri
+7,Two Or More,04000US30,Montana,2018,2018,46082,10883,montana
+7,Two Or More,04000US31,Nebraska,2018,2018,46715,6353,nebraska
+7,Two Or More,04000US32,Nevada,2018,2018,55334,3450,nevada
+7,Two Or More,04000US33,New Hampshire,2018,2018,55388,23431,new-hampshire
+7,Two Or More,04000US34,New Jersey,2018,2018,77772,5131,new-jersey
+7,Two Or More,04000US35,New Mexico,2018,2018,45710,8892,new-mexico
+7,Two Or More,04000US36,New York,2018,2018,56736,3083,new-york
+7,Two Or More,04000US37,North Carolina,2018,2018,45363,6243,north-carolina
+7,Two Or More,04000US38,North Dakota,2018,2018,63854,7025,north-dakota
+7,Two Or More,04000US39,Ohio,2018,2018,41855,3261,ohio
+7,Two Or More,04000US40,Oklahoma,2018,2018,44582,2277,oklahoma
+7,Two Or More,04000US41,Oregon,2018,2018,56758,7061,oregon
+7,Two Or More,04000US42,Pennsylvania,2018,2018,49053,3459,pennsylvania
+7,Two Or More,04000US44,Rhode Island,2018,2018,50507,12513,rhode-island
+7,Two Or More,04000US45,South Carolina,2018,2018,53572,7110,south-carolina
+7,Two Or More,04000US46,South Dakota,2018,2018,39596,9566,south-dakota
+7,Two Or More,04000US47,Tennessee,2018,2018,47240,5500,tennessee
+7,Two Or More,04000US48,Texas,2018,2018,63870,2779,texas
+7,Two Or More,04000US49,Utah,2018,2018,69010,9595,utah
+7,Two Or More,04000US50,Vermont,2018,2018,39490,13194,vermont
+7,Two Or More,04000US51,Virginia,2018,2018,70151,5500,virginia
+7,Two Or More,04000US53,Washington,2018,2018,71232,2519,washington
+7,Two Or More,04000US54,West Virginia,2018,2018,45948,7665,west-virginia
+7,Two Or More,04000US55,Wisconsin,2018,2018,50692,2540,wisconsin
+7,Two Or More,04000US56,Wyoming,2018,2018,46205,26784,wyoming
+7,Two Or More,04000US72,Puerto Rico,2018,2018,20232,2461,puerto-rico
+8,White Non-Hispanic,04000US01,Alabama,2018,2018,58257,1125,alabama
+8,White Non-Hispanic,04000US02,Alaska,2018,2018,83245,3339,alaska
+8,White Non-Hispanic,04000US04,Arizona,2018,2018,64876,758,arizona
+8,White Non-Hispanic,04000US05,Arkansas,2018,2018,50831,778,arkansas
+8,White Non-Hispanic,04000US06,California,2018,2018,87078,560,california
+8,White Non-Hispanic,04000US08,Colorado,2018,2018,77732,1079,colorado
+8,White Non-Hispanic,04000US09,Connecticut,2018,2018,87666,1155,connecticut
+8,White Non-Hispanic,04000US10,Delaware,2018,2018,70623,2211,delaware
+8,White Non-Hispanic,04000US11,District of Columbia,2018,2018,142544,6168,district-of-columbia
+8,White Non-Hispanic,04000US12,Florida,2018,2018,61446,408,florida
+8,White Non-Hispanic,04000US13,Georgia,2018,2018,68055,1037,georgia
+8,White Non-Hispanic,04000US15,Hawaii,2018,2018,80940,3648,hawaii
+8,White Non-Hispanic,04000US16,Idaho,2018,2018,57506,1325,idaho
+8,White Non-Hispanic,04000US17,Illinois,2018,2018,72280,506,illinois
+8,White Non-Hispanic,04000US18,Indiana,2018,2018,59587,764,indiana
+8,White Non-Hispanic,04000US19,Iowa,2018,2018,61540,723,iowa
+8,White Non-Hispanic,04000US20,Kansas,2018,2018,61447,652,kansas
+8,White Non-Hispanic,04000US21,Kentucky,2018,2018,52165,602,kentucky
+8,White Non-Hispanic,04000US22,Louisiana,2018,2018,59942,1168,louisiana
+8,White Non-Hispanic,04000US23,Maine,2018,2018,55932,1346,maine
+8,White Non-Hispanic,04000US24,Maryland,2018,2018,93745,1425,maryland
+8,White Non-Hispanic,04000US25,Massachusetts,2018,2018,86087,962,massachusetts
+8,White Non-Hispanic,04000US26,Michigan,2018,2018,61331,371,michigan
+8,White Non-Hispanic,04000US27,Minnesota,2018,2018,73608,767,minnesota
+8,White Non-Hispanic,04000US28,Mississippi,2018,2018,55820,1217,mississippi
+8,White Non-Hispanic,04000US29,Missouri,2018,2018,57999,901,missouri
+8,White Non-Hispanic,04000US30,Montana,2018,2018,57025,1276,montana
+8,White Non-Hispanic,04000US31,Nebraska,2018,2018,62422,1094,nebraska
+8,White Non-Hispanic,04000US32,Nevada,2018,2018,66540,1579,nevada
+8,White Non-Hispanic,04000US33,New Hampshire,2018,2018,75948,1321,new-hampshire
+8,White Non-Hispanic,04000US34,New Jersey,2018,2018,93031,1202,new-jersey
+8,White Non-Hispanic,04000US35,New Mexico,2018,2018,58981,1767,new-mexico
+8,White Non-Hispanic,04000US36,New York,2018,2018,77897,638,new-york
+8,White Non-Hispanic,04000US37,North Carolina,2018,2018,61695,504,north-carolina
+8,White Non-Hispanic,04000US38,North Dakota,2018,2018,67352,2589,north-dakota
+8,White Non-Hispanic,04000US39,Ohio,2018,2018,61056,371,ohio
+8,White Non-Hispanic,04000US40,Oklahoma,2018,2018,56312,747,oklahoma
+8,White Non-Hispanic,04000US41,Oregon,2018,2018,65236,1042,oregon
+8,White Non-Hispanic,04000US42,Pennsylvania,2018,2018,65326,440,pennsylvania
+8,White Non-Hispanic,04000US44,Rhode Island,2018,2018,71366,1691,rhode-island
+8,White Non-Hispanic,04000US45,South Carolina,2018,2018,61600,736,south-carolina
+8,White Non-Hispanic,04000US46,South Dakota,2018,2018,60239,1622,south-dakota
+8,White Non-Hispanic,04000US47,Tennessee,2018,2018,56968,677,tennessee
+8,White Non-Hispanic,04000US48,Texas,2018,2018,74509,755,texas
+8,White Non-Hispanic,04000US49,Utah,2018,2018,75399,962,utah
+8,White Non-Hispanic,04000US50,Vermont,2018,2018,62235,1673,vermont
+8,White Non-Hispanic,04000US51,Virginia,2018,2018,78745,780,virginia
+8,White Non-Hispanic,04000US53,Washington,2018,2018,76521,635,washington
+8,White Non-Hispanic,04000US54,West Virginia,2018,2018,44840,1058,west-virginia
+8,White Non-Hispanic,04000US55,Wisconsin,2018,2018,63906,640,wisconsin
+8,White Non-Hispanic,04000US56,Wyoming,2018,2018,62507,2153,wyoming
+8,White Non-Hispanic,04000US72,Puerto Rico,2018,2018,26840,6645,puerto-rico
+9,Hispanic,04000US01,Alabama,2018,2018,37412,4510,alabama
+9,Hispanic,04000US02,Alaska,2018,2018,63921,14477,alaska
+9,Hispanic,04000US04,Arizona,2018,2018,50140,945,arizona
+9,Hispanic,04000US05,Arkansas,2018,2018,46047,2543,arkansas
+9,Hispanic,04000US06,California,2018,2018,59440,559,california
+9,Hispanic,04000US08,Colorado,2018,2018,55206,2014,colorado
+9,Hispanic,04000US09,Connecticut,2018,2018,42456,2390,connecticut
+9,Hispanic,04000US10,Delaware,2018,2018,60688,6452,delaware
+9,Hispanic,04000US11,District of Columbia,2018,2018,72284,10981,district-of-columbia
+9,Hispanic,04000US12,Florida,2018,2018,49903,822,florida
+9,Hispanic,04000US13,Georgia,2018,2018,50955,1087,georgia
+9,Hispanic,04000US15,Hawaii,2018,2018,70193,7530,hawaii
+9,Hispanic,04000US16,Idaho,2018,2018,47062,3524,idaho
+9,Hispanic,04000US17,Illinois,2018,2018,55563,1286,illinois
+9,Hispanic,04000US18,Indiana,2018,2018,48109,4383,indiana
+9,Hispanic,04000US19,Iowa,2018,2018,48328,3246,iowa
+9,Hispanic,04000US20,Kansas,2018,2018,45938,1719,kansas
+9,Hispanic,04000US21,Kentucky,2018,2018,42317,3118,kentucky
+9,Hispanic,04000US22,Louisiana,2018,2018,43475,3538,louisiana
+9,Hispanic,04000US23,Maine,2018,2018,54818,11381,maine
+9,Hispanic,04000US24,Maryland,2018,2018,69951,2883,maryland
+9,Hispanic,04000US25,Massachusetts,2018,2018,43789,1776,massachusetts
+9,Hispanic,04000US26,Michigan,2018,2018,50396,1681,michigan
+9,Hispanic,04000US27,Minnesota,2018,2018,50240,3073,minnesota
+9,Hispanic,04000US28,Mississippi,2018,2018,45232,6534,mississippi
+9,Hispanic,04000US29,Missouri,2018,2018,47038,3426,missouri
+9,Hispanic,04000US30,Montana,2018,2018,45569,7965,montana
+9,Hispanic,04000US31,Nebraska,2018,2018,47868,3390,nebraska
+9,Hispanic,04000US32,Nevada,2018,2018,50309,1177,nevada
+9,Hispanic,04000US33,New Hampshire,2018,2018,50303,13447,new-hampshire
+9,Hispanic,04000US34,New Jersey,2018,2018,57832,1981,new-jersey
+9,Hispanic,04000US35,New Mexico,2018,2018,39325,1472,new-mexico
+9,Hispanic,04000US36,New York,2018,2018,49867,1140,new-york
+9,Hispanic,04000US37,North Carolina,2018,2018,42231,1083,north-carolina
+9,Hispanic,04000US38,North Dakota,2018,2018,46716,8505,north-dakota
+9,Hispanic,04000US39,Ohio,2018,2018,44813,2535,ohio
+9,Hispanic,04000US40,Oklahoma,2018,2018,45801,1901,oklahoma
+9,Hispanic,04000US41,Oregon,2018,2018,52779,2075,oregon
+9,Hispanic,04000US42,Pennsylvania,2018,2018,42899,1572,pennsylvania
+9,Hispanic,04000US44,Rhode Island,2018,2018,40046,4031,rhode-island
+9,Hispanic,04000US45,South Carolina,2018,2018,42280,2670,south-carolina
+9,Hispanic,04000US46,South Dakota,2018,2018,40400,10872,south-dakota
+9,Hispanic,04000US47,Tennessee,2018,2018,42489,2546,tennessee
+9,Hispanic,04000US48,Texas,2018,2018,48175,627,texas
+9,Hispanic,04000US49,Utah,2018,2018,53351,2965,utah
+9,Hispanic,04000US50,Vermont,2018,2018,37114,7258,vermont
+9,Hispanic,04000US51,Virginia,2018,2018,66307,2258,virginia
+9,Hispanic,04000US53,Washington,2018,2018,56461,1917,washington
+9,Hispanic,04000US54,West Virginia,2018,2018,45424,6598,west-virginia
+9,Hispanic,04000US55,Wisconsin,2018,2018,46849,1896,wisconsin
+9,Hispanic,04000US56,Wyoming,2018,2018,49483,11229,wyoming
+9,Hispanic,04000US72,Puerto Rico,2018,2018,20203,418,puerto-rico
+0,Total,04000US01,Alabama,2017,2017,48123,768,alabama
+0,Total,04000US02,Alaska,2017,2017,73181,2628,alaska
+0,Total,04000US04,Arizona,2017,2017,56581,516,arizona
+0,Total,04000US05,Arkansas,2017,2017,45869,760,arkansas
+0,Total,04000US06,California,2017,2017,71805,294,california
+0,Total,04000US08,Colorado,2017,2017,69117,780,colorado
+0,Total,04000US09,Connecticut,2017,2017,74168,1345,connecticut
+0,Total,04000US10,Delaware,2017,2017,62852,2464,delaware
+0,Total,04000US11,District of Columbia,2017,2017,82372,2651,district-of-columbia
+0,Total,04000US12,Florida,2017,2017,52594,364,florida
+0,Total,04000US13,Georgia,2017,2017,56183,572,georgia
+0,Total,04000US15,Hawaii,2017,2017,77765,1795,hawaii
+0,Total,04000US16,Idaho,2017,2017,52225,871,idaho
+0,Total,04000US17,Illinois,2017,2017,62992,544,illinois
+0,Total,04000US18,Indiana,2017,2017,54181,658,indiana
+0,Total,04000US19,Iowa,2017,2017,58570,851,iowa
+0,Total,04000US20,Kansas,2017,2017,56422,702,kansas
+0,Total,04000US21,Kentucky,2017,2017,48375,630,kentucky
+0,Total,04000US22,Louisiana,2017,2017,46145,634,louisiana
+0,Total,04000US23,Maine,2017,2017,56277,1168,maine
+0,Total,04000US24,Maryland,2017,2017,80776,707,maryland
+0,Total,04000US25,Massachusetts,2017,2017,77385,907,massachusetts
+0,Total,04000US26,Michigan,2017,2017,54909,440,michigan
+0,Total,04000US27,Minnesota,2017,2017,68388,658,minnesota
+0,Total,04000US28,Mississippi,2017,2017,43529,855,mississippi
+0,Total,04000US29,Missouri,2017,2017,53578,629,missouri
+0,Total,04000US30,Montana,2017,2017,53386,1427,montana
+0,Total,04000US31,Nebraska,2017,2017,59970,1014,nebraska
+0,Total,04000US32,Nevada,2017,2017,58003,947,nevada
+0,Total,04000US33,New Hampshire,2017,2017,73381,1694,new-hampshire
+0,Total,04000US34,New Jersey,2017,2017,80088,672,new-jersey
+0,Total,04000US35,New Mexico,2017,2017,46744,1195,new-mexico
+0,Total,04000US36,New York,2017,2017,64894,507,new-york
+0,Total,04000US37,North Carolina,2017,2017,52752,510,north-carolina
+0,Total,04000US38,North Dakota,2017,2017,61843,1052,north-dakota
+0,Total,04000US39,Ohio,2017,2017,54021,411,ohio
+0,Total,04000US40,Oklahoma,2017,2017,50051,575,oklahoma
+0,Total,04000US41,Oregon,2017,2017,60212,796,oregon
+0,Total,04000US42,Pennsylvania,2017,2017,59195,443,pennsylvania
+0,Total,04000US44,Rhode Island,2017,2017,63870,1861,rhode-island
+0,Total,04000US45,South Carolina,2017,2017,50570,532,south-carolina
+0,Total,04000US46,South Dakota,2017,2017,56521,1314,south-dakota
+0,Total,04000US47,Tennessee,2017,2017,51340,410,tennessee
+0,Total,04000US48,Texas,2017,2017,59206,490,texas
+0,Total,04000US49,Utah,2017,2017,68358,1229,utah
+0,Total,04000US50,Vermont,2017,2017,57513,2088,vermont
+0,Total,04000US51,Virginia,2017,2017,71535,544,virginia
+0,Total,04000US53,Washington,2017,2017,70979,583,washington
+0,Total,04000US54,West Virginia,2017,2017,43469,1393,west-virginia
+0,Total,04000US55,Wisconsin,2017,2017,59305,587,wisconsin
+0,Total,04000US56,Wyoming,2017,2017,60434,1759,wyoming
+0,Total,04000US72,Puerto Rico,2017,2017,19343,404,puerto-rico
+1,White,04000US01,Alabama,2017,2017,55771,867,alabama
+1,White,04000US02,Alaska,2017,2017,81067,2238,alaska
+1,White,04000US04,Arizona,2017,2017,59018,748,arizona
+1,White,04000US05,Arkansas,2017,2017,49640,912,arkansas
+1,White,04000US06,California,2017,2017,75460,419,california
+1,White,04000US08,Colorado,2017,2017,71137,766,colorado
+1,White,04000US09,Connecticut,2017,2017,81009,1017,connecticut
+1,White,04000US10,Delaware,2017,2017,67507,1915,delaware
+1,White,04000US11,District of Columbia,2017,2017,132698,4835,district-of-columbia
+1,White,04000US12,Florida,2017,2017,55496,396,florida
+1,White,04000US13,Georgia,2017,2017,63900,985,georgia
+1,White,04000US15,Hawaii,2017,2017,77849,3731,hawaii
+1,White,04000US16,Idaho,2017,2017,52986,1456,idaho
+1,White,04000US17,Illinois,2017,2017,69131,599,illinois
+1,White,04000US18,Indiana,2017,2017,56888,587,indiana
+1,White,04000US19,Iowa,2017,2017,60021,698,iowa
+1,White,04000US20,Kansas,2017,2017,58708,799,kansas
+1,White,04000US21,Kentucky,2017,2017,50034,664,kentucky
+1,White,04000US22,Louisiana,2017,2017,56643,809,louisiana
+1,White,04000US23,Maine,2017,2017,56939,1154,maine
+1,White,04000US24,Maryland,2017,2017,90570,977,maryland
+1,White,04000US25,Massachusetts,2017,2017,81924,870,massachusetts
+1,White,04000US26,Michigan,2017,2017,58841,451,michigan
+1,White,04000US27,Minnesota,2017,2017,71547,547,minnesota
+1,White,04000US28,Mississippi,2017,2017,54653,1278,mississippi
+1,White,04000US29,Missouri,2017,2017,56930,543,missouri
+1,White,04000US30,Montana,2017,2017,54697,1399,montana
+1,White,04000US31,Nebraska,2017,2017,61744,759,nebraska
+1,White,04000US32,Nevada,2017,2017,61541,682,nevada
+1,White,04000US33,New Hampshire,2017,2017,73973,1785,new-hampshire
+1,White,04000US34,New Jersey,2017,2017,85715,1035,new-jersey
+1,White,04000US35,New Mexico,2017,2017,49456,1228,new-mexico
+1,White,04000US36,New York,2017,2017,73281,753,new-york
+1,White,04000US37,North Carolina,2017,2017,58925,769,north-carolina
+1,White,04000US38,North Dakota,2017,2017,64213,2253,north-dakota
+1,White,04000US39,Ohio,2017,2017,58380,544,ohio
+1,White,04000US40,Oklahoma,2017,2017,52625,669,oklahoma
+1,White,04000US41,Oregon,2017,2017,60783,765,oregon
+1,White,04000US42,Pennsylvania,2017,2017,62007,362,pennsylvania
+1,White,04000US44,Rhode Island,2017,2017,68135,2465,rhode-island
+1,White,04000US45,South Carolina,2017,2017,58544,1016,south-carolina
+1,White,04000US46,South Dakota,2017,2017,59851,1473,south-dakota
+1,White,04000US47,Tennessee,2017,2017,54405,603,tennessee
+1,White,04000US48,Texas,2017,2017,61943,363,texas
+1,White,04000US49,Utah,2017,2017,70234,936,utah
+1,White,04000US50,Vermont,2017,2017,57937,2200,vermont
+1,White,04000US51,Virginia,2017,2017,77085,740,virginia
+1,White,04000US53,Washington,2017,2017,72254,578,washington
+1,White,04000US54,West Virginia,2017,2017,44539,1356,west-virginia
+1,White,04000US55,Wisconsin,2017,2017,61807,410,wisconsin
+1,White,04000US56,Wyoming,2017,2017,60907,1678,wyoming
+1,White,04000US72,Puerto Rico,2017,2017,20095,511,puerto-rico
+2,Black,04000US01,Alabama,2017,2017,31289,759,alabama
+2,Black,04000US02,Alaska,2017,2017,61879,16176,alaska
+2,Black,04000US04,Arizona,2017,2017,44757,2789,arizona
+2,Black,04000US05,Arkansas,2017,2017,30530,1607,arkansas
+2,Black,04000US06,California,2017,2017,48559,1425,california
+2,Black,04000US08,Colorado,2017,2017,51558,2367,colorado
+2,Black,04000US09,Connecticut,2017,2017,46474,1558,connecticut
+2,Black,04000US10,Delaware,2017,2017,44980,3906,delaware
+2,Black,04000US11,District of Columbia,2017,2017,42161,3349,district-of-columbia
+2,Black,04000US12,Florida,2017,2017,40104,668,florida
+2,Black,04000US13,Georgia,2017,2017,42696,1056,georgia
+2,Black,04000US15,Hawaii,2017,2017,54501,10397,hawaii
+2,Black,04000US16,Idaho,2017,2017,27868,8122,idaho
+2,Black,04000US17,Illinois,2017,2017,36755,1042,illinois
+2,Black,04000US18,Indiana,2017,2017,33415,1745,indiana
+2,Black,04000US19,Iowa,2017,2017,30840,3343,iowa
+2,Black,04000US20,Kansas,2017,2017,36048,2241,kansas
+2,Black,04000US21,Kentucky,2017,2017,35967,1491,kentucky
+2,Black,04000US22,Louisiana,2017,2017,28222,997,louisiana
+2,Black,04000US23,Maine,2017,2017,24698,13412,maine
+2,Black,04000US24,Maryland,2017,2017,64120,1853,maryland
+2,Black,04000US25,Massachusetts,2017,2017,46925,3302,massachusetts
+2,Black,04000US26,Michigan,2017,2017,34757,1092,michigan
+2,Black,04000US27,Minnesota,2017,2017,38147,2731,minnesota
+2,Black,04000US28,Mississippi,2017,2017,29218,1369,mississippi
+2,Black,04000US29,Missouri,2017,2017,34750,1799,missouri
+2,Black,04000US30,Montana,2017,2017,42040,32023,montana
+2,Black,04000US31,Nebraska,2017,2017,35673,2801,nebraska
+2,Black,04000US32,Nevada,2017,2017,39998,2515,nevada
+2,Black,04000US33,New Hampshire,2017,2017,50212,21149,new-hampshire
+2,Black,04000US34,New Jersey,2017,2017,50395,1179,new-jersey
+2,Black,04000US35,New Mexico,2017,2017,33928,4126,new-mexico
+2,Black,04000US36,New York,2017,2017,44933,1190,new-york
+2,Black,04000US37,North Carolina,2017,2017,38320,1083,north-carolina
+2,Black,04000US38,North Dakota,2017,2017,38210,15625,north-dakota
+2,Black,04000US39,Ohio,2017,2017,32163,578,ohio
+2,Black,04000US40,Oklahoma,2017,2017,33464,2281,oklahoma
+2,Black,04000US41,Oregon,2017,2017,37009,5897,oregon
+2,Black,04000US42,Pennsylvania,2017,2017,37535,1161,pennsylvania
+2,Black,04000US44,Rhode Island,2017,2017,37781,7546,rhode-island
+2,Black,04000US45,South Carolina,2017,2017,32175,629,south-carolina
+2,Black,04000US46,South Dakota,2017,2017,27054,8964,south-dakota
+2,Black,04000US47,Tennessee,2017,2017,38190,1272,tennessee
+2,Black,04000US48,Texas,2017,2017,45092,1173,texas
+2,Black,04000US49,Utah,2017,2017,49348,9540,utah
+2,Black,04000US50,Vermont,2017,2017,41572,31522,vermont
+2,Black,04000US51,Virginia,2017,2017,49562,1222,virginia
+2,Black,04000US53,Washington,2017,2017,49300,5019,washington
+2,Black,04000US54,West Virginia,2017,2017,30077,3575,west-virginia
+2,Black,04000US55,Wisconsin,2017,2017,29340,1970,wisconsin
+2,Black,04000US72,Puerto Rico,2017,2017,18882,1193,puerto-rico
+3,Native American,04000US01,Alabama,2017,2017,48713,6799,alabama
+3,Native American,04000US02,Alaska,2017,2017,48920,1906,alaska
+3,Native American,04000US04,Arizona,2017,2017,34849,2060,arizona
+3,Native American,04000US05,Arkansas,2017,2017,38141,6598,arkansas
+3,Native American,04000US06,California,2017,2017,52436,2387,california
+3,Native American,04000US08,Colorado,2017,2017,47745,6901,colorado
+3,Native American,04000US09,Connecticut,2017,2017,32653,16333,connecticut
+3,Native American,04000US10,Delaware,2017,2017,38438,8498,delaware
+3,Native American,04000US11,District of Columbia,2017,2017,21534,7605,district-of-columbia
+3,Native American,04000US12,Florida,2017,2017,45073,6942,florida
+3,Native American,04000US13,Georgia,2017,2017,49294,13619,georgia
+3,Native American,04000US15,Hawaii,2017,2017,36820,28009,hawaii
+3,Native American,04000US16,Idaho,2017,2017,42419,7618,idaho
+3,Native American,04000US17,Illinois,2017,2017,54161,8298,illinois
+3,Native American,04000US18,Indiana,2017,2017,41858,18730,indiana
+3,Native American,04000US19,Iowa,2017,2017,38456,11414,iowa
+3,Native American,04000US20,Kansas,2017,2017,37701,7828,kansas
+3,Native American,04000US21,Kentucky,2017,2017,23675,11147,kentucky
+3,Native American,04000US22,Louisiana,2017,2017,35455,4860,louisiana
+3,Native American,04000US23,Maine,2017,2017,37583,13232,maine
+3,Native American,04000US24,Maryland,2017,2017,81653,8599,maryland
+3,Native American,04000US25,Massachusetts,2017,2017,41410,10586,massachusetts
+3,Native American,04000US26,Michigan,2017,2017,45187,6396,michigan
+3,Native American,04000US27,Minnesota,2017,2017,36912,3885,minnesota
+3,Native American,04000US28,Mississippi,2017,2017,32220,7303,mississippi
+3,Native American,04000US29,Missouri,2017,2017,53154,5299,missouri
+3,Native American,04000US30,Montana,2017,2017,33396,6931,montana
+3,Native American,04000US31,Nebraska,2017,2017,42412,8366,nebraska
+3,Native American,04000US32,Nevada,2017,2017,41609,7355,nevada
+3,Native American,04000US33,New Hampshire,2017,2017,43919,42606,new-hampshire
+3,Native American,04000US34,New Jersey,2017,2017,51027,18907,new-jersey
+3,Native American,04000US35,New Mexico,2017,2017,33539,2574,new-mexico
+3,Native American,04000US36,New York,2017,2017,41411,7014,new-york
+3,Native American,04000US37,North Carolina,2017,2017,38236,4038,north-carolina
+3,Native American,04000US38,North Dakota,2017,2017,29557,3544,north-dakota
+3,Native American,04000US39,Ohio,2017,2017,34942,8798,ohio
+3,Native American,04000US40,Oklahoma,2017,2017,40528,1666,oklahoma
+3,Native American,04000US41,Oregon,2017,2017,45003,8207,oregon
+3,Native American,04000US42,Pennsylvania,2017,2017,40759,7704,pennsylvania
+3,Native American,04000US44,Rhode Island,2017,2017,42945,37466,rhode-island
+3,Native American,04000US45,South Carolina,2017,2017,32553,11808,south-carolina
+3,Native American,04000US46,South Dakota,2017,2017,24385,2989,south-dakota
+3,Native American,04000US47,Tennessee,2017,2017,54953,22986,tennessee
+3,Native American,04000US48,Texas,2017,2017,53103,3614,texas
+3,Native American,04000US49,Utah,2017,2017,48925,8599,utah
+3,Native American,04000US50,Vermont,2017,2017,26104,25738,vermont
+3,Native American,04000US51,Virginia,2017,2017,57399,9043,virginia
+3,Native American,04000US53,Washington,2017,2017,42127,3597,washington
+3,Native American,04000US54,West Virginia,2017,2017,23250,22303,west-virginia
+3,Native American,04000US55,Wisconsin,2017,2017,41262,4382,wisconsin
+3,Native American,04000US56,Wyoming,2017,2017,44291,7535,wyoming
+3,Native American,04000US72,Puerto Rico,2017,2017,27114,7246,puerto-rico
+4,Asian,04000US01,Alabama,2017,2017,71682,8999,alabama
+4,Asian,04000US02,Alaska,2017,2017,68679,6825,alaska
+4,Asian,04000US04,Arizona,2017,2017,75862,3868,arizona
+4,Asian,04000US05,Arkansas,2017,2017,65391,11042,arkansas
+4,Asian,04000US06,California,2017,2017,91622,741,california
+4,Asian,04000US08,Colorado,2017,2017,79594,4456,colorado
+4,Asian,04000US09,Connecticut,2017,2017,86593,6278,connecticut
+4,Asian,04000US10,Delaware,2017,2017,98597,6712,delaware
+4,Asian,04000US11,District of Columbia,2017,2017,96394,7237,district-of-columbia
+4,Asian,04000US12,Florida,2017,2017,70195,1949,florida
+4,Asian,04000US13,Georgia,2017,2017,77389,4704,georgia
+4,Asian,04000US15,Hawaii,2017,2017,83096,3151,hawaii
+4,Asian,04000US16,Idaho,2017,2017,52660,29312,idaho
+4,Asian,04000US17,Illinois,2017,2017,84308,3649,illinois
+4,Asian,04000US18,Indiana,2017,2017,67481,5162,indiana
+4,Asian,04000US19,Iowa,2017,2017,66545,3583,iowa
+4,Asian,04000US20,Kansas,2017,2017,70352,8626,kansas
+4,Asian,04000US21,Kentucky,2017,2017,58937,4631,kentucky
+4,Asian,04000US22,Louisiana,2017,2017,63161,7014,louisiana
+4,Asian,04000US23,Maine,2017,2017,48695,12267,maine
+4,Asian,04000US24,Maryland,2017,2017,100019,4255,maryland
+4,Asian,04000US25,Massachusetts,2017,2017,91150,3676,massachusetts
+4,Asian,04000US26,Michigan,2017,2017,80968,2905,michigan
+4,Asian,04000US27,Minnesota,2017,2017,74766,5116,minnesota
+4,Asian,04000US28,Mississippi,2017,2017,56779,12165,mississippi
+4,Asian,04000US29,Missouri,2017,2017,64039,7055,missouri
+4,Asian,04000US30,Montana,2017,2017,64235,31514,montana
+4,Asian,04000US31,Nebraska,2017,2017,60458,14199,nebraska
+4,Asian,04000US32,Nevada,2017,2017,64042,3883,nevada
+4,Asian,04000US33,New Hampshire,2017,2017,82205,14758,new-hampshire
+4,Asian,04000US34,New Jersey,2017,2017,118917,3970,new-jersey
+4,Asian,04000US35,New Mexico,2017,2017,66600,15417,new-mexico
+4,Asian,04000US36,New York,2017,2017,70839,1470,new-york
+4,Asian,04000US37,North Carolina,2017,2017,79780,3553,north-carolina
+4,Asian,04000US38,North Dakota,2017,2017,49167,26119,north-dakota
+4,Asian,04000US39,Ohio,2017,2017,71820,3899,ohio
+4,Asian,04000US40,Oklahoma,2017,2017,58930,6044,oklahoma
+4,Asian,04000US41,Oregon,2017,2017,77186,8432,oregon
+4,Asian,04000US42,Pennsylvania,2017,2017,74157,3228,pennsylvania
+4,Asian,04000US44,Rhode Island,2017,2017,70053,7573,rhode-island
+4,Asian,04000US45,South Carolina,2017,2017,61211,7449,south-carolina
+4,Asian,04000US46,South Dakota,2017,2017,52538,25052,south-dakota
+4,Asian,04000US47,Tennessee,2017,2017,69376,5202,tennessee
+4,Asian,04000US48,Texas,2017,2017,84100,2602,texas
+4,Asian,04000US49,Utah,2017,2017,69726,6145,utah
+4,Asian,04000US50,Vermont,2017,2017,44409,31545,vermont
+4,Asian,04000US51,Virginia,2017,2017,101515,2758,virginia
+4,Asian,04000US53,Washington,2017,2017,88753,3492,washington
+4,Asian,04000US54,West Virginia,2017,2017,31626,17919,west-virginia
+4,Asian,04000US55,Wisconsin,2017,2017,69104,4269,wisconsin
+4,Asian,04000US56,Wyoming,2017,2017,44235,36808,wyoming
+5,Pacific Islander,04000US01,Alabama,2017,2017,88520,78331,alabama
+5,Pacific Islander,04000US02,Alaska,2017,2017,63912,34486,alaska
+5,Pacific Islander,04000US04,Arizona,2017,2017,50331,20521,arizona
+5,Pacific Islander,04000US05,Arkansas,2017,2017,36186,12154,arkansas
+5,Pacific Islander,04000US06,California,2017,2017,72101,7604,california
+5,Pacific Islander,04000US13,Georgia,2017,2017,51853,11797,georgia
+5,Pacific Islander,04000US15,Hawaii,2017,2017,61844,5749,hawaii
+5,Pacific Islander,04000US17,Illinois,2017,2017,60860,22054,illinois
+5,Pacific Islander,04000US18,Indiana,2017,2017,48750,24736,indiana
+5,Pacific Islander,04000US19,Iowa,2017,2017,33759,10625,iowa
+5,Pacific Islander,04000US20,Kansas,2017,2017,52870,2434,kansas
+5,Pacific Islander,04000US21,Kentucky,2017,2017,44438,35068,kentucky
+5,Pacific Islander,04000US22,Louisiana,2017,2017,44026,13624,louisiana
+5,Pacific Islander,04000US26,Michigan,2017,2017,28729,23584,michigan
+5,Pacific Islander,04000US27,Minnesota,2017,2017,70832,22566,minnesota
+5,Pacific Islander,04000US29,Missouri,2017,2017,23831,10671,missouri
+5,Pacific Islander,04000US30,Montana,2017,2017,36421,26461,montana
+5,Pacific Islander,04000US31,Nebraska,2017,2017,47107,28190,nebraska
+5,Pacific Islander,04000US32,Nevada,2017,2017,56978,19882,nevada
+5,Pacific Islander,04000US36,New York,2017,2017,51405,19957,new-york
+5,Pacific Islander,04000US37,North Carolina,2017,2017,43305,20897,north-carolina
+5,Pacific Islander,04000US39,Ohio,2017,2017,64828,31355,ohio
+5,Pacific Islander,04000US41,Oregon,2017,2017,53978,6105,oregon
+5,Pacific Islander,04000US44,Rhode Island,2017,2017,40752,21195,rhode-island
+5,Pacific Islander,04000US45,South Carolina,2017,2017,40396,25793,south-carolina
+5,Pacific Islander,04000US46,South Dakota,2017,2017,35230,6899,south-dakota
+5,Pacific Islander,04000US48,Texas,2017,2017,43428,17760,texas
+5,Pacific Islander,04000US49,Utah,2017,2017,61712,13879,utah
+5,Pacific Islander,04000US51,Virginia,2017,2017,142465,71134,virginia
+5,Pacific Islander,04000US53,Washington,2017,2017,70450,12588,washington
+5,Pacific Islander,04000US55,Wisconsin,2017,2017,65553,58682,wisconsin
+6,Other,04000US01,Alabama,2017,2017,33314,3400,alabama
+6,Other,04000US02,Alaska,2017,2017,70667,19174,alaska
+6,Other,04000US04,Arizona,2017,2017,45946,2030,arizona
+6,Other,04000US05,Arkansas,2017,2017,38722,5010,arkansas
+6,Other,04000US06,California,2017,2017,53793,926,california
+6,Other,04000US08,Colorado,2017,2017,48599,3473,colorado
+6,Other,04000US09,Connecticut,2017,2017,40958,2717,connecticut
+6,Other,04000US10,Delaware,2017,2017,38620,15120,delaware
+6,Other,04000US11,District of Columbia,2017,2017,60964,4868,district-of-columbia
+6,Other,04000US12,Florida,2017,2017,47376,2649,florida
+6,Other,04000US13,Georgia,2017,2017,40309,3584,georgia
+6,Other,04000US15,Hawaii,2017,2017,73053,12445,hawaii
+6,Other,04000US16,Idaho,2017,2017,43869,6828,idaho
+6,Other,04000US17,Illinois,2017,2017,50615,1358,illinois
+6,Other,04000US18,Indiana,2017,2017,46039,2661,indiana
+6,Other,04000US19,Iowa,2017,2017,50864,6281,iowa
+6,Other,04000US20,Kansas,2017,2017,45128,5750,kansas
+6,Other,04000US21,Kentucky,2017,2017,41575,9506,kentucky
+6,Other,04000US22,Louisiana,2017,2017,30283,3298,louisiana
+6,Other,04000US23,Maine,2017,2017,61060,12390,maine
+6,Other,04000US24,Maryland,2017,2017,61183,2799,maryland
+6,Other,04000US25,Massachusetts,2017,2017,41173,3464,massachusetts
+6,Other,04000US26,Michigan,2017,2017,41934,3901,michigan
+6,Other,04000US27,Minnesota,2017,2017,48664,3980,minnesota
+6,Other,04000US28,Mississippi,2017,2017,42629,2875,mississippi
+6,Other,04000US29,Missouri,2017,2017,42136,4654,missouri
+6,Other,04000US30,Montana,2017,2017,49008,19089,montana
+6,Other,04000US31,Nebraska,2017,2017,45520,8800,nebraska
+6,Other,04000US32,Nevada,2017,2017,47018,4092,nevada
+6,Other,04000US33,New Hampshire,2017,2017,73060,33394,new-hampshire
+6,Other,04000US34,New Jersey,2017,2017,46572,1846,new-jersey
+6,Other,04000US35,New Mexico,2017,2017,34052,3009,new-mexico
+6,Other,04000US36,New York,2017,2017,41293,815,new-york
+6,Other,04000US37,North Carolina,2017,2017,38249,2575,north-carolina
+6,Other,04000US38,North Dakota,2017,2017,65898,21050,north-dakota
+6,Other,04000US39,Ohio,2017,2017,39633,3430,ohio
+6,Other,04000US40,Oklahoma,2017,2017,43075,3784,oklahoma
+6,Other,04000US41,Oregon,2017,2017,51741,5791,oregon
+6,Other,04000US42,Pennsylvania,2017,2017,36723,2553,pennsylvania
+6,Other,04000US44,Rhode Island,2017,2017,42752,3085,rhode-island
+6,Other,04000US45,South Carolina,2017,2017,39788,6368,south-carolina
+6,Other,04000US46,South Dakota,2017,2017,34115,20153,south-dakota
+6,Other,04000US47,Tennessee,2017,2017,35955,4837,tennessee
+6,Other,04000US48,Texas,2017,2017,42754,1759,texas
+6,Other,04000US49,Utah,2017,2017,47529,3916,utah
+6,Other,04000US50,Vermont,2017,2017,49375,40230,vermont
+6,Other,04000US51,Virginia,2017,2017,54242,5525,virginia
+6,Other,04000US53,Washington,2017,2017,47449,2288,washington
+6,Other,04000US54,West Virginia,2017,2017,24127,11469,west-virginia
+6,Other,04000US55,Wisconsin,2017,2017,42846,4136,wisconsin
+6,Other,04000US56,Wyoming,2017,2017,59523,15663,wyoming
+6,Other,04000US72,Puerto Rico,2017,2017,16094,900,puerto-rico
+7,Two Or More,04000US01,Alabama,2017,2017,40552,3423,alabama
+7,Two Or More,04000US02,Alaska,2017,2017,70678,8679,alaska
+7,Two Or More,04000US04,Arizona,2017,2017,50394,4835,arizona
+7,Two Or More,04000US05,Arkansas,2017,2017,43962,5555,arkansas
+7,Two Or More,04000US06,California,2017,2017,73189,2220,california
+7,Two Or More,04000US08,Colorado,2017,2017,62634,5287,colorado
+7,Two Or More,04000US09,Connecticut,2017,2017,58264,8622,connecticut
+7,Two Or More,04000US10,Delaware,2017,2017,63477,30036,delaware
+7,Two Or More,04000US11,District of Columbia,2017,2017,85501,14251,district-of-columbia
+7,Two Or More,04000US12,Florida,2017,2017,52398,3084,florida
+7,Two Or More,04000US13,Georgia,2017,2017,50719,4617,georgia
+7,Two Or More,04000US15,Hawaii,2017,2017,79532,3196,hawaii
+7,Two Or More,04000US16,Idaho,2017,2017,52225,13901,idaho
+7,Two Or More,04000US17,Illinois,2017,2017,56005,4637,illinois
+7,Two Or More,04000US18,Indiana,2017,2017,41773,5089,indiana
+7,Two Or More,04000US19,Iowa,2017,2017,34008,5139,iowa
+7,Two Or More,04000US20,Kansas,2017,2017,39721,3734,kansas
+7,Two Or More,04000US21,Kentucky,2017,2017,45176,9354,kentucky
+7,Two Or More,04000US22,Louisiana,2017,2017,41479,4630,louisiana
+7,Two Or More,04000US23,Maine,2017,2017,45867,8513,maine
+7,Two Or More,04000US24,Maryland,2017,2017,81270,7830,maryland
+7,Two Or More,04000US25,Massachusetts,2017,2017,60488,3399,massachusetts
+7,Two Or More,04000US26,Michigan,2017,2017,45203,3862,michigan
+7,Two Or More,04000US27,Minnesota,2017,2017,55229,4727,minnesota
+7,Two Or More,04000US28,Mississippi,2017,2017,39941,4938,mississippi
+7,Two Or More,04000US29,Missouri,2017,2017,46036,3009,missouri
+7,Two Or More,04000US30,Montana,2017,2017,35152,3401,montana
+7,Two Or More,04000US31,Nebraska,2017,2017,42551,6940,nebraska
+7,Two Or More,04000US32,Nevada,2017,2017,58263,7430,nevada
+7,Two Or More,04000US33,New Hampshire,2017,2017,55773,10613,new-hampshire
+7,Two Or More,04000US34,New Jersey,2017,2017,71547,4910,new-jersey
+7,Two Or More,04000US35,New Mexico,2017,2017,51373,7034,new-mexico
+7,Two Or More,04000US36,New York,2017,2017,58252,3555,new-york
+7,Two Or More,04000US37,North Carolina,2017,2017,47268,3691,north-carolina
+7,Two Or More,04000US38,North Dakota,2017,2017,59131,14240,north-dakota
+7,Two Or More,04000US39,Ohio,2017,2017,38549,3173,ohio
+7,Two Or More,04000US40,Oklahoma,2017,2017,44448,2354,oklahoma
+7,Two Or More,04000US41,Oregon,2017,2017,53651,5545,oregon
+7,Two Or More,04000US42,Pennsylvania,2017,2017,43576,4214,pennsylvania
+7,Two Or More,04000US44,Rhode Island,2017,2017,35000,6245,rhode-island
+7,Two Or More,04000US45,South Carolina,2017,2017,37849,5527,south-carolina
+7,Two Or More,04000US46,South Dakota,2017,2017,47741,17763,south-dakota
+7,Two Or More,04000US47,Tennessee,2017,2017,47160,5434,tennessee
+7,Two Or More,04000US48,Texas,2017,2017,57091,2938,texas
+7,Two Or More,04000US49,Utah,2017,2017,60342,8307,utah
+7,Two Or More,04000US50,Vermont,2017,2017,63044,11643,vermont
+7,Two Or More,04000US51,Virginia,2017,2017,70935,2704,virginia
+7,Two Or More,04000US53,Washington,2017,2017,66848,3472,washington
+7,Two Or More,04000US54,West Virginia,2017,2017,39371,17520,west-virginia
+7,Two Or More,04000US55,Wisconsin,2017,2017,44949,5458,wisconsin
+7,Two Or More,04000US56,Wyoming,2017,2017,59973,18978,wyoming
+7,Two Or More,04000US72,Puerto Rico,2017,2017,21365,2505,puerto-rico
+8,White Non-Hispanic,04000US01,Alabama,2017,2017,56138,852,alabama
+8,White Non-Hispanic,04000US02,Alaska,2017,2017,81838,2518,alaska
+8,White Non-Hispanic,04000US04,Arizona,2017,2017,62391,625,arizona
+8,White Non-Hispanic,04000US05,Arkansas,2017,2017,49890,899,arkansas
+8,White Non-Hispanic,04000US06,California,2017,2017,83682,655,california
+8,White Non-Hispanic,04000US08,Colorado,2017,2017,75285,911,colorado
+8,White Non-Hispanic,04000US09,Connecticut,2017,2017,85122,1635,connecticut
+8,White Non-Hispanic,04000US10,Delaware,2017,2017,69271,2182,delaware
+8,White Non-Hispanic,04000US11,District of Columbia,2017,2017,134358,6398,district-of-columbia
+8,White Non-Hispanic,04000US12,Florida,2017,2017,58110,560,florida
+8,White Non-Hispanic,04000US13,Georgia,2017,2017,65420,729,georgia
+8,White Non-Hispanic,04000US15,Hawaii,2017,2017,77472,3394,hawaii
+8,White Non-Hispanic,04000US16,Idaho,2017,2017,53711,1547,idaho
+8,White Non-Hispanic,04000US17,Illinois,2017,2017,70712,481,illinois
+8,White Non-Hispanic,04000US18,Indiana,2017,2017,57327,696,indiana
+8,White Non-Hispanic,04000US19,Iowa,2017,2017,60447,542,iowa
+8,White Non-Hispanic,04000US20,Kansas,2017,2017,60007,664,kansas
+8,White Non-Hispanic,04000US21,Kentucky,2017,2017,50140,652,kentucky
+8,White Non-Hispanic,04000US22,Louisiana,2017,2017,57217,918,louisiana
+8,White Non-Hispanic,04000US23,Maine,2017,2017,57071,1158,maine
+8,White Non-Hispanic,04000US24,Maryland,2017,2017,91044,944,maryland
+8,White Non-Hispanic,04000US25,Massachusetts,2017,2017,84988,1151,massachusetts
+8,White Non-Hispanic,04000US26,Michigan,2017,2017,59291,464,michigan
+8,White Non-Hispanic,04000US27,Minnesota,2017,2017,71863,553,minnesota
+8,White Non-Hispanic,04000US28,Mississippi,2017,2017,54928,1176,mississippi
+8,White Non-Hispanic,04000US29,Missouri,2017,2017,57114,531,missouri
+8,White Non-Hispanic,04000US30,Montana,2017,2017,54715,1429,montana
+8,White Non-Hispanic,04000US31,Nebraska,2017,2017,63091,1164,nebraska
+8,White Non-Hispanic,04000US32,Nevada,2017,2017,62974,1430,nevada
+8,White Non-Hispanic,04000US33,New Hampshire,2017,2017,74576,1734,new-hampshire
+8,White Non-Hispanic,04000US34,New Jersey,2017,2017,91454,799,new-jersey
+8,White Non-Hispanic,04000US35,New Mexico,2017,2017,55360,1509,new-mexico
+8,White Non-Hispanic,04000US36,New York,2017,2017,75606,569,new-york
+8,White Non-Hispanic,04000US37,North Carolina,2017,2017,60263,562,north-carolina
+8,White Non-Hispanic,04000US38,North Dakota,2017,2017,64750,2026,north-dakota
+8,White Non-Hispanic,04000US39,Ohio,2017,2017,58841,555,ohio
+8,White Non-Hispanic,04000US40,Oklahoma,2017,2017,53366,752,oklahoma
+8,White Non-Hispanic,04000US41,Oregon,2017,2017,61717,819,oregon
+8,White Non-Hispanic,04000US42,Pennsylvania,2017,2017,62889,516,pennsylvania
+8,White Non-Hispanic,04000US44,Rhode Island,2017,2017,71295,1971,rhode-island
+8,White Non-Hispanic,04000US45,South Carolina,2017,2017,59313,1053,south-carolina
+8,White Non-Hispanic,04000US46,South Dakota,2017,2017,60204,1389,south-dakota
+8,White Non-Hispanic,04000US47,Tennessee,2017,2017,54748,594,tennessee
+8,White Non-Hispanic,04000US48,Texas,2017,2017,72361,645,texas
+8,White Non-Hispanic,04000US49,Utah,2017,2017,71881,781,utah
+8,White Non-Hispanic,04000US50,Vermont,2017,2017,58036,2278,vermont
+8,White Non-Hispanic,04000US51,Virginia,2017,2017,77455,849,virginia
+8,White Non-Hispanic,04000US53,Washington,2017,2017,73362,739,washington
+8,White Non-Hispanic,04000US54,West Virginia,2017,2017,44536,1362,west-virginia
+8,White Non-Hispanic,04000US55,Wisconsin,2017,2017,62286,398,wisconsin
+8,White Non-Hispanic,04000US56,Wyoming,2017,2017,61439,1838,wyoming
+8,White Non-Hispanic,04000US72,Puerto Rico,2017,2017,33963,14480,puerto-rico
+9,Hispanic,04000US01,Alabama,2017,2017,37578,4151,alabama
+9,Hispanic,04000US02,Alaska,2017,2017,63954,7966,alaska
+9,Hispanic,04000US04,Arizona,2017,2017,46900,861,arizona
+9,Hispanic,04000US05,Arkansas,2017,2017,41107,2812,arkansas
+9,Hispanic,04000US06,California,2017,2017,56151,473,california
+9,Hispanic,04000US08,Colorado,2017,2017,51550,1276,colorado
+9,Hispanic,04000US09,Connecticut,2017,2017,46324,2163,connecticut
+9,Hispanic,04000US10,Delaware,2017,2017,47160,8294,delaware
+9,Hispanic,04000US11,District of Columbia,2017,2017,84728,6874,district-of-columbia
+9,Hispanic,04000US12,Florida,2017,2017,47257,746,florida
+9,Hispanic,04000US13,Georgia,2017,2017,46144,1795,georgia
+9,Hispanic,04000US15,Hawaii,2017,2017,72888,7549,hawaii
+9,Hispanic,04000US16,Idaho,2017,2017,45231,3081,idaho
+9,Hispanic,04000US17,Illinois,2017,2017,53109,1640,illinois
+9,Hispanic,04000US18,Indiana,2017,2017,46767,2055,indiana
+9,Hispanic,04000US19,Iowa,2017,2017,46376,2723,iowa
+9,Hispanic,04000US20,Kansas,2017,2017,45558,1505,kansas
+9,Hispanic,04000US21,Kentucky,2017,2017,42069,5130,kentucky
+9,Hispanic,04000US22,Louisiana,2017,2017,39465,3553,louisiana
+9,Hispanic,04000US23,Maine,2017,2017,45250,14736,maine
+9,Hispanic,04000US24,Maryland,2017,2017,71376,3086,maryland
+9,Hispanic,04000US25,Massachusetts,2017,2017,41995,1771,massachusetts
+9,Hispanic,04000US26,Michigan,2017,2017,46222,2524,michigan
+9,Hispanic,04000US27,Minnesota,2017,2017,50866,2173,minnesota
+9,Hispanic,04000US28,Mississippi,2017,2017,42861,3788,mississippi
+9,Hispanic,04000US29,Missouri,2017,2017,48564,3558,missouri
+9,Hispanic,04000US30,Montana,2017,2017,49589,8078,montana
+9,Hispanic,04000US31,Nebraska,2017,2017,46646,2800,nebraska
+9,Hispanic,04000US32,Nevada,2017,2017,51866,1606,nevada
+9,Hispanic,04000US33,New Hampshire,2017,2017,61119,9970,new-hampshire
+9,Hispanic,04000US34,New Jersey,2017,2017,54482,1950,new-jersey
+9,Hispanic,04000US35,New Mexico,2017,2017,40189,1682,new-mexico
+9,Hispanic,04000US36,New York,2017,2017,46751,900,new-york
+9,Hispanic,04000US37,North Carolina,2017,2017,40546,1091,north-carolina
+9,Hispanic,04000US38,North Dakota,2017,2017,55998,5365,north-dakota
+9,Hispanic,04000US39,Ohio,2017,2017,40921,2086,ohio
+9,Hispanic,04000US40,Oklahoma,2017,2017,43667,3589,oklahoma
+9,Hispanic,04000US41,Oregon,2017,2017,50117,2385,oregon
+9,Hispanic,04000US42,Pennsylvania,2017,2017,39973,2071,pennsylvania
+9,Hispanic,04000US44,Rhode Island,2017,2017,41123,3928,rhode-island
+9,Hispanic,04000US45,South Carolina,2017,2017,40708,3033,south-carolina
+9,Hispanic,04000US46,South Dakota,2017,2017,41443,3511,south-dakota
+9,Hispanic,04000US47,Tennessee,2017,2017,41549,1866,tennessee
+9,Hispanic,04000US48,Texas,2017,2017,46855,485,texas
+9,Hispanic,04000US49,Utah,2017,2017,47540,2846,utah
+9,Hispanic,04000US50,Vermont,2017,2017,55339,12515,vermont
+9,Hispanic,04000US51,Virginia,2017,2017,65433,3283,virginia
+9,Hispanic,04000US53,Washington,2017,2017,52212,1997,washington
+9,Hispanic,04000US54,West Virginia,2017,2017,49605,9000,west-virginia
+9,Hispanic,04000US55,Wisconsin,2017,2017,42861,2105,wisconsin
+9,Hispanic,04000US56,Wyoming,2017,2017,51568,7249,wyoming
+9,Hispanic,04000US72,Puerto Rico,2017,2017,19273,412,puerto-rico
+0,Total,04000US01,Alabama,2016,2016,46257,677,alabama
+0,Total,04000US02,Alaska,2016,2016,76440,2230,alaska
+0,Total,04000US04,Arizona,2016,2016,53558,634,arizona
+0,Total,04000US05,Arkansas,2016,2016,44334,921,arkansas
+0,Total,04000US06,California,2016,2016,67739,356,california
+0,Total,04000US08,Colorado,2016,2016,65685,636,colorado
+0,Total,04000US09,Connecticut,2016,2016,73433,1059,connecticut
+0,Total,04000US10,Delaware,2016,2016,61757,1492,delaware
+0,Total,04000US11,District of Columbia,2016,2016,75506,3416,district-of-columbia
+0,Total,04000US12,Florida,2016,2016,50860,241,florida
+0,Total,04000US13,Georgia,2016,2016,53559,710,georgia
+0,Total,04000US15,Hawaii,2016,2016,74511,1776,hawaii
+0,Total,04000US16,Idaho,2016,2016,51807,963,idaho
+0,Total,04000US17,Illinois,2016,2016,60960,389,illinois
+0,Total,04000US18,Indiana,2016,2016,52314,371,indiana
+0,Total,04000US19,Iowa,2016,2016,56247,695,iowa
+0,Total,04000US20,Kansas,2016,2016,54935,893,kansas
+0,Total,04000US21,Kentucky,2016,2016,46659,600,kentucky
+0,Total,04000US22,Louisiana,2016,2016,45146,776,louisiana
+0,Total,04000US23,Maine,2016,2016,53079,1379,maine
+0,Total,04000US24,Maryland,2016,2016,78945,737,maryland
+0,Total,04000US25,Massachusetts,2016,2016,75297,771,massachusetts
+0,Total,04000US26,Michigan,2016,2016,52492,402,michigan
+0,Total,04000US27,Minnesota,2016,2016,65599,606,minnesota
+0,Total,04000US28,Mississippi,2016,2016,41754,556,mississippi
+0,Total,04000US29,Missouri,2016,2016,51746,374,missouri
+0,Total,04000US30,Montana,2016,2016,50027,1096,montana
+0,Total,04000US31,Nebraska,2016,2016,56927,767,nebraska
+0,Total,04000US32,Nevada,2016,2016,55180,901,nevada
+0,Total,04000US33,New Hampshire,2016,2016,70936,1422,new-hampshire
+0,Total,04000US34,New Jersey,2016,2016,76126,701,new-jersey
+0,Total,04000US35,New Mexico,2016,2016,46748,826,new-mexico
+0,Total,04000US36,New York,2016,2016,62909,631,new-york
+0,Total,04000US37,North Carolina,2016,2016,50584,292,north-carolina
+0,Total,04000US38,North Dakota,2016,2016,60656,1528,north-dakota
+0,Total,04000US39,Ohio,2016,2016,52334,275,ohio
+0,Total,04000US40,Oklahoma,2016,2016,49176,625,oklahoma
+0,Total,04000US41,Oregon,2016,2016,57532,855,oregon
+0,Total,04000US42,Pennsylvania,2016,2016,56907,360,pennsylvania
+0,Total,04000US44,Rhode Island,2016,2016,60596,1591,rhode-island
+0,Total,04000US45,South Carolina,2016,2016,49501,601,south-carolina
+0,Total,04000US46,South Dakota,2016,2016,54467,1289,south-dakota
+0,Total,04000US47,Tennessee,2016,2016,48547,675,tennessee
+0,Total,04000US48,Texas,2016,2016,56565,300,texas
+0,Total,04000US49,Utah,2016,2016,65977,955,utah
+0,Total,04000US50,Vermont,2016,2016,57677,1672,vermont
+0,Total,04000US51,Virginia,2016,2016,68114,748,virginia
+0,Total,04000US53,Washington,2016,2016,67106,595,washington
+0,Total,04000US54,West Virginia,2016,2016,43385,1112,west-virginia
+0,Total,04000US55,Wisconsin,2016,2016,56811,549,wisconsin
+0,Total,04000US56,Wyoming,2016,2016,59882,2214,wyoming
+0,Total,04000US72,Puerto Rico,2016,2016,20078,354,puerto-rico
+1,White,04000US01,Alabama,2016,2016,52104,576,alabama
+1,White,04000US02,Alaska,2016,2016,82684,1952,alaska
+1,White,04000US04,Arizona,2016,2016,56051,593,arizona
+1,White,04000US05,Arkansas,2016,2016,48056,894,arkansas
+1,White,04000US06,California,2016,2016,71225,320,california
+1,White,04000US08,Colorado,2016,2016,67825,899,colorado
+1,White,04000US09,Connecticut,2016,2016,80474,980,connecticut
+1,White,04000US10,Delaware,2016,2016,66664,1782,delaware
+1,White,04000US11,District of Columbia,2016,2016,125747,5102,district-of-columbia
+1,White,04000US12,Florida,2016,2016,53072,426,florida
+1,White,04000US13,Georgia,2016,2016,61005,601,georgia
+1,White,04000US15,Hawaii,2016,2016,75327,3683,hawaii
+1,White,04000US16,Idaho,2016,2016,52485,1139,idaho
+1,White,04000US17,Illinois,2016,2016,66582,557,illinois
+1,White,04000US18,Indiana,2016,2016,55435,516,indiana
+1,White,04000US19,Iowa,2016,2016,57916,940,iowa
+1,White,04000US20,Kansas,2016,2016,57117,881,kansas
+1,White,04000US21,Kentucky,2016,2016,48613,715,kentucky
+1,White,04000US22,Louisiana,2016,2016,55134,914,louisiana
+1,White,04000US23,Maine,2016,2016,53640,1486,maine
+1,White,04000US24,Maryland,2016,2016,87776,1069,maryland
+1,White,04000US25,Massachusetts,2016,2016,79488,1034,massachusetts
+1,White,04000US26,Michigan,2016,2016,56526,449,michigan
+1,White,04000US27,Minnesota,2016,2016,68090,665,minnesota
+1,White,04000US28,Mississippi,2016,2016,51834,909,mississippi
+1,White,04000US29,Missouri,2016,2016,54829,595,missouri
+1,White,04000US30,Montana,2016,2016,51263,1124,montana
+1,White,04000US31,Nebraska,2016,2016,59082,1044,nebraska
+1,White,04000US32,Nevada,2016,2016,58853,1073,nevada
+1,White,04000US33,New Hampshire,2016,2016,71383,1422,new-hampshire
+1,White,04000US34,New Jersey,2016,2016,81536,680,new-jersey
+1,White,04000US35,New Mexico,2016,2016,49483,1314,new-mexico
+1,White,04000US36,New York,2016,2016,70871,494,new-york
+1,White,04000US37,North Carolina,2016,2016,55656,548,north-carolina
+1,White,04000US38,North Dakota,2016,2016,63383,2022,north-dakota
+1,White,04000US39,Ohio,2016,2016,56579,333,ohio
+1,White,04000US40,Oklahoma,2016,2016,52400,566,oklahoma
+1,White,04000US41,Oregon,2016,2016,58457,868,oregon
+1,White,04000US42,Pennsylvania,2016,2016,60595,326,pennsylvania
+1,White,04000US44,Rhode Island,2016,2016,63122,1899,rhode-island
+1,White,04000US45,South Carolina,2016,2016,56774,698,south-carolina
+1,White,04000US46,South Dakota,2016,2016,57070,1124,south-dakota
+1,White,04000US47,Tennessee,2016,2016,51488,517,tennessee
+1,White,04000US48,Texas,2016,2016,59891,390,texas
+1,White,04000US49,Utah,2016,2016,68087,1161,utah
+1,White,04000US50,Vermont,2016,2016,58439,1777,vermont
+1,White,04000US51,Virginia,2016,2016,73314,828,virginia
+1,White,04000US53,Washington,2016,2016,69048,808,washington
+1,White,04000US54,West Virginia,2016,2016,43847,1179,west-virginia
+1,White,04000US55,Wisconsin,2016,2016,59512,679,wisconsin
+1,White,04000US56,Wyoming,2016,2016,60108,2202,wyoming
+1,White,04000US72,Puerto Rico,2016,2016,21244,447,puerto-rico
+2,Black,04000US01,Alabama,2016,2016,31617,800,alabama
+2,Black,04000US02,Alaska,2016,2016,60363,17330,alaska
+2,Black,04000US04,Arizona,2016,2016,41842,1932,arizona
+2,Black,04000US05,Arkansas,2016,2016,30939,1014,arkansas
+2,Black,04000US06,California,2016,2016,46232,889,california
+2,Black,04000US08,Colorado,2016,2016,48058,2372,colorado
+2,Black,04000US09,Connecticut,2016,2016,43236,2426,connecticut
+2,Black,04000US10,Delaware,2016,2016,44663,4161,delaware
+2,Black,04000US11,District of Columbia,2016,2016,37891,3438,district-of-columbia
+2,Black,04000US12,Florida,2016,2016,37553,670,florida
+2,Black,04000US13,Georgia,2016,2016,41337,542,georgia
+2,Black,04000US15,Hawaii,2016,2016,71858,10093,hawaii
+2,Black,04000US16,Idaho,2016,2016,48060,17889,idaho
+2,Black,04000US17,Illinois,2016,2016,35517,839,illinois
+2,Black,04000US18,Indiana,2016,2016,32052,859,indiana
+2,Black,04000US19,Iowa,2016,2016,27883,3796,iowa
+2,Black,04000US20,Kansas,2016,2016,32652,3347,kansas
+2,Black,04000US21,Kentucky,2016,2016,32231,1404,kentucky
+2,Black,04000US22,Louisiana,2016,2016,27396,775,louisiana
+2,Black,04000US23,Maine,2016,2016,32390,21899,maine
+2,Black,04000US24,Maryland,2016,2016,62919,1506,maryland
+2,Black,04000US25,Massachusetts,2016,2016,46381,2382,massachusetts
+2,Black,04000US26,Michigan,2016,2016,32444,804,michigan
+2,Black,04000US27,Minnesota,2016,2016,33436,2575,minnesota
+2,Black,04000US28,Mississippi,2016,2016,29381,1055,mississippi
+2,Black,04000US29,Missouri,2016,2016,36227,969,missouri
+2,Black,04000US30,Montana,2016,2016,38174,20979,montana
+2,Black,04000US31,Nebraska,2016,2016,32976,4765,nebraska
+2,Black,04000US32,Nevada,2016,2016,37296,2286,nevada
+2,Black,04000US33,New Hampshire,2016,2016,55786,6224,new-hampshire
+2,Black,04000US34,New Jersey,2016,2016,47696,1716,new-jersey
+2,Black,04000US35,New Mexico,2016,2016,47043,3713,new-mexico
+2,Black,04000US36,New York,2016,2016,45277,1077,new-york
+2,Black,04000US37,North Carolina,2016,2016,36014,627,north-carolina
+2,Black,04000US38,North Dakota,2016,2016,24810,9666,north-dakota
+2,Black,04000US39,Ohio,2016,2016,31035,693,ohio
+2,Black,04000US40,Oklahoma,2016,2016,30923,1334,oklahoma
+2,Black,04000US41,Oregon,2016,2016,35723,6471,oregon
+2,Black,04000US42,Pennsylvania,2016,2016,36253,1019,pennsylvania
+2,Black,04000US44,Rhode Island,2016,2016,42425,5446,rhode-island
+2,Black,04000US45,South Carolina,2016,2016,32211,784,south-carolina
+2,Black,04000US46,South Dakota,2016,2016,42844,10586,south-dakota
+2,Black,04000US47,Tennessee,2016,2016,35673,1075,tennessee
+2,Black,04000US48,Texas,2016,2016,42582,880,texas
+2,Black,04000US49,Utah,2016,2016,26795,13239,utah
+2,Black,04000US50,Vermont,2016,2016,25635,7482,vermont
+2,Black,04000US51,Virginia,2016,2016,47346,1198,virginia
+2,Black,04000US53,Washington,2016,2016,47410,2658,washington
+2,Black,04000US54,West Virginia,2016,2016,32850,3878,west-virginia
+2,Black,04000US55,Wisconsin,2016,2016,28276,1694,wisconsin
+2,Black,04000US56,Wyoming,2016,2016,60320,26069,wyoming
+2,Black,04000US72,Puerto Rico,2016,2016,18185,1182,puerto-rico
+3,Native American,04000US01,Alabama,2016,2016,50116,9277,alabama
+3,Native American,04000US02,Alaska,2016,2016,47824,4941,alaska
+3,Native American,04000US04,Arizona,2016,2016,34813,2223,arizona
+3,Native American,04000US05,Arkansas,2016,2016,41567,6751,arkansas
+3,Native American,04000US06,California,2016,2016,47489,2604,california
+3,Native American,04000US08,Colorado,2016,2016,37119,6270,colorado
+3,Native American,04000US09,Connecticut,2016,2016,42841,14739,connecticut
+3,Native American,04000US10,Delaware,2016,2016,44904,40706,delaware
+3,Native American,04000US12,Florida,2016,2016,43893,10302,florida
+3,Native American,04000US13,Georgia,2016,2016,28548,7919,georgia
+3,Native American,04000US16,Idaho,2016,2016,37340,9382,idaho
+3,Native American,04000US17,Illinois,2016,2016,38894,11384,illinois
+3,Native American,04000US18,Indiana,2016,2016,41056,13037,indiana
+3,Native American,04000US19,Iowa,2016,2016,33950,9520,iowa
+3,Native American,04000US20,Kansas,2016,2016,33816,4174,kansas
+3,Native American,04000US21,Kentucky,2016,2016,44286,29325,kentucky
+3,Native American,04000US22,Louisiana,2016,2016,43092,12128,louisiana
+3,Native American,04000US23,Maine,2016,2016,28381,11883,maine
+3,Native American,04000US24,Maryland,2016,2016,73580,20657,maryland
+3,Native American,04000US25,Massachusetts,2016,2016,41875,13600,massachusetts
+3,Native American,04000US26,Michigan,2016,2016,39775,4701,michigan
+3,Native American,04000US27,Minnesota,2016,2016,37034,5365,minnesota
+3,Native American,04000US28,Mississippi,2016,2016,25536,10443,mississippi
+3,Native American,04000US29,Missouri,2016,2016,30722,7953,missouri
+3,Native American,04000US30,Montana,2016,2016,36770,3790,montana
+3,Native American,04000US31,Nebraska,2016,2016,44152,5104,nebraska
+3,Native American,04000US32,Nevada,2016,2016,35139,4115,nevada
+3,Native American,04000US34,New Jersey,2016,2016,41846,17493,new-jersey
+3,Native American,04000US35,New Mexico,2016,2016,33538,2948,new-mexico
+3,Native American,04000US36,New York,2016,2016,41145,5238,new-york
+3,Native American,04000US37,North Carolina,2016,2016,38002,3681,north-carolina
+3,Native American,04000US38,North Dakota,2016,2016,33478,8168,north-dakota
+3,Native American,04000US39,Ohio,2016,2016,31661,6144,ohio
+3,Native American,04000US40,Oklahoma,2016,2016,40470,1399,oklahoma
+3,Native American,04000US41,Oregon,2016,2016,38436,4937,oregon
+3,Native American,04000US42,Pennsylvania,2016,2016,28441,10474,pennsylvania
+3,Native American,04000US44,Rhode Island,2016,2016,33186,25122,rhode-island
+3,Native American,04000US45,South Carolina,2016,2016,42097,7111,south-carolina
+3,Native American,04000US46,South Dakota,2016,2016,20001,2953,south-dakota
+3,Native American,04000US47,Tennessee,2016,2016,49676,13610,tennessee
+3,Native American,04000US48,Texas,2016,2016,51222,5879,texas
+3,Native American,04000US49,Utah,2016,2016,37152,5958,utah
+3,Native American,04000US51,Virginia,2016,2016,54283,17698,virginia
+3,Native American,04000US53,Washington,2016,2016,45275,3475,washington
+3,Native American,04000US54,West Virginia,2016,2016,18406,10029,west-virginia
+3,Native American,04000US55,Wisconsin,2016,2016,39687,3183,wisconsin
+3,Native American,04000US56,Wyoming,2016,2016,40414,5420,wyoming
+3,Native American,04000US72,Puerto Rico,2016,2016,22917,8995,puerto-rico
+4,Asian,04000US01,Alabama,2016,2016,61413,8063,alabama
+4,Asian,04000US02,Alaska,2016,2016,79048,11411,alaska
+4,Asian,04000US04,Arizona,2016,2016,69816,3458,arizona
+4,Asian,04000US05,Arkansas,2016,2016,63539,11713,arkansas
+4,Asian,04000US06,California,2016,2016,86647,1127,california
+4,Asian,04000US08,Colorado,2016,2016,70370,5253,colorado
+4,Asian,04000US09,Connecticut,2016,2016,89946,7513,connecticut
+4,Asian,04000US10,Delaware,2016,2016,84307,10585,delaware
+4,Asian,04000US11,District of Columbia,2016,2016,99385,11697,district-of-columbia
+4,Asian,04000US12,Florida,2016,2016,67059,2747,florida
+4,Asian,04000US13,Georgia,2016,2016,75632,5167,georgia
+4,Asian,04000US15,Hawaii,2016,2016,78800,2604,hawaii
+4,Asian,04000US16,Idaho,2016,2016,37478,6527,idaho
+4,Asian,04000US17,Illinois,2016,2016,85423,3981,illinois
+4,Asian,04000US18,Indiana,2016,2016,51547,5372,indiana
+4,Asian,04000US19,Iowa,2016,2016,53565,4061,iowa
+4,Asian,04000US20,Kansas,2016,2016,62615,9913,kansas
+4,Asian,04000US21,Kentucky,2016,2016,60260,5474,kentucky
+4,Asian,04000US22,Louisiana,2016,2016,53931,9878,louisiana
+4,Asian,04000US23,Maine,2016,2016,55985,11823,maine
+4,Asian,04000US24,Maryland,2016,2016,97900,3968,maryland
+4,Asian,04000US25,Massachusetts,2016,2016,89425,5749,massachusetts
+4,Asian,04000US26,Michigan,2016,2016,78974,4085,michigan
+4,Asian,04000US27,Minnesota,2016,2016,70853,3122,minnesota
+4,Asian,04000US28,Mississippi,2016,2016,55428,6562,mississippi
+4,Asian,04000US29,Missouri,2016,2016,62465,6268,missouri
+4,Asian,04000US30,Montana,2016,2016,37328,14722,montana
+4,Asian,04000US31,Nebraska,2016,2016,51717,9442,nebraska
+4,Asian,04000US32,Nevada,2016,2016,65574,2690,nevada
+4,Asian,04000US33,New Hampshire,2016,2016,67233,18543,new-hampshire
+4,Asian,04000US34,New Jersey,2016,2016,109058,4292,new-jersey
+4,Asian,04000US35,New Mexico,2016,2016,59508,8280,new-mexico
+4,Asian,04000US36,New York,2016,2016,68453,2209,new-york
+4,Asian,04000US37,North Carolina,2016,2016,80381,3776,north-carolina
+4,Asian,04000US38,North Dakota,2016,2016,59429,25192,north-dakota
+4,Asian,04000US39,Ohio,2016,2016,70866,6515,ohio
+4,Asian,04000US40,Oklahoma,2016,2016,56684,6874,oklahoma
+4,Asian,04000US41,Oregon,2016,2016,72282,5654,oregon
+4,Asian,04000US42,Pennsylvania,2016,2016,70086,4773,pennsylvania
+4,Asian,04000US44,Rhode Island,2016,2016,83610,6758,rhode-island
+4,Asian,04000US45,South Carolina,2016,2016,63241,10437,south-carolina
+4,Asian,04000US46,South Dakota,2016,2016,41150,22298,south-dakota
+4,Asian,04000US47,Tennessee,2016,2016,69497,4241,tennessee
+4,Asian,04000US48,Texas,2016,2016,82081,1812,texas
+4,Asian,04000US49,Utah,2016,2016,71077,4180,utah
+4,Asian,04000US50,Vermont,2016,2016,58750,33685,vermont
+4,Asian,04000US51,Virginia,2016,2016,97343,4639,virginia
+4,Asian,04000US53,Washington,2016,2016,85114,2557,washington
+4,Asian,04000US54,West Virginia,2016,2016,60071,8909,west-virginia
+4,Asian,04000US55,Wisconsin,2016,2016,68327,5549,wisconsin
+4,Asian,04000US56,Wyoming,2016,2016,80229,30325,wyoming
+4,Asian,04000US72,Puerto Rico,2016,2016,33385,16962,puerto-rico
+5,Pacific Islander,04000US01,Alabama,2016,2016,26320,1045,alabama
+5,Pacific Islander,04000US02,Alaska,2016,2016,63465,33118,alaska
+5,Pacific Islander,04000US04,Arizona,2016,2016,54875,16841,arizona
+5,Pacific Islander,04000US05,Arkansas,2016,2016,28882,19555,arkansas
+5,Pacific Islander,04000US06,California,2016,2016,74278,4623,california
+5,Pacific Islander,04000US08,Colorado,2016,2016,42216,12664,colorado
+5,Pacific Islander,04000US12,Florida,2016,2016,47226,18237,florida
+5,Pacific Islander,04000US15,Hawaii,2016,2016,54920,6697,hawaii
+5,Pacific Islander,04000US16,Idaho,2016,2016,43984,40364,idaho
+5,Pacific Islander,04000US18,Indiana,2016,2016,47262,29005,indiana
+5,Pacific Islander,04000US20,Kansas,2016,2016,44639,9042,kansas
+5,Pacific Islander,04000US22,Louisiana,2016,2016,88212,2850,louisiana
+5,Pacific Islander,04000US25,Massachusetts,2016,2016,59989,14037,massachusetts
+5,Pacific Islander,04000US27,Minnesota,2016,2016,101411,65675,minnesota
+5,Pacific Islander,04000US28,Mississippi,2016,2016,48405,13596,mississippi
+5,Pacific Islander,04000US29,Missouri,2016,2016,35161,20208,missouri
+5,Pacific Islander,04000US32,Nevada,2016,2016,48231,4859,nevada
+5,Pacific Islander,04000US36,New York,2016,2016,57994,12660,new-york
+5,Pacific Islander,04000US37,North Carolina,2016,2016,52963,30987,north-carolina
+5,Pacific Islander,04000US39,Ohio,2016,2016,60373,35368,ohio
+5,Pacific Islander,04000US41,Oregon,2016,2016,54418,25074,oregon
+5,Pacific Islander,04000US42,Pennsylvania,2016,2016,80625,52878,pennsylvania
+5,Pacific Islander,04000US44,Rhode Island,2016,2016,49393,48264,rhode-island
+5,Pacific Islander,04000US48,Texas,2016,2016,48414,2852,texas
+5,Pacific Islander,04000US49,Utah,2016,2016,56625,23091,utah
+5,Pacific Islander,04000US51,Virginia,2016,2016,60984,22079,virginia
+5,Pacific Islander,04000US53,Washington,2016,2016,56756,11797,washington
+5,Pacific Islander,04000US55,Wisconsin,2016,2016,25877,9786,wisconsin
+6,Other,04000US01,Alabama,2016,2016,39464,9214,alabama
+6,Other,04000US02,Alaska,2016,2016,76260,24177,alaska
+6,Other,04000US04,Arizona,2016,2016,41354,1127,arizona
+6,Other,04000US05,Arkansas,2016,2016,36670,6059,arkansas
+6,Other,04000US06,California,2016,2016,50026,675,california
+6,Other,04000US08,Colorado,2016,2016,48463,3752,colorado
+6,Other,04000US09,Connecticut,2016,2016,42463,4017,connecticut
+6,Other,04000US10,Delaware,2016,2016,35409,32475,delaware
+6,Other,04000US11,District of Columbia,2016,2016,49897,8951,district-of-columbia
+6,Other,04000US12,Florida,2016,2016,41865,1679,florida
+6,Other,04000US13,Georgia,2016,2016,41354,3348,georgia
+6,Other,04000US15,Hawaii,2016,2016,49929,18458,hawaii
+6,Other,04000US16,Idaho,2016,2016,46482,8167,idaho
+6,Other,04000US17,Illinois,2016,2016,47588,2300,illinois
+6,Other,04000US18,Indiana,2016,2016,39990,2747,indiana
+6,Other,04000US19,Iowa,2016,2016,40413,7604,iowa
+6,Other,04000US20,Kansas,2016,2016,44585,4364,kansas
+6,Other,04000US21,Kentucky,2016,2016,37094,5479,kentucky
+6,Other,04000US22,Louisiana,2016,2016,37200,2093,louisiana
+6,Other,04000US24,Maryland,2016,2016,62659,5218,maryland
+6,Other,04000US25,Massachusetts,2016,2016,41832,2665,massachusetts
+6,Other,04000US26,Michigan,2016,2016,39790,3964,michigan
+6,Other,04000US27,Minnesota,2016,2016,48716,6108,minnesota
+6,Other,04000US28,Mississippi,2016,2016,39160,11874,mississippi
+6,Other,04000US29,Missouri,2016,2016,38411,8320,missouri
+6,Other,04000US30,Montana,2016,2016,29308,6896,montana
+6,Other,04000US31,Nebraska,2016,2016,40893,6016,nebraska
+6,Other,04000US32,Nevada,2016,2016,40667,2195,nevada
+6,Other,04000US33,New Hampshire,2016,2016,85396,10895,new-hampshire
+6,Other,04000US34,New Jersey,2016,2016,46230,1681,new-jersey
+6,Other,04000US35,New Mexico,2016,2016,35148,2191,new-mexico
+6,Other,04000US36,New York,2016,2016,38417,1210,new-york
+6,Other,04000US37,North Carolina,2016,2016,37002,2394,north-carolina
+6,Other,04000US38,North Dakota,2016,2016,58675,39669,north-dakota
+6,Other,04000US39,Ohio,2016,2016,34021,3904,ohio
+6,Other,04000US40,Oklahoma,2016,2016,39664,2736,oklahoma
+6,Other,04000US41,Oregon,2016,2016,50739,4292,oregon
+6,Other,04000US42,Pennsylvania,2016,2016,34255,2254,pennsylvania
+6,Other,04000US44,Rhode Island,2016,2016,35279,8326,rhode-island
+6,Other,04000US45,South Carolina,2016,2016,38582,4054,south-carolina
+6,Other,04000US46,South Dakota,2016,2016,48216,9374,south-dakota
+6,Other,04000US47,Tennessee,2016,2016,40564,3738,tennessee
+6,Other,04000US48,Texas,2016,2016,42451,1103,texas
+6,Other,04000US49,Utah,2016,2016,45975,3420,utah
+6,Other,04000US50,Vermont,2016,2016,68561,29195,vermont
+6,Other,04000US51,Virginia,2016,2016,52113,4291,virginia
+6,Other,04000US53,Washington,2016,2016,50701,2309,washington
+6,Other,04000US54,West Virginia,2016,2016,30750,27675,west-virginia
+6,Other,04000US55,Wisconsin,2016,2016,41046,7743,wisconsin
+6,Other,04000US56,Wyoming,2016,2016,24373,21564,wyoming
+6,Other,04000US72,Puerto Rico,2016,2016,16866,772,puerto-rico
+7,Two Or More,04000US01,Alabama,2016,2016,44843,9066,alabama
+7,Two Or More,04000US02,Alaska,2016,2016,62811,4913,alaska
+7,Two Or More,04000US04,Arizona,2016,2016,51405,5108,arizona
+7,Two Or More,04000US05,Arkansas,2016,2016,36441,6157,arkansas
+7,Two Or More,04000US06,California,2016,2016,68734,3116,california
+7,Two Or More,04000US08,Colorado,2016,2016,58131,4585,colorado
+7,Two Or More,04000US09,Connecticut,2016,2016,53715,8291,connecticut
+7,Two Or More,04000US10,Delaware,2016,2016,40099,17311,delaware
+7,Two Or More,04000US11,District of Columbia,2016,2016,81848,20039,district-of-columbia
+7,Two Or More,04000US12,Florida,2016,2016,47221,2070,florida
+7,Two Or More,04000US13,Georgia,2016,2016,57396,5011,georgia
+7,Two Or More,04000US15,Hawaii,2016,2016,79175,5015,hawaii
+7,Two Or More,04000US16,Idaho,2016,2016,41390,5833,idaho
+7,Two Or More,04000US17,Illinois,2016,2016,49928,3470,illinois
+7,Two Or More,04000US18,Indiana,2016,2016,35280,3012,indiana
+7,Two Or More,04000US19,Iowa,2016,2016,45127,11209,iowa
+7,Two Or More,04000US20,Kansas,2016,2016,51753,3856,kansas
+7,Two Or More,04000US21,Kentucky,2016,2016,34444,5032,kentucky
+7,Two Or More,04000US22,Louisiana,2016,2016,42033,5963,louisiana
+7,Two Or More,04000US23,Maine,2016,2016,34917,9229,maine
+7,Two Or More,04000US24,Maryland,2016,2016,71550,6714,maryland
+7,Two Or More,04000US25,Massachusetts,2016,2016,65442,8169,massachusetts
+7,Two Or More,04000US26,Michigan,2016,2016,43910,4149,michigan
+7,Two Or More,04000US27,Minnesota,2016,2016,58894,4042,minnesota
+7,Two Or More,04000US28,Mississippi,2016,2016,36920,3782,mississippi
+7,Two Or More,04000US29,Missouri,2016,2016,39521,3864,missouri
+7,Two Or More,04000US30,Montana,2016,2016,37476,3600,montana
+7,Two Or More,04000US31,Nebraska,2016,2016,41169,8813,nebraska
+7,Two Or More,04000US32,Nevada,2016,2016,55308,5937,nevada
+7,Two Or More,04000US33,New Hampshire,2016,2016,41741,10457,new-hampshire
+7,Two Or More,04000US34,New Jersey,2016,2016,61530,6197,new-jersey
+7,Two Or More,04000US35,New Mexico,2016,2016,51967,4954,new-mexico
+7,Two Or More,04000US36,New York,2016,2016,52216,3246,new-york
+7,Two Or More,04000US37,North Carolina,2016,2016,44049,5361,north-carolina
+7,Two Or More,04000US38,North Dakota,2016,2016,42230,12158,north-dakota
+7,Two Or More,04000US39,Ohio,2016,2016,37007,2961,ohio
+7,Two Or More,04000US40,Oklahoma,2016,2016,44650,2568,oklahoma
+7,Two Or More,04000US41,Oregon,2016,2016,50313,3604,oregon
+7,Two Or More,04000US42,Pennsylvania,2016,2016,45596,3277,pennsylvania
+7,Two Or More,04000US44,Rhode Island,2016,2016,34831,8838,rhode-island
+7,Two Or More,04000US45,South Carolina,2016,2016,46965,4552,south-carolina
+7,Two Or More,04000US46,South Dakota,2016,2016,35101,13068,south-dakota
+7,Two Or More,04000US47,Tennessee,2016,2016,37618,4645,tennessee
+7,Two Or More,04000US48,Texas,2016,2016,54398,1955,texas
+7,Two Or More,04000US49,Utah,2016,2016,58684,5304,utah
+7,Two Or More,04000US50,Vermont,2016,2016,20060,14030,vermont
+7,Two Or More,04000US51,Virginia,2016,2016,62132,6945,virginia
+7,Two Or More,04000US53,Washington,2016,2016,55565,3796,washington
+7,Two Or More,04000US54,West Virginia,2016,2016,34882,8306,west-virginia
+7,Two Or More,04000US55,Wisconsin,2016,2016,45354,7143,wisconsin
+7,Two Or More,04000US56,Wyoming,2016,2016,63712,15265,wyoming
+7,Two Or More,04000US72,Puerto Rico,2016,2016,20141,1865,puerto-rico
+8,White Non-Hispanic,04000US01,Alabama,2016,2016,52312,630,alabama
+8,White Non-Hispanic,04000US02,Alaska,2016,2016,83106,2124,alaska
+8,White Non-Hispanic,04000US04,Arizona,2016,2016,59495,789,arizona
+8,White Non-Hispanic,04000US05,Arkansas,2016,2016,48523,864,arkansas
+8,White Non-Hispanic,04000US06,California,2016,2016,79353,587,california
+8,White Non-Hispanic,04000US08,Colorado,2016,2016,71406,623,colorado
+8,White Non-Hispanic,04000US09,Connecticut,2016,2016,84030,1309,connecticut
+8,White Non-Hispanic,04000US10,Delaware,2016,2016,68591,1908,delaware
+8,White Non-Hispanic,04000US11,District of Columbia,2016,2016,127369,7679,district-of-columbia
+8,White Non-Hispanic,04000US12,Florida,2016,2016,55877,444,florida
+8,White Non-Hispanic,04000US13,Georgia,2016,2016,62023,674,georgia
+8,White Non-Hispanic,04000US15,Hawaii,2016,2016,75265,3980,hawaii
+8,White Non-Hispanic,04000US16,Idaho,2016,2016,53751,1342,idaho
+8,White Non-Hispanic,04000US17,Illinois,2016,2016,68083,709,illinois
+8,White Non-Hispanic,04000US18,Indiana,2016,2016,55786,522,indiana
+8,White Non-Hispanic,04000US19,Iowa,2016,2016,58389,922,iowa
+8,White Non-Hispanic,04000US20,Kansas,2016,2016,58411,924,kansas
+8,White Non-Hispanic,04000US21,Kentucky,2016,2016,48770,725,kentucky
+8,White Non-Hispanic,04000US22,Louisiana,2016,2016,55820,912,louisiana
+8,White Non-Hispanic,04000US23,Maine,2016,2016,53754,1512,maine
+8,White Non-Hispanic,04000US24,Maryland,2016,2016,88633,1146,maryland
+8,White Non-Hispanic,04000US25,Massachusetts,2016,2016,82029,795,massachusetts
+8,White Non-Hispanic,04000US26,Michigan,2016,2016,56840,441,michigan
+8,White Non-Hispanic,04000US27,Minnesota,2016,2016,68687,681,minnesota
+8,White Non-Hispanic,04000US28,Mississippi,2016,2016,51974,920,mississippi
+8,White Non-Hispanic,04000US29,Missouri,2016,2016,55092,567,missouri
+8,White Non-Hispanic,04000US30,Montana,2016,2016,51472,1165,montana
+8,White Non-Hispanic,04000US31,Nebraska,2016,2016,60045,925,nebraska
+8,White Non-Hispanic,04000US32,Nevada,2016,2016,61165,1026,nevada
+8,White Non-Hispanic,04000US33,New Hampshire,2016,2016,71718,1410,new-hampshire
+8,White Non-Hispanic,04000US34,New Jersey,2016,2016,86361,992,new-jersey
+8,White Non-Hispanic,04000US35,New Mexico,2016,2016,57069,1874,new-mexico
+8,White Non-Hispanic,04000US36,New York,2016,2016,72721,696,new-york
+8,White Non-Hispanic,04000US37,North Carolina,2016,2016,56669,575,north-carolina
+8,White Non-Hispanic,04000US38,North Dakota,2016,2016,64084,1891,north-dakota
+8,White Non-Hispanic,04000US39,Ohio,2016,2016,56766,339,ohio
+8,White Non-Hispanic,04000US40,Oklahoma,2016,2016,53436,685,oklahoma
+8,White Non-Hispanic,04000US41,Oregon,2016,2016,59521,904,oregon
+8,White Non-Hispanic,04000US42,Pennsylvania,2016,2016,61229,344,pennsylvania
+8,White Non-Hispanic,04000US44,Rhode Island,2016,2016,65485,1740,rhode-island
+8,White Non-Hispanic,04000US45,South Carolina,2016,2016,57397,777,south-carolina
+8,White Non-Hispanic,04000US46,South Dakota,2016,2016,57272,1273,south-dakota
+8,White Non-Hispanic,04000US47,Tennessee,2016,2016,51794,519,tennessee
+8,White Non-Hispanic,04000US48,Texas,2016,2016,70131,509,texas
+8,White Non-Hispanic,04000US49,Utah,2016,2016,69776,1101,utah
+8,White Non-Hispanic,04000US50,Vermont,2016,2016,58864,1783,vermont
+8,White Non-Hispanic,04000US51,Virginia,2016,2016,74020,825,virginia
+8,White Non-Hispanic,04000US53,Washington,2016,2016,70479,661,washington
+8,White Non-Hispanic,04000US54,West Virginia,2016,2016,43849,1183,west-virginia
+8,White Non-Hispanic,04000US55,Wisconsin,2016,2016,60087,569,wisconsin
+8,White Non-Hispanic,04000US56,Wyoming,2016,2016,60917,2054,wyoming
+8,White Non-Hispanic,04000US72,Puerto Rico,2016,2016,31751,5997,puerto-rico
+9,Hispanic,04000US01,Alabama,2016,2016,40236,4999,alabama
+9,Hispanic,04000US02,Alaska,2016,2016,64200,11210,alaska
+9,Hispanic,04000US04,Arizona,2016,2016,43657,1198,arizona
+9,Hispanic,04000US05,Arkansas,2016,2016,37186,3819,arkansas
+9,Hispanic,04000US06,California,2016,2016,52403,423,california
+9,Hispanic,04000US08,Colorado,2016,2016,49201,1815,colorado
+9,Hispanic,04000US09,Connecticut,2016,2016,46808,1436,connecticut
+9,Hispanic,04000US10,Delaware,2016,2016,47478,7837,delaware
+9,Hispanic,04000US11,District of Columbia,2016,2016,64930,4855,district-of-columbia
+9,Hispanic,04000US12,Florida,2016,2016,44042,1013,florida
+9,Hispanic,04000US13,Georgia,2016,2016,46389,1649,georgia
+9,Hispanic,04000US15,Hawaii,2016,2016,62018,5456,hawaii
+9,Hispanic,04000US16,Idaho,2016,2016,40802,2721,idaho
+9,Hispanic,04000US17,Illinois,2016,2016,51706,821,illinois
+9,Hispanic,04000US18,Indiana,2016,2016,41532,1419,indiana
+9,Hispanic,04000US19,Iowa,2016,2016,44277,4042,iowa
+9,Hispanic,04000US20,Kansas,2016,2016,44297,2228,kansas
+9,Hispanic,04000US21,Kentucky,2016,2016,39043,3989,kentucky
+9,Hispanic,04000US22,Louisiana,2016,2016,39276,4088,louisiana
+9,Hispanic,04000US23,Maine,2016,2016,42314,8060,maine
+9,Hispanic,04000US24,Maryland,2016,2016,68332,3470,maryland
+9,Hispanic,04000US25,Massachusetts,2016,2016,39742,1726,massachusetts
+9,Hispanic,04000US26,Michigan,2016,2016,44339,2507,michigan
+9,Hispanic,04000US27,Minnesota,2016,2016,45946,2086,minnesota
+9,Hispanic,04000US28,Mississippi,2016,2016,40552,3018,mississippi
+9,Hispanic,04000US29,Missouri,2016,2016,43264,3633,missouri
+9,Hispanic,04000US30,Montana,2016,2016,33790,13317,montana
+9,Hispanic,04000US31,Nebraska,2016,2016,46531,3343,nebraska
+9,Hispanic,04000US32,Nevada,2016,2016,45836,1641,nevada
+9,Hispanic,04000US33,New Hampshire,2016,2016,52087,7374,new-hampshire
+9,Hispanic,04000US34,New Jersey,2016,2016,52599,1328,new-jersey
+9,Hispanic,04000US35,New Mexico,2016,2016,38924,1607,new-mexico
+9,Hispanic,04000US36,New York,2016,2016,42973,1068,new-york
+9,Hispanic,04000US37,North Carolina,2016,2016,39388,2113,north-carolina
+9,Hispanic,04000US38,North Dakota,2016,2016,37239,11807,north-dakota
+9,Hispanic,04000US39,Ohio,2016,2016,41621,2016,ohio
+9,Hispanic,04000US40,Oklahoma,2016,2016,40273,1615,oklahoma
+9,Hispanic,04000US41,Oregon,2016,2016,46180,2125,oregon
+9,Hispanic,04000US42,Pennsylvania,2016,2016,38271,2248,pennsylvania
+9,Hispanic,04000US44,Rhode Island,2016,2016,36877,3156,rhode-island
+9,Hispanic,04000US45,South Carolina,2016,2016,40749,2083,south-carolina
+9,Hispanic,04000US46,South Dakota,2016,2016,46481,8677,south-dakota
+9,Hispanic,04000US47,Tennessee,2016,2016,41013,1957,tennessee
+9,Hispanic,04000US48,Texas,2016,2016,44579,652,texas
+9,Hispanic,04000US49,Utah,2016,2016,47167,2993,utah
+9,Hispanic,04000US50,Vermont,2016,2016,46871,11806,vermont
+9,Hispanic,04000US51,Virginia,2016,2016,60534,1793,virginia
+9,Hispanic,04000US53,Washington,2016,2016,50517,1463,washington
+9,Hispanic,04000US54,West Virginia,2016,2016,38362,10282,west-virginia
+9,Hispanic,04000US55,Wisconsin,2016,2016,42323,2791,wisconsin
+9,Hispanic,04000US56,Wyoming,2016,2016,46271,5331,wyoming
+9,Hispanic,04000US72,Puerto Rico,2016,2016,19977,345,puerto-rico
+0,Total,04000US01,Alabama,2015,2015,44765,744,alabama
+0,Total,04000US02,Alaska,2015,2015,73355,2316,alaska
+0,Total,04000US04,Arizona,2015,2015,51492,431,arizona
+0,Total,04000US05,Arkansas,2015,2015,41995,477,arkansas
+0,Total,04000US06,California,2015,2015,64500,395,california
+0,Total,04000US08,Colorado,2015,2015,63909,891,colorado
+0,Total,04000US09,Connecticut,2015,2015,71346,783,connecticut
+0,Total,04000US10,Delaware,2015,2015,61255,1281,delaware
+0,Total,04000US11,District of Columbia,2015,2015,75628,2493,district-of-columbia
+0,Total,04000US12,Florida,2015,2015,49426,331,florida
+0,Total,04000US13,Georgia,2015,2015,51244,372,georgia
+0,Total,04000US15,Hawaii,2015,2015,73486,2012,hawaii
+0,Total,04000US16,Idaho,2015,2015,48275,1093,idaho
+0,Total,04000US17,Illinois,2015,2015,59588,511,illinois
+0,Total,04000US18,Indiana,2015,2015,50532,387,indiana
+0,Total,04000US19,Iowa,2015,2015,54736,787,iowa
+0,Total,04000US20,Kansas,2015,2015,53906,872,kansas
+0,Total,04000US21,Kentucky,2015,2015,45215,470,kentucky
+0,Total,04000US22,Louisiana,2015,2015,45727,670,louisiana
+0,Total,04000US23,Maine,2015,2015,51494,854,maine
+0,Total,04000US24,Maryland,2015,2015,75847,591,maryland
+0,Total,04000US25,Massachusetts,2015,2015,70628,620,massachusetts
+0,Total,04000US26,Michigan,2015,2015,51084,244,michigan
+0,Total,04000US27,Minnesota,2015,2015,63488,669,minnesota
+0,Total,04000US28,Mississippi,2015,2015,40593,543,mississippi
+0,Total,04000US29,Missouri,2015,2015,50238,415,missouri
+0,Total,04000US30,Montana,2015,2015,49509,1410,montana
+0,Total,04000US31,Nebraska,2015,2015,54996,830,nebraska
+0,Total,04000US32,Nevada,2015,2015,52431,978,nevada
+0,Total,04000US33,New Hampshire,2015,2015,70303,1254,new-hampshire
+0,Total,04000US34,New Jersey,2015,2015,72222,610,new-jersey
+0,Total,04000US35,New Mexico,2015,2015,45382,870,new-mexico
+0,Total,04000US36,New York,2015,2015,60850,306,new-york
+0,Total,04000US37,North Carolina,2015,2015,47830,521,north-carolina
+0,Total,04000US38,North Dakota,2015,2015,60557,1661,north-dakota
+0,Total,04000US39,Ohio,2015,2015,51075,233,ohio
+0,Total,04000US40,Oklahoma,2015,2015,48568,514,oklahoma
+0,Total,04000US41,Oregon,2015,2015,54148,912,oregon
+0,Total,04000US42,Pennsylvania,2015,2015,55702,377,pennsylvania
+0,Total,04000US44,Rhode Island,2015,2015,58073,2421,rhode-island
+0,Total,04000US45,South Carolina,2015,2015,47238,547,south-carolina
+0,Total,04000US46,South Dakota,2015,2015,53017,1096,south-dakota
+0,Total,04000US47,Tennessee,2015,2015,47275,489,tennessee
+0,Total,04000US48,Texas,2015,2015,55653,314,texas
+0,Total,04000US49,Utah,2015,2015,62912,1223,utah
+0,Total,04000US50,Vermont,2015,2015,56990,1325,vermont
+0,Total,04000US51,Virginia,2015,2015,66262,541,virginia
+0,Total,04000US53,Washington,2015,2015,64129,794,washington
+0,Total,04000US54,West Virginia,2015,2015,42019,793,west-virginia
+0,Total,04000US55,Wisconsin,2015,2015,55638,427,wisconsin
+0,Total,04000US56,Wyoming,2015,2015,60214,1582,wyoming
+0,Total,04000US72,Puerto Rico,2015,2015,18626,332,puerto-rico
+1,White,04000US01,Alabama,2015,2015,51401,639,alabama
+1,White,04000US02,Alaska,2015,2015,81159,2437,alaska
+1,White,04000US04,Arizona,2015,2015,53701,732,arizona
+1,White,04000US05,Arkansas,2015,2015,46049,614,arkansas
+1,White,04000US06,California,2015,2015,67191,324,california
+1,White,04000US08,Colorado,2015,2015,66004,627,colorado
+1,White,04000US09,Connecticut,2015,2015,77506,1317,connecticut
+1,White,04000US10,Delaware,2015,2015,63708,2234,delaware
+1,White,04000US11,District of Columbia,2015,2015,120405,3758,district-of-columbia
+1,White,04000US12,Florida,2015,2015,51597,246,florida
+1,White,04000US13,Georgia,2015,2015,58791,852,georgia
+1,White,04000US15,Hawaii,2015,2015,71548,1998,hawaii
+1,White,04000US16,Idaho,2015,2015,48534,1143,idaho
+1,White,04000US17,Illinois,2015,2015,64571,606,illinois
+1,White,04000US18,Indiana,2015,2015,52659,600,indiana
+1,White,04000US19,Iowa,2015,2015,56094,670,iowa
+1,White,04000US20,Kansas,2015,2015,56234,730,kansas
+1,White,04000US21,Kentucky,2015,2015,46810,514,kentucky
+1,White,04000US22,Louisiana,2015,2015,56093,955,louisiana
+1,White,04000US23,Maine,2015,2015,52056,944,maine
+1,White,04000US24,Maryland,2015,2015,84384,1396,maryland
+1,White,04000US25,Massachusetts,2015,2015,75416,785,massachusetts
+1,White,04000US26,Michigan,2015,2015,54775,463,michigan
+1,White,04000US27,Minnesota,2015,2015,66413,459,minnesota
+1,White,04000US28,Mississippi,2015,2015,50475,822,mississippi
+1,White,04000US29,Missouri,2015,2015,52508,562,missouri
+1,White,04000US30,Montana,2015,2015,50620,993,montana
+1,White,04000US31,Nebraska,2015,2015,57274,864,nebraska
+1,White,04000US32,Nevada,2015,2015,56021,928,nevada
+1,White,04000US33,New Hampshire,2015,2015,70401,1221,new-hampshire
+1,White,04000US34,New Jersey,2015,2015,79010,1194,new-jersey
+1,White,04000US35,New Mexico,2015,2015,48149,1164,new-mexico
+1,White,04000US36,New York,2015,2015,68215,618,new-york
+1,White,04000US37,North Carolina,2015,2015,53273,653,north-carolina
+1,White,04000US38,North Dakota,2015,2015,62449,1832,north-dakota
+1,White,04000US39,Ohio,2015,2015,55162,335,ohio
+1,White,04000US40,Oklahoma,2015,2015,51379,384,oklahoma
+1,White,04000US41,Oregon,2015,2015,54729,920,oregon
+1,White,04000US42,Pennsylvania,2015,2015,59481,593,pennsylvania
+1,White,04000US44,Rhode Island,2015,2015,62305,1959,rhode-island
+1,White,04000US45,South Carolina,2015,2015,54998,840,south-carolina
+1,White,04000US46,South Dakota,2015,2015,55910,1100,south-dakota
+1,White,04000US47,Tennessee,2015,2015,50489,455,tennessee
+1,White,04000US48,Texas,2015,2015,58937,510,texas
+1,White,04000US49,Utah,2015,2015,65367,874,utah
+1,White,04000US50,Vermont,2015,2015,57945,1537,vermont
+1,White,04000US51,Virginia,2015,2015,71126,568,virginia
+1,White,04000US53,Washington,2015,2015,65420,639,washington
+1,White,04000US54,West Virginia,2015,2015,42337,878,west-virginia
+1,White,04000US55,Wisconsin,2015,2015,58232,589,wisconsin
+1,White,04000US56,Wyoming,2015,2015,60825,1386,wyoming
+1,White,04000US72,Puerto Rico,2015,2015,19642,474,puerto-rico
+2,Black,04000US01,Alabama,2015,2015,29854,982,alabama
+2,Black,04000US02,Alaska,2015,2015,52562,4837,alaska
+2,Black,04000US04,Arizona,2015,2015,39771,2316,arizona
+2,Black,04000US05,Arkansas,2015,2015,27256,1435,arkansas
+2,Black,04000US06,California,2015,2015,45217,1096,california
+2,Black,04000US08,Colorado,2015,2015,45793,3845,colorado
+2,Black,04000US09,Connecticut,2015,2015,44418,2534,connecticut
+2,Black,04000US10,Delaware,2015,2015,47189,4610,delaware
+2,Black,04000US11,District of Columbia,2015,2015,41522,1738,district-of-columbia
+2,Black,04000US12,Florida,2015,2015,35936,595,florida
+2,Black,04000US13,Georgia,2015,2015,37855,1008,georgia
+2,Black,04000US15,Hawaii,2015,2015,69448,20094,hawaii
+2,Black,04000US16,Idaho,2015,2015,40278,26119,idaho
+2,Black,04000US17,Illinois,2015,2015,33950,1296,illinois
+2,Black,04000US18,Indiana,2015,2015,31639,945,indiana
+2,Black,04000US19,Iowa,2015,2015,28425,4637,iowa
+2,Black,04000US20,Kansas,2015,2015,35350,3446,kansas
+2,Black,04000US21,Kentucky,2015,2015,30982,1522,kentucky
+2,Black,04000US22,Louisiana,2015,2015,27537,924,louisiana
+2,Black,04000US23,Maine,2015,2015,27137,13335,maine
+2,Black,04000US24,Maryland,2015,2015,60618,926,maryland
+2,Black,04000US25,Massachusetts,2015,2015,41732,1627,massachusetts
+2,Black,04000US26,Michigan,2015,2015,31099,633,michigan
+2,Black,04000US27,Minnesota,2015,2015,30306,1830,minnesota
+2,Black,04000US28,Mississippi,2015,2015,26818,736,mississippi
+2,Black,04000US29,Missouri,2015,2015,33501,1903,missouri
+2,Black,04000US30,Montana,2015,2015,55809,17109,montana
+2,Black,04000US31,Nebraska,2015,2015,32019,3266,nebraska
+2,Black,04000US32,Nevada,2015,2015,36981,2912,nevada
+2,Black,04000US33,New Hampshire,2015,2015,36821,15613,new-hampshire
+2,Black,04000US34,New Jersey,2015,2015,47268,1443,new-jersey
+2,Black,04000US35,New Mexico,2015,2015,32490,10918,new-mexico
+2,Black,04000US36,New York,2015,2015,42652,1253,new-york
+2,Black,04000US37,North Carolina,2015,2015,32884,857,north-carolina
+2,Black,04000US38,North Dakota,2015,2015,31456,7614,north-dakota
+2,Black,04000US39,Ohio,2015,2015,29608,750,ohio
+2,Black,04000US40,Oklahoma,2015,2015,31438,1551,oklahoma
+2,Black,04000US41,Oregon,2015,2015,31833,4876,oregon
+2,Black,04000US42,Pennsylvania,2015,2015,33487,959,pennsylvania
+2,Black,04000US44,Rhode Island,2015,2015,36719,4817,rhode-island
+2,Black,04000US45,South Carolina,2015,2015,31230,688,south-carolina
+2,Black,04000US46,South Dakota,2015,2015,22399,10020,south-dakota
+2,Black,04000US47,Tennessee,2015,2015,34462,1346,tennessee
+2,Black,04000US48,Texas,2015,2015,40812,534,texas
+2,Black,04000US49,Utah,2015,2015,40590,9257,utah
+2,Black,04000US50,Vermont,2015,2015,40201,9333,vermont
+2,Black,04000US51,Virginia,2015,2015,44480,1245,virginia
+2,Black,04000US53,Washington,2015,2015,45866,3379,washington
+2,Black,04000US54,West Virginia,2015,2015,31740,5495,west-virginia
+2,Black,04000US55,Wisconsin,2015,2015,29223,1589,wisconsin
+2,Black,04000US56,Wyoming,2015,2015,41471,10594,wyoming
+2,Black,04000US72,Puerto Rico,2015,2015,18045,1185,puerto-rico
+3,Native American,04000US01,Alabama,2015,2015,52884,15123,alabama
+3,Native American,04000US02,Alaska,2015,2015,45090,3425,alaska
+3,Native American,04000US04,Arizona,2015,2015,33700,2988,arizona
+3,Native American,04000US05,Arkansas,2015,2015,37907,14256,arkansas
+3,Native American,04000US06,California,2015,2015,48478,3282,california
+3,Native American,04000US08,Colorado,2015,2015,36889,3718,colorado
+3,Native American,04000US09,Connecticut,2015,2015,43471,14836,connecticut
+3,Native American,04000US10,Delaware,2015,2015,33632,17795,delaware
+3,Native American,04000US12,Florida,2015,2015,44156,7358,florida
+3,Native American,04000US13,Georgia,2015,2015,38128,6915,georgia
+3,Native American,04000US15,Hawaii,2015,2015,79737,10528,hawaii
+3,Native American,04000US16,Idaho,2015,2015,35243,7488,idaho
+3,Native American,04000US17,Illinois,2015,2015,39622,6639,illinois
+3,Native American,04000US18,Indiana,2015,2015,42040,8887,indiana
+3,Native American,04000US19,Iowa,2015,2015,34174,18265,iowa
+3,Native American,04000US20,Kansas,2015,2015,45561,11807,kansas
+3,Native American,04000US21,Kentucky,2015,2015,26881,15779,kentucky
+3,Native American,04000US22,Louisiana,2015,2015,33642,10915,louisiana
+3,Native American,04000US23,Maine,2015,2015,30106,6415,maine
+3,Native American,04000US24,Maryland,2015,2015,65715,11729,maryland
+3,Native American,04000US25,Massachusetts,2015,2015,35972,12429,massachusetts
+3,Native American,04000US26,Michigan,2015,2015,40442,4087,michigan
+3,Native American,04000US27,Minnesota,2015,2015,36863,4238,minnesota
+3,Native American,04000US28,Mississippi,2015,2015,27415,9503,mississippi
+3,Native American,04000US29,Missouri,2015,2015,41473,9758,missouri
+3,Native American,04000US30,Montana,2015,2015,27158,3661,montana
+3,Native American,04000US31,Nebraska,2015,2015,25605,9143,nebraska
+3,Native American,04000US32,Nevada,2015,2015,41970,4933,nevada
+3,Native American,04000US33,New Hampshire,2015,2015,56458,46438,new-hampshire
+3,Native American,04000US34,New Jersey,2015,2015,36298,27623,new-jersey
+3,Native American,04000US35,New Mexico,2015,2015,30036,1782,new-mexico
+3,Native American,04000US36,New York,2015,2015,38987,4114,new-york
+3,Native American,04000US37,North Carolina,2015,2015,35521,3008,north-carolina
+3,Native American,04000US38,North Dakota,2015,2015,31767,8820,north-dakota
+3,Native American,04000US39,Ohio,2015,2015,29861,10499,ohio
+3,Native American,04000US40,Oklahoma,2015,2015,39818,2179,oklahoma
+3,Native American,04000US41,Oregon,2015,2015,34341,4931,oregon
+3,Native American,04000US42,Pennsylvania,2015,2015,34401,6021,pennsylvania
+3,Native American,04000US44,Rhode Island,2015,2015,26823,13098,rhode-island
+3,Native American,04000US45,South Carolina,2015,2015,40133,10340,south-carolina
+3,Native American,04000US46,South Dakota,2015,2015,28726,5155,south-dakota
+3,Native American,04000US47,Tennessee,2015,2015,41181,11320,tennessee
+3,Native American,04000US48,Texas,2015,2015,50884,4099,texas
+3,Native American,04000US49,Utah,2015,2015,39861,3405,utah
+3,Native American,04000US50,Vermont,2015,2015,46109,11758,vermont
+3,Native American,04000US51,Virginia,2015,2015,54594,7995,virginia
+3,Native American,04000US53,Washington,2015,2015,39537,3670,washington
+3,Native American,04000US54,West Virginia,2015,2015,41432,32428,west-virginia
+3,Native American,04000US55,Wisconsin,2015,2015,32727,2876,wisconsin
+3,Native American,04000US56,Wyoming,2015,2015,47614,11640,wyoming
+3,Native American,04000US72,Puerto Rico,2015,2015,19668,5022,puerto-rico
+4,Asian,04000US01,Alabama,2015,2015,51846,3992,alabama
+4,Asian,04000US02,Alaska,2015,2015,67405,6854,alaska
+4,Asian,04000US04,Arizona,2015,2015,70456,4626,arizona
+4,Asian,04000US05,Arkansas,2015,2015,67547,10030,arkansas
+4,Asian,04000US06,California,2015,2015,83385,1419,california
+4,Asian,04000US08,Colorado,2015,2015,70487,4935,colorado
+4,Asian,04000US09,Connecticut,2015,2015,90894,4848,connecticut
+4,Asian,04000US10,Delaware,2015,2015,100236,10444,delaware
+4,Asian,04000US11,District of Columbia,2015,2015,93877,18408,district-of-columbia
+4,Asian,04000US12,Florida,2015,2015,62794,2822,florida
+4,Asian,04000US13,Georgia,2015,2015,72924,3504,georgia
+4,Asian,04000US15,Hawaii,2015,2015,76164,2518,hawaii
+4,Asian,04000US16,Idaho,2015,2015,65246,10871,idaho
+4,Asian,04000US17,Illinois,2015,2015,80076,2936,illinois
+4,Asian,04000US18,Indiana,2015,2015,60765,2970,indiana
+4,Asian,04000US19,Iowa,2015,2015,51202,5586,iowa
+4,Asian,04000US20,Kansas,2015,2015,61296,9512,kansas
+4,Asian,04000US21,Kentucky,2015,2015,64621,4595,kentucky
+4,Asian,04000US22,Louisiana,2015,2015,58847,8073,louisiana
+4,Asian,04000US23,Maine,2015,2015,50562,32786,maine
+4,Asian,04000US24,Maryland,2015,2015,96429,4443,maryland
+4,Asian,04000US25,Massachusetts,2015,2015,81537,3443,massachusetts
+4,Asian,04000US26,Michigan,2015,2015,75933,6383,michigan
+4,Asian,04000US27,Minnesota,2015,2015,72344,3917,minnesota
+4,Asian,04000US28,Mississippi,2015,2015,53217,7691,mississippi
+4,Asian,04000US29,Missouri,2015,2015,61891,5629,missouri
+4,Asian,04000US30,Montana,2015,2015,56672,15332,montana
+4,Asian,04000US31,Nebraska,2015,2015,45737,8932,nebraska
+4,Asian,04000US32,Nevada,2015,2015,60906,1994,nevada
+4,Asian,04000US33,New Hampshire,2015,2015,82396,14906,new-hampshire
+4,Asian,04000US34,New Jersey,2015,2015,108504,4000,new-jersey
+4,Asian,04000US35,New Mexico,2015,2015,60142,17480,new-mexico
+4,Asian,04000US36,New York,2015,2015,66482,1794,new-york
+4,Asian,04000US37,North Carolina,2015,2015,75558,3393,north-carolina
+4,Asian,04000US38,North Dakota,2015,2015,76864,40941,north-dakota
+4,Asian,04000US39,Ohio,2015,2015,65057,3291,ohio
+4,Asian,04000US40,Oklahoma,2015,2015,56043,8536,oklahoma
+4,Asian,04000US41,Oregon,2015,2015,71726,6165,oregon
+4,Asian,04000US42,Pennsylvania,2015,2015,63643,3210,pennsylvania
+4,Asian,04000US44,Rhode Island,2015,2015,56516,21751,rhode-island
+4,Asian,04000US45,South Carolina,2015,2015,58443,9350,south-carolina
+4,Asian,04000US46,South Dakota,2015,2015,48917,16384,south-dakota
+4,Asian,04000US47,Tennessee,2015,2015,65072,4563,tennessee
+4,Asian,04000US48,Texas,2015,2015,78121,3202,texas
+4,Asian,04000US49,Utah,2015,2015,62367,9220,utah
+4,Asian,04000US50,Vermont,2015,2015,50374,31359,vermont
+4,Asian,04000US51,Virginia,2015,2015,92071,3919,virginia
+4,Asian,04000US53,Washington,2015,2015,85352,3218,washington
+4,Asian,04000US54,West Virginia,2015,2015,76286,31181,west-virginia
+4,Asian,04000US55,Wisconsin,2015,2015,60474,5163,wisconsin
+4,Asian,04000US56,Wyoming,2015,2015,70453,42530,wyoming
+4,Asian,04000US72,Puerto Rico,2015,2015,14081,5291,puerto-rico
+5,Pacific Islander,04000US01,Alabama,2015,2015,50138,30552,alabama
+5,Pacific Islander,04000US02,Alaska,2015,2015,60263,50690,alaska
+5,Pacific Islander,04000US04,Arizona,2015,2015,58323,5202,arizona
+5,Pacific Islander,04000US05,Arkansas,2015,2015,47635,32295,arkansas
+5,Pacific Islander,04000US06,California,2015,2015,62465,3989,california
+5,Pacific Islander,04000US08,Colorado,2015,2015,55877,19612,colorado
+5,Pacific Islander,04000US12,Florida,2015,2015,49693,25550,florida
+5,Pacific Islander,04000US15,Hawaii,2015,2015,62331,4965,hawaii
+5,Pacific Islander,04000US17,Illinois,2015,2015,37099,24770,illinois
+5,Pacific Islander,04000US18,Indiana,2015,2015,41615,17353,indiana
+5,Pacific Islander,04000US19,Iowa,2015,2015,47488,20453,iowa
+5,Pacific Islander,04000US20,Kansas,2015,2015,55885,54578,kansas
+5,Pacific Islander,04000US21,Kentucky,2015,2015,47043,19347,kentucky
+5,Pacific Islander,04000US24,Maryland,2015,2015,83981,34987,maryland
+5,Pacific Islander,04000US26,Michigan,2015,2015,57937,15999,michigan
+5,Pacific Islander,04000US27,Minnesota,2015,2015,70000,45648,minnesota
+5,Pacific Islander,04000US28,Mississippi,2015,2015,2499,,mississippi
+5,Pacific Islander,04000US29,Missouri,2015,2015,30225,12655,missouri
+5,Pacific Islander,04000US31,Nebraska,2015,2015,22546,9165,nebraska
+5,Pacific Islander,04000US32,Nevada,2015,2015,55500,15094,nevada
+5,Pacific Islander,04000US34,New Jersey,2015,2015,83664,57498,new-jersey
+5,Pacific Islander,04000US36,New York,2015,2015,31482,27606,new-york
+5,Pacific Islander,04000US37,North Carolina,2015,2015,36715,20764,north-carolina
+5,Pacific Islander,04000US40,Oklahoma,2015,2015,38293,4272,oklahoma
+5,Pacific Islander,04000US41,Oregon,2015,2015,52110,16908,oregon
+5,Pacific Islander,04000US42,Pennsylvania,2015,2015,15396,7916,pennsylvania
+5,Pacific Islander,04000US45,South Carolina,2015,2015,34738,14733,south-carolina
+5,Pacific Islander,04000US46,South Dakota,2015,2015,53248,37333,south-dakota
+5,Pacific Islander,04000US47,Tennessee,2015,2015,25877,13019,tennessee
+5,Pacific Islander,04000US48,Texas,2015,2015,46981,9527,texas
+5,Pacific Islander,04000US49,Utah,2015,2015,46060,16771,utah
+5,Pacific Islander,04000US51,Virginia,2015,2015,73494,6706,virginia
+5,Pacific Islander,04000US53,Washington,2015,2015,56597,13451,washington
+5,Pacific Islander,04000US55,Wisconsin,2015,2015,36909,12488,wisconsin
+6,Other,04000US01,Alabama,2015,2015,34290,9574,alabama
+6,Other,04000US02,Alaska,2015,2015,52372,16731,alaska
+6,Other,04000US04,Arizona,2015,2015,39364,2479,arizona
+6,Other,04000US05,Arkansas,2015,2015,36436,1635,arkansas
+6,Other,04000US06,California,2015,2015,47717,829,california
+6,Other,04000US08,Colorado,2015,2015,46028,3466,colorado
+6,Other,04000US09,Connecticut,2015,2015,38642,4464,connecticut
+6,Other,04000US10,Delaware,2015,2015,38634,13471,delaware
+6,Other,04000US11,District of Columbia,2015,2015,52516,5197,district-of-columbia
+6,Other,04000US12,Florida,2015,2015,41544,1510,florida
+6,Other,04000US13,Georgia,2015,2015,37218,2757,georgia
+6,Other,04000US15,Hawaii,2015,2015,60448,14732,hawaii
+6,Other,04000US16,Idaho,2015,2015,36494,8100,idaho
+6,Other,04000US17,Illinois,2015,2015,46844,1558,illinois
+6,Other,04000US18,Indiana,2015,2015,38934,3575,indiana
+6,Other,04000US19,Iowa,2015,2015,41238,12400,iowa
+6,Other,04000US20,Kansas,2015,2015,43681,5021,kansas
+6,Other,04000US21,Kentucky,2015,2015,34324,5340,kentucky
+6,Other,04000US22,Louisiana,2015,2015,37464,3999,louisiana
+6,Other,04000US23,Maine,2015,2015,53730,6679,maine
+6,Other,04000US24,Maryland,2015,2015,60294,3697,maryland
+6,Other,04000US25,Massachusetts,2015,2015,35728,2396,massachusetts
+6,Other,04000US26,Michigan,2015,2015,40198,3575,michigan
+6,Other,04000US27,Minnesota,2015,2015,39242,2682,minnesota
+6,Other,04000US28,Mississippi,2015,2015,32085,10421,mississippi
+6,Other,04000US29,Missouri,2015,2015,32868,5002,missouri
+6,Other,04000US30,Montana,2015,2015,61087,32430,montana
+6,Other,04000US31,Nebraska,2015,2015,45328,8659,nebraska
+6,Other,04000US32,Nevada,2015,2015,42649,2219,nevada
+6,Other,04000US33,New Hampshire,2015,2015,40708,22816,new-hampshire
+6,Other,04000US34,New Jersey,2015,2015,42691,1905,new-jersey
+6,Other,04000US35,New Mexico,2015,2015,35923,2321,new-mexico
+6,Other,04000US36,New York,2015,2015,36363,872,new-york
+6,Other,04000US37,North Carolina,2015,2015,33446,1899,north-carolina
+6,Other,04000US38,North Dakota,2015,2015,47419,13047,north-dakota
+6,Other,04000US39,Ohio,2015,2015,38533,4717,ohio
+6,Other,04000US40,Oklahoma,2015,2015,35730,2192,oklahoma
+6,Other,04000US41,Oregon,2015,2015,51653,3776,oregon
+6,Other,04000US42,Pennsylvania,2015,2015,32147,2859,pennsylvania
+6,Other,04000US44,Rhode Island,2015,2015,36055,4792,rhode-island
+6,Other,04000US45,South Carolina,2015,2015,33204,5858,south-carolina
+6,Other,04000US46,South Dakota,2015,2015,30305,18294,south-dakota
+6,Other,04000US47,Tennessee,2015,2015,35952,2354,tennessee
+6,Other,04000US48,Texas,2015,2015,41824,767,texas
+6,Other,04000US49,Utah,2015,2015,43327,4459,utah
+6,Other,04000US50,Vermont,2015,2015,52763,16357,vermont
+6,Other,04000US51,Virginia,2015,2015,54569,4518,virginia
+6,Other,04000US53,Washington,2015,2015,43539,4204,washington
+6,Other,04000US54,West Virginia,2015,2015,52451,12537,west-virginia
+6,Other,04000US55,Wisconsin,2015,2015,38348,4299,wisconsin
+6,Other,04000US56,Wyoming,2015,2015,43411,12008,wyoming
+6,Other,04000US72,Puerto Rico,2015,2015,15905,648,puerto-rico
+7,Two Or More,04000US01,Alabama,2015,2015,39211,3481,alabama
+7,Two Or More,04000US02,Alaska,2015,2015,66366,8919,alaska
+7,Two Or More,04000US04,Arizona,2015,2015,45422,3453,arizona
+7,Two Or More,04000US05,Arkansas,2015,2015,31625,4538,arkansas
+7,Two Or More,04000US06,California,2015,2015,63902,2781,california
+7,Two Or More,04000US08,Colorado,2015,2015,60654,4524,colorado
+7,Two Or More,04000US09,Connecticut,2015,2015,52297,7504,connecticut
+7,Two Or More,04000US10,Delaware,2015,2015,54295,9485,delaware
+7,Two Or More,04000US11,District of Columbia,2015,2015,95987,30070,district-of-columbia
+7,Two Or More,04000US12,Florida,2015,2015,47540,2393,florida
+7,Two Or More,04000US13,Georgia,2015,2015,49279,3975,georgia
+7,Two Or More,04000US15,Hawaii,2015,2015,75733,2133,hawaii
+7,Two Or More,04000US16,Idaho,2015,2015,42414,16439,idaho
+7,Two Or More,04000US17,Illinois,2015,2015,50646,3302,illinois
+7,Two Or More,04000US18,Indiana,2015,2015,38127,3090,indiana
+7,Two Or More,04000US19,Iowa,2015,2015,46187,5875,iowa
+7,Two Or More,04000US20,Kansas,2015,2015,40003,6374,kansas
+7,Two Or More,04000US21,Kentucky,2015,2015,38597,3663,kentucky
+7,Two Or More,04000US22,Louisiana,2015,2015,48574,7089,louisiana
+7,Two Or More,04000US23,Maine,2015,2015,35725,10779,maine
+7,Two Or More,04000US24,Maryland,2015,2015,71347,3930,maryland
+7,Two Or More,04000US25,Massachusetts,2015,2015,56842,4363,massachusetts
+7,Two Or More,04000US26,Michigan,2015,2015,39439,2428,michigan
+7,Two Or More,04000US27,Minnesota,2015,2015,51863,4682,minnesota
+7,Two Or More,04000US28,Mississippi,2015,2015,36960,5837,mississippi
+7,Two Or More,04000US29,Missouri,2015,2015,45212,4366,missouri
+7,Two Or More,04000US30,Montana,2015,2015,34011,4988,montana
+7,Two Or More,04000US31,Nebraska,2015,2015,34223,6632,nebraska
+7,Two Or More,04000US32,Nevada,2015,2015,48406,5271,nevada
+7,Two Or More,04000US33,New Hampshire,2015,2015,59369,15212,new-hampshire
+7,Two Or More,04000US34,New Jersey,2015,2015,55799,5126,new-jersey
+7,Two Or More,04000US35,New Mexico,2015,2015,44684,7095,new-mexico
+7,Two Or More,04000US36,New York,2015,2015,53537,4430,new-york
+7,Two Or More,04000US37,North Carolina,2015,2015,45550,4766,north-carolina
+7,Two Or More,04000US38,North Dakota,2015,2015,57412,25450,north-dakota
+7,Two Or More,04000US39,Ohio,2015,2015,36607,1638,ohio
+7,Two Or More,04000US40,Oklahoma,2015,2015,42898,1991,oklahoma
+7,Two Or More,04000US41,Oregon,2015,2015,48613,4307,oregon
+7,Two Or More,04000US42,Pennsylvania,2015,2015,42628,4521,pennsylvania
+7,Two Or More,04000US44,Rhode Island,2015,2015,51953,7255,rhode-island
+7,Two Or More,04000US45,South Carolina,2015,2015,43369,5727,south-carolina
+7,Two Or More,04000US46,South Dakota,2015,2015,39341,4623,south-dakota
+7,Two Or More,04000US47,Tennessee,2015,2015,41709,3315,tennessee
+7,Two Or More,04000US48,Texas,2015,2015,53592,3271,texas
+7,Two Or More,04000US49,Utah,2015,2015,53443,5980,utah
+7,Two Or More,04000US50,Vermont,2015,2015,17353,14810,vermont
+7,Two Or More,04000US51,Virginia,2015,2015,70025,4776,virginia
+7,Two Or More,04000US53,Washington,2015,2015,58140,4369,washington
+7,Two Or More,04000US54,West Virginia,2015,2015,30380,4521,west-virginia
+7,Two Or More,04000US55,Wisconsin,2015,2015,41310,2232,wisconsin
+7,Two Or More,04000US56,Wyoming,2015,2015,50175,12438,wyoming
+7,Two Or More,04000US72,Puerto Rico,2015,2015,20025,2316,puerto-rico
+8,White Non-Hispanic,04000US01,Alabama,2015,2015,51754,648,alabama
+8,White Non-Hispanic,04000US02,Alaska,2015,2015,81711,2349,alaska
+8,White Non-Hispanic,04000US04,Arizona,2015,2015,57485,689,arizona
+8,White Non-Hispanic,04000US05,Arkansas,2015,2015,46393,645,arkansas
+8,White Non-Hispanic,04000US06,California,2015,2015,75933,480,california
+8,White Non-Hispanic,04000US08,Colorado,2015,2015,70332,613,colorado
+8,White Non-Hispanic,04000US09,Connecticut,2015,2015,81324,936,connecticut
+8,White Non-Hispanic,04000US10,Delaware,2015,2015,65267,1723,delaware
+8,White Non-Hispanic,04000US11,District of Columbia,2015,2015,124801,5111,district-of-columbia
+8,White Non-Hispanic,04000US12,Florida,2015,2015,54626,508,florida
+8,White Non-Hispanic,04000US13,Georgia,2015,2015,60125,563,georgia
+8,White Non-Hispanic,04000US15,Hawaii,2015,2015,74197,4041,hawaii
+8,White Non-Hispanic,04000US16,Idaho,2015,2015,49245,1168,idaho
+8,White Non-Hispanic,04000US17,Illinois,2015,2015,66237,420,illinois
+8,White Non-Hispanic,04000US18,Indiana,2015,2015,53080,653,indiana
+8,White Non-Hispanic,04000US19,Iowa,2015,2015,56646,665,iowa
+8,White Non-Hispanic,04000US20,Kansas,2015,2015,57799,949,kansas
+8,White Non-Hispanic,04000US21,Kentucky,2015,2015,46917,534,kentucky
+8,White Non-Hispanic,04000US22,Louisiana,2015,2015,56661,992,louisiana
+8,White Non-Hispanic,04000US23,Maine,2015,2015,52062,957,maine
+8,White Non-Hispanic,04000US24,Maryland,2015,2015,85530,1046,maryland
+8,White Non-Hispanic,04000US25,Massachusetts,2015,2015,77091,736,massachusetts
+8,White Non-Hispanic,04000US26,Michigan,2015,2015,55083,418,michigan
+8,White Non-Hispanic,04000US27,Minnesota,2015,2015,66979,456,minnesota
+8,White Non-Hispanic,04000US28,Mississippi,2015,2015,50609,817,mississippi
+8,White Non-Hispanic,04000US29,Missouri,2015,2015,52707,612,missouri
+8,White Non-Hispanic,04000US30,Montana,2015,2015,50858,972,montana
+8,White Non-Hispanic,04000US31,Nebraska,2015,2015,59078,985,nebraska
+8,White Non-Hispanic,04000US32,Nevada,2015,2015,58723,1431,nevada
+8,White Non-Hispanic,04000US33,New Hampshire,2015,2015,70659,1167,new-hampshire
+8,White Non-Hispanic,04000US34,New Jersey,2015,2015,83881,1222,new-jersey
+8,White Non-Hispanic,04000US35,New Mexico,2015,2015,54864,1520,new-mexico
+8,White Non-Hispanic,04000US36,New York,2015,2015,70379,368,new-york
+8,White Non-Hispanic,04000US37,North Carolina,2015,2015,54700,634,north-carolina
+8,White Non-Hispanic,04000US38,North Dakota,2015,2015,62480,1782,north-dakota
+8,White Non-Hispanic,04000US39,Ohio,2015,2015,55448,335,ohio
+8,White Non-Hispanic,04000US40,Oklahoma,2015,2015,51874,404,oklahoma
+8,White Non-Hispanic,04000US41,Oregon,2015,2015,55803,827,oregon
+8,White Non-Hispanic,04000US42,Pennsylvania,2015,2015,60327,368,pennsylvania
+8,White Non-Hispanic,04000US44,Rhode Island,2015,2015,64284,2227,rhode-island
+8,White Non-Hispanic,04000US45,South Carolina,2015,2015,55677,768,south-carolina
+8,White Non-Hispanic,04000US46,South Dakota,2015,2015,56177,1113,south-dakota
+8,White Non-Hispanic,04000US47,Tennessee,2015,2015,50779,447,tennessee
+8,White Non-Hispanic,04000US48,Texas,2015,2015,68654,629,texas
+8,White Non-Hispanic,04000US49,Utah,2015,2015,66516,848,utah
+8,White Non-Hispanic,04000US50,Vermont,2015,2015,58031,1554,vermont
+8,White Non-Hispanic,04000US51,Virginia,2015,2015,71403,576,virginia
+8,White Non-Hispanic,04000US53,Washington,2015,2015,66681,616,washington
+8,White Non-Hispanic,04000US54,West Virginia,2015,2015,42349,913,west-virginia
+8,White Non-Hispanic,04000US55,Wisconsin,2015,2015,59056,577,wisconsin
+8,White Non-Hispanic,04000US56,Wyoming,2015,2015,61683,1637,wyoming
+8,White Non-Hispanic,04000US72,Puerto Rico,2015,2015,25572,5682,puerto-rico
+9,Hispanic,04000US01,Alabama,2015,2015,36162,5546,alabama
+9,Hispanic,04000US02,Alaska,2015,2015,63937,9506,alaska
+9,Hispanic,04000US04,Arizona,2015,2015,40643,729,arizona
+9,Hispanic,04000US05,Arkansas,2015,2015,37051,2123,arkansas
+9,Hispanic,04000US06,California,2015,2015,49682,491,california
+9,Hispanic,04000US08,Colorado,2015,2015,46041,1274,colorado
+9,Hispanic,04000US09,Connecticut,2015,2015,42731,2595,connecticut
+9,Hispanic,04000US10,Delaware,2015,2015,45277,7732,delaware
+9,Hispanic,04000US11,District of Columbia,2015,2015,65973,14735,district-of-columbia
+9,Hispanic,04000US12,Florida,2015,2015,41776,463,florida
+9,Hispanic,04000US13,Georgia,2015,2015,41252,1356,georgia
+9,Hispanic,04000US15,Hawaii,2015,2015,60320,6604,hawaii
+9,Hispanic,04000US16,Idaho,2015,2015,40819,2139,idaho
+9,Hispanic,04000US17,Illinois,2015,2015,49122,1139,illinois
+9,Hispanic,04000US18,Indiana,2015,2015,41020,2004,indiana
+9,Hispanic,04000US19,Iowa,2015,2015,38141,4064,iowa
+9,Hispanic,04000US20,Kansas,2015,2015,40814,1914,kansas
+9,Hispanic,04000US21,Kentucky,2015,2015,39219,3423,kentucky
+9,Hispanic,04000US22,Louisiana,2015,2015,41476,2249,louisiana
+9,Hispanic,04000US23,Maine,2015,2015,52226,10899,maine
+9,Hispanic,04000US24,Maryland,2015,2015,65708,3902,maryland
+9,Hispanic,04000US25,Massachusetts,2015,2015,38195,2550,massachusetts
+9,Hispanic,04000US26,Michigan,2015,2015,41844,1638,michigan
+9,Hispanic,04000US27,Minnesota,2015,2015,43380,3115,minnesota
+9,Hispanic,04000US28,Mississippi,2015,2015,40480,3528,mississippi
+9,Hispanic,04000US29,Missouri,2015,2015,42260,2498,missouri
+9,Hispanic,04000US30,Montana,2015,2015,38584,5681,montana
+9,Hispanic,04000US31,Nebraska,2015,2015,39247,1976,nebraska
+9,Hispanic,04000US32,Nevada,2015,2015,45665,1494,nevada
+9,Hispanic,04000US33,New Hampshire,2015,2015,58149,5157,new-hampshire
+9,Hispanic,04000US34,New Jersey,2015,2015,47365,1294,new-jersey
+9,Hispanic,04000US35,New Mexico,2015,2015,38246,1916,new-mexico
+9,Hispanic,04000US36,New York,2015,2015,41657,672,new-york
+9,Hispanic,04000US37,North Carolina,2015,2015,34935,1001,north-carolina
+9,Hispanic,04000US38,North Dakota,2015,2015,49183,6833,north-dakota
+9,Hispanic,04000US39,Ohio,2015,2015,38515,3457,ohio
+9,Hispanic,04000US40,Oklahoma,2015,2015,40251,1578,oklahoma
+9,Hispanic,04000US41,Oregon,2015,2015,44462,2864,oregon
+9,Hispanic,04000US42,Pennsylvania,2015,2015,35695,1334,pennsylvania
+9,Hispanic,04000US44,Rhode Island,2015,2015,35455,2361,rhode-island
+9,Hispanic,04000US45,South Carolina,2015,2015,38901,3138,south-carolina
+9,Hispanic,04000US46,South Dakota,2015,2015,41553,9242,south-dakota
+9,Hispanic,04000US47,Tennessee,2015,2015,38383,1987,tennessee
+9,Hispanic,04000US48,Texas,2015,2015,43345,674,texas
+9,Hispanic,04000US49,Utah,2015,2015,46677,1783,utah
+9,Hispanic,04000US50,Vermont,2015,2015,53162,12538,vermont
+9,Hispanic,04000US51,Virginia,2015,2015,62913,3363,virginia
+9,Hispanic,04000US53,Washington,2015,2015,47065,1805,washington
+9,Hispanic,04000US54,West Virginia,2015,2015,42289,7590,west-virginia
+9,Hispanic,04000US55,Wisconsin,2015,2015,41280,1656,wisconsin
+9,Hispanic,04000US56,Wyoming,2015,2015,46370,7769,wyoming
+9,Hispanic,04000US72,Puerto Rico,2015,2015,18570,327,puerto-rico
+0,Total,04000US01,Alabama,2014,2014,42830,598,alabama
+0,Total,04000US02,Alaska,2014,2014,71583,1784,alaska
+0,Total,04000US04,Arizona,2014,2014,50068,483,arizona
+0,Total,04000US05,Arkansas,2014,2014,41262,653,arkansas
+0,Total,04000US06,California,2014,2014,61933,238,california
+0,Total,04000US08,Colorado,2014,2014,61303,487,colorado
+0,Total,04000US09,Connecticut,2014,2014,70048,828,connecticut
+0,Total,04000US10,Delaware,2014,2014,59716,1674,delaware
+0,Total,04000US11,District of Columbia,2014,2014,71648,1996,district-of-columbia
+0,Total,04000US12,Florida,2014,2014,47463,329,florida
+0,Total,04000US13,Georgia,2014,2014,49321,543,georgia
+0,Total,04000US15,Hawaii,2014,2014,69592,1456,hawaii
+0,Total,04000US16,Idaho,2014,2014,47861,1275,idaho
+0,Total,04000US17,Illinois,2014,2014,57444,429,illinois
+0,Total,04000US18,Indiana,2014,2014,49446,487,indiana
+0,Total,04000US19,Iowa,2014,2014,53712,761,iowa
+0,Total,04000US20,Kansas,2014,2014,52504,706,kansas
+0,Total,04000US21,Kentucky,2014,2014,42958,697,kentucky
+0,Total,04000US22,Louisiana,2014,2014,44555,738,louisiana
+0,Total,04000US23,Maine,2014,2014,49462,1112,maine
+0,Total,04000US24,Maryland,2014,2014,73971,867,maryland
+0,Total,04000US25,Massachusetts,2014,2014,69160,957,massachusetts
+0,Total,04000US26,Michigan,2014,2014,49847,385,michigan
+0,Total,04000US27,Minnesota,2014,2014,61481,471,minnesota
+0,Total,04000US28,Mississippi,2014,2014,39680,773,mississippi
+0,Total,04000US29,Missouri,2014,2014,48363,567,missouri
+0,Total,04000US30,Montana,2014,2014,46328,1217,montana
+0,Total,04000US31,Nebraska,2014,2014,52686,688,nebraska
+0,Total,04000US32,Nevada,2014,2014,51450,683,nevada
+0,Total,04000US33,New Hampshire,2014,2014,66532,1297,new-hampshire
+0,Total,04000US34,New Jersey,2014,2014,71919,438,new-jersey
+0,Total,04000US35,New Mexico,2014,2014,44803,849,new-mexico
+0,Total,04000US36,New York,2014,2014,58878,393,new-york
+0,Total,04000US37,North Carolina,2014,2014,46556,381,north-carolina
+0,Total,04000US38,North Dakota,2014,2014,59029,1681,north-dakota
+0,Total,04000US39,Ohio,2014,2014,49308,363,ohio
+0,Total,04000US40,Oklahoma,2014,2014,47529,454,oklahoma
+0,Total,04000US41,Oregon,2014,2014,51075,490,oregon
+0,Total,04000US42,Pennsylvania,2014,2014,53234,420,pennsylvania
+0,Total,04000US44,Rhode Island,2014,2014,54891,1488,rhode-island
+0,Total,04000US45,South Carolina,2014,2014,45238,507,south-carolina
+0,Total,04000US46,South Dakota,2014,2014,50979,1027,south-dakota
+0,Total,04000US47,Tennessee,2014,2014,44361,561,tennessee
+0,Total,04000US48,Texas,2014,2014,53035,377,texas
+0,Total,04000US49,Utah,2014,2014,60922,658,utah
+0,Total,04000US50,Vermont,2014,2014,54166,1724,vermont
+0,Total,04000US51,Virginia,2014,2014,64902,624,virginia
+0,Total,04000US53,Washington,2014,2014,61366,485,washington
+0,Total,04000US54,West Virginia,2014,2014,41059,651,west-virginia
+0,Total,04000US55,Wisconsin,2014,2014,52622,433,wisconsin
+0,Total,04000US56,Wyoming,2014,2014,57055,1983,wyoming
+0,Total,04000US72,Puerto Rico,2014,2014,18928,367,puerto-rico
+1,White,04000US01,Alabama,2014,2014,49652,722,alabama
+1,White,04000US02,Alaska,2014,2014,79626,3213,alaska
+1,White,04000US04,Arizona,2014,2014,51629,448,arizona
+1,White,04000US05,Arkansas,2014,2014,44780,976,arkansas
+1,White,04000US06,California,2014,2014,65070,418,california
+1,White,04000US08,Colorado,2014,2014,63790,853,colorado
+1,White,04000US09,Connecticut,2014,2014,76008,864,connecticut
+1,White,04000US10,Delaware,2014,2014,64388,2387,delaware
+1,White,04000US11,District of Columbia,2014,2014,114747,5103,district-of-columbia
+1,White,04000US12,Florida,2014,2014,50336,302,florida
+1,White,04000US13,Georgia,2014,2014,56315,583,georgia
+1,White,04000US15,Hawaii,2014,2014,68415,3263,hawaii
+1,White,04000US16,Idaho,2014,2014,48503,1295,idaho
+1,White,04000US17,Illinois,2014,2014,62243,378,illinois
+1,White,04000US18,Indiana,2014,2014,51814,383,indiana
+1,White,04000US19,Iowa,2014,2014,54863,741,iowa
+1,White,04000US20,Kansas,2014,2014,54702,799,kansas
+1,White,04000US21,Kentucky,2014,2014,45020,646,kentucky
+1,White,04000US22,Louisiana,2014,2014,54290,988,louisiana
+1,White,04000US23,Maine,2014,2014,50077,905,maine
+1,White,04000US24,Maryland,2014,2014,81915,919,maryland
+1,White,04000US25,Massachusetts,2014,2014,73614,938,massachusetts
+1,White,04000US26,Michigan,2014,2014,53174,508,michigan
+1,White,04000US27,Minnesota,2014,2014,64281,802,minnesota
+1,White,04000US28,Mississippi,2014,2014,48591,1185,mississippi
+1,White,04000US29,Missouri,2014,2014,51259,434,missouri
+1,White,04000US30,Montana,2014,2014,47651,1314,montana
+1,White,04000US31,Nebraska,2014,2014,54628,726,nebraska
+1,White,04000US32,Nevada,2014,2014,54099,865,nevada
+1,White,04000US33,New Hampshire,2014,2014,66896,1393,new-hampshire
+1,White,04000US34,New Jersey,2014,2014,77816,983,new-jersey
+1,White,04000US35,New Mexico,2014,2014,48048,1171,new-mexico
+1,White,04000US36,New York,2014,2014,66399,416,new-york
+1,White,04000US37,North Carolina,2014,2014,51707,432,north-carolina
+1,White,04000US38,North Dakota,2014,2014,61675,1145,north-dakota
+1,White,04000US39,Ohio,2014,2014,52600,415,ohio
+1,White,04000US40,Oklahoma,2014,2014,50830,423,oklahoma
+1,White,04000US41,Oregon,2014,2014,51919,524,oregon
+1,White,04000US42,Pennsylvania,2014,2014,56862,428,pennsylvania
+1,White,04000US44,Rhode Island,2014,2014,59487,1971,rhode-island
+1,White,04000US45,South Carolina,2014,2014,51912,524,south-carolina
+1,White,04000US46,South Dakota,2014,2014,52971,1534,south-dakota
+1,White,04000US47,Tennessee,2014,2014,47887,686,tennessee
+1,White,04000US48,Texas,2014,2014,56256,360,texas
+1,White,04000US49,Utah,2014,2014,62170,651,utah
+1,White,04000US50,Vermont,2014,2014,54669,1682,vermont
+1,White,04000US51,Virginia,2014,2014,70387,673,virginia
+1,White,04000US53,Washington,2014,2014,62357,544,washington
+1,White,04000US54,West Virginia,2014,2014,41686,677,west-virginia
+1,White,04000US55,Wisconsin,2014,2014,55619,413,wisconsin
+1,White,04000US56,Wyoming,2014,2014,58875,2546,wyoming
+1,White,04000US72,Puerto Rico,2014,2014,19422,514,puerto-rico
+2,Black,04000US01,Alabama,2014,2014,28622,873,alabama
+2,Black,04000US02,Alaska,2014,2014,47226,14725,alaska
+2,Black,04000US04,Arizona,2014,2014,40064,2108,arizona
+2,Black,04000US05,Arkansas,2014,2014,27657,1683,arkansas
+2,Black,04000US06,California,2014,2014,42509,1165,california
+2,Black,04000US08,Colorado,2014,2014,41763,2462,colorado
+2,Black,04000US09,Connecticut,2014,2014,45002,3991,connecticut
+2,Black,04000US10,Delaware,2014,2014,45264,2799,delaware
+2,Black,04000US11,District of Columbia,2014,2014,40739,1796,district-of-columbia
+2,Black,04000US12,Florida,2014,2014,34563,782,florida
+2,Black,04000US13,Georgia,2014,2014,36521,603,georgia
+2,Black,04000US15,Hawaii,2014,2014,66343,10611,hawaii
+2,Black,04000US16,Idaho,2014,2014,30189,8234,idaho
+2,Black,04000US17,Illinois,2014,2014,33369,1109,illinois
+2,Black,04000US18,Indiana,2014,2014,30112,1343,indiana
+2,Black,04000US19,Iowa,2014,2014,28883,3935,iowa
+2,Black,04000US20,Kansas,2014,2014,32057,2570,kansas
+2,Black,04000US21,Kentucky,2014,2014,26735,1277,kentucky
+2,Black,04000US22,Louisiana,2014,2014,27655,904,louisiana
+2,Black,04000US23,Maine,2014,2014,16760,12982,maine
+2,Black,04000US24,Maryland,2014,2014,59346,1596,maryland
+2,Black,04000US25,Massachusetts,2014,2014,42114,2137,massachusetts
+2,Black,04000US26,Michigan,2014,2014,29697,846,michigan
+2,Black,04000US27,Minnesota,2014,2014,27026,2683,minnesota
+2,Black,04000US28,Mississippi,2014,2014,27252,678,mississippi
+2,Black,04000US29,Missouri,2014,2014,31617,1038,missouri
+2,Black,04000US30,Montana,2014,2014,23920,4968,montana
+2,Black,04000US31,Nebraska,2014,2014,30774,1856,nebraska
+2,Black,04000US32,Nevada,2014,2014,36168,1629,nevada
+2,Black,04000US33,New Hampshire,2014,2014,47706,8750,new-hampshire
+2,Black,04000US34,New Jersey,2014,2014,46342,1453,new-jersey
+2,Black,04000US35,New Mexico,2014,2014,37773,9392,new-mexico
+2,Black,04000US36,New York,2014,2014,40912,612,new-york
+2,Black,04000US37,North Carolina,2014,2014,33022,884,north-carolina
+2,Black,04000US38,North Dakota,2014,2014,23319,7892,north-dakota
+2,Black,04000US39,Ohio,2014,2014,26747,727,ohio
+2,Black,04000US40,Oklahoma,2014,2014,30003,1454,oklahoma
+2,Black,04000US41,Oregon,2014,2014,30892,4402,oregon
+2,Black,04000US42,Pennsylvania,2014,2014,32271,779,pennsylvania
+2,Black,04000US44,Rhode Island,2014,2014,35772,4532,rhode-island
+2,Black,04000US45,South Carolina,2014,2014,30333,648,south-carolina
+2,Black,04000US46,South Dakota,2014,2014,37242,11457,south-dakota
+2,Black,04000US47,Tennessee,2014,2014,31071,809,tennessee
+2,Black,04000US48,Texas,2014,2014,39280,968,texas
+2,Black,04000US49,Utah,2014,2014,41611,9095,utah
+2,Black,04000US50,Vermont,2014,2014,50933,39811,vermont
+2,Black,04000US51,Virginia,2014,2014,43846,1431,virginia
+2,Black,04000US53,Washington,2014,2014,43296,3861,washington
+2,Black,04000US54,West Virginia,2014,2014,30044,3291,west-virginia
+2,Black,04000US55,Wisconsin,2014,2014,26053,1345,wisconsin
+2,Black,04000US72,Puerto Rico,2014,2014,19227,1007,puerto-rico
+3,Native American,04000US01,Alabama,2014,2014,44340,9968,alabama
+3,Native American,04000US02,Alaska,2014,2014,48721,2675,alaska
+3,Native American,04000US04,Arizona,2014,2014,30293,2870,arizona
+3,Native American,04000US05,Arkansas,2014,2014,31354,3662,arkansas
+3,Native American,04000US06,California,2014,2014,45956,2348,california
+3,Native American,04000US08,Colorado,2014,2014,47892,6058,colorado
+3,Native American,04000US09,Connecticut,2014,2014,25971,19879,connecticut
+3,Native American,04000US10,Delaware,2014,2014,40086,24097,delaware
+3,Native American,04000US12,Florida,2014,2014,35048,7461,florida
+3,Native American,04000US13,Georgia,2014,2014,36429,7207,georgia
+3,Native American,04000US15,Hawaii,2014,2014,48567,13868,hawaii
+3,Native American,04000US16,Idaho,2014,2014,42558,12899,idaho
+3,Native American,04000US17,Illinois,2014,2014,37049,6584,illinois
+3,Native American,04000US18,Indiana,2014,2014,28343,6860,indiana
+3,Native American,04000US19,Iowa,2014,2014,33981,18087,iowa
+3,Native American,04000US20,Kansas,2014,2014,42978,7306,kansas
+3,Native American,04000US21,Kentucky,2014,2014,26857,5774,kentucky
+3,Native American,04000US22,Louisiana,2014,2014,39161,7119,louisiana
+3,Native American,04000US23,Maine,2014,2014,30215,9328,maine
+3,Native American,04000US24,Maryland,2014,2014,52889,14951,maryland
+3,Native American,04000US25,Massachusetts,2014,2014,41875,16570,massachusetts
+3,Native American,04000US26,Michigan,2014,2014,39432,4700,michigan
+3,Native American,04000US27,Minnesota,2014,2014,32764,3541,minnesota
+3,Native American,04000US28,Mississippi,2014,2014,37370,9772,mississippi
+3,Native American,04000US29,Missouri,2014,2014,32347,4993,missouri
+3,Native American,04000US30,Montana,2014,2014,27937,3569,montana
+3,Native American,04000US31,Nebraska,2014,2014,21153,7746,nebraska
+3,Native American,04000US32,Nevada,2014,2014,46805,2620,nevada
+3,Native American,04000US33,New Hampshire,2014,2014,30905,21419,new-hampshire
+3,Native American,04000US34,New Jersey,2014,2014,35206,10687,new-jersey
+3,Native American,04000US35,New Mexico,2014,2014,31592,1827,new-mexico
+3,Native American,04000US36,New York,2014,2014,41775,5274,new-york
+3,Native American,04000US37,North Carolina,2014,2014,33094,1975,north-carolina
+3,Native American,04000US38,North Dakota,2014,2014,30495,4933,north-dakota
+3,Native American,04000US39,Ohio,2014,2014,30882,6196,ohio
+3,Native American,04000US40,Oklahoma,2014,2014,40013,1419,oklahoma
+3,Native American,04000US41,Oregon,2014,2014,41480,6382,oregon
+3,Native American,04000US42,Pennsylvania,2014,2014,31632,7755,pennsylvania
+3,Native American,04000US44,Rhode Island,2014,2014,20485,18478,rhode-island
+3,Native American,04000US45,South Carolina,2014,2014,27775,4318,south-carolina
+3,Native American,04000US46,South Dakota,2014,2014,24651,3232,south-dakota
+3,Native American,04000US47,Tennessee,2014,2014,36657,11546,tennessee
+3,Native American,04000US48,Texas,2014,2014,45836,2628,texas
+3,Native American,04000US49,Utah,2014,2014,41119,8909,utah
+3,Native American,04000US50,Vermont,2014,2014,32237,17566,vermont
+3,Native American,04000US51,Virginia,2014,2014,51372,16853,virginia
+3,Native American,04000US53,Washington,2014,2014,37856,4073,washington
+3,Native American,04000US54,West Virginia,2014,2014,20484,12281,west-virginia
+3,Native American,04000US55,Wisconsin,2014,2014,35504,4355,wisconsin
+3,Native American,04000US56,Wyoming,2014,2014,45020,26441,wyoming
+3,Native American,04000US72,Puerto Rico,2014,2014,20226,5990,puerto-rico
+4,Asian,04000US01,Alabama,2014,2014,54577,10988,alabama
+4,Asian,04000US02,Alaska,2014,2014,62348,10544,alaska
+4,Asian,04000US04,Arizona,2014,2014,63943,3939,arizona
+4,Asian,04000US05,Arkansas,2014,2014,62291,4773,arkansas
+4,Asian,04000US06,California,2014,2014,80080,1107,california
+4,Asian,04000US08,Colorado,2014,2014,60000,4901,colorado
+4,Asian,04000US09,Connecticut,2014,2014,88529,5945,connecticut
+4,Asian,04000US10,Delaware,2014,2014,85172,16208,delaware
+4,Asian,04000US11,District of Columbia,2014,2014,84466,19755,district-of-columbia
+4,Asian,04000US12,Florida,2014,2014,57814,4349,florida
+4,Asian,04000US13,Georgia,2014,2014,67044,4222,georgia
+4,Asian,04000US15,Hawaii,2014,2014,74723,2049,hawaii
+4,Asian,04000US16,Idaho,2014,2014,53695,9789,idaho
+4,Asian,04000US17,Illinois,2014,2014,75908,3195,illinois
+4,Asian,04000US18,Indiana,2014,2014,56238,5526,indiana
+4,Asian,04000US19,Iowa,2014,2014,61271,2225,iowa
+4,Asian,04000US20,Kansas,2014,2014,63220,7452,kansas
+4,Asian,04000US21,Kentucky,2014,2014,60493,5828,kentucky
+4,Asian,04000US22,Louisiana,2014,2014,63293,4877,louisiana
+4,Asian,04000US23,Maine,2014,2014,41731,28710,maine
+4,Asian,04000US24,Maryland,2014,2014,94344,4022,maryland
+4,Asian,04000US25,Massachusetts,2014,2014,81505,2952,massachusetts
+4,Asian,04000US26,Michigan,2014,2014,72206,3603,michigan
+4,Asian,04000US27,Minnesota,2014,2014,67944,4505,minnesota
+4,Asian,04000US28,Mississippi,2014,2014,47114,17860,mississippi
+4,Asian,04000US29,Missouri,2014,2014,63179,6331,missouri
+4,Asian,04000US30,Montana,2014,2014,31865,9315,montana
+4,Asian,04000US31,Nebraska,2014,2014,45694,6768,nebraska
+4,Asian,04000US32,Nevada,2014,2014,58874,3327,nevada
+4,Asian,04000US33,New Hampshire,2014,2014,77436,6160,new-hampshire
+4,Asian,04000US34,New Jersey,2014,2014,104045,4530,new-jersey
+4,Asian,04000US35,New Mexico,2014,2014,55988,8110,new-mexico
+4,Asian,04000US36,New York,2014,2014,61480,1324,new-york
+4,Asian,04000US37,North Carolina,2014,2014,69651,4276,north-carolina
+4,Asian,04000US38,North Dakota,2014,2014,56114,32764,north-dakota
+4,Asian,04000US39,Ohio,2014,2014,70377,4051,ohio
+4,Asian,04000US40,Oklahoma,2014,2014,49612,3667,oklahoma
+4,Asian,04000US41,Oregon,2014,2014,67748,6999,oregon
+4,Asian,04000US42,Pennsylvania,2014,2014,64041,3835,pennsylvania
+4,Asian,04000US44,Rhode Island,2014,2014,62203,14759,rhode-island
+4,Asian,04000US45,South Carolina,2014,2014,51325,5285,south-carolina
+4,Asian,04000US46,South Dakota,2014,2014,50758,8680,south-dakota
+4,Asian,04000US47,Tennessee,2014,2014,66118,4497,tennessee
+4,Asian,04000US48,Texas,2014,2014,76928,2326,texas
+4,Asian,04000US49,Utah,2014,2014,67412,6904,utah
+4,Asian,04000US50,Vermont,2014,2014,60212,18123,vermont
+4,Asian,04000US51,Virginia,2014,2014,92255,3764,virginia
+4,Asian,04000US53,Washington,2014,2014,75039,3148,washington
+4,Asian,04000US54,West Virginia,2014,2014,38666,15845,west-virginia
+4,Asian,04000US55,Wisconsin,2014,2014,50264,5679,wisconsin
+4,Asian,04000US56,Wyoming,2014,2014,46579,14966,wyoming
+4,Asian,04000US72,Puerto Rico,2014,2014,14991,2323,puerto-rico
+5,Pacific Islander,04000US01,Alabama,2014,2014,165733,118366,alabama
+5,Pacific Islander,04000US02,Alaska,2014,2014,40227,19002,alaska
+5,Pacific Islander,04000US04,Arizona,2014,2014,37113,16187,arizona
+5,Pacific Islander,04000US05,Arkansas,2014,2014,33861,24287,arkansas
+5,Pacific Islander,04000US06,California,2014,2014,58537,5825,california
+5,Pacific Islander,04000US08,Colorado,2014,2014,51564,32497,colorado
+5,Pacific Islander,04000US12,Florida,2014,2014,47793,11803,florida
+5,Pacific Islander,04000US13,Georgia,2014,2014,61760,19622,georgia
+5,Pacific Islander,04000US15,Hawaii,2014,2014,56766,3783,hawaii
+5,Pacific Islander,04000US16,Idaho,2014,2014,35906,4556,idaho
+5,Pacific Islander,04000US17,Illinois,2014,2014,77540,51457,illinois
+5,Pacific Islander,04000US18,Indiana,2014,2014,30250,19750,indiana
+5,Pacific Islander,04000US19,Iowa,2014,2014,49112,28195,iowa
+5,Pacific Islander,04000US21,Kentucky,2014,2014,27076,21664,kentucky
+5,Pacific Islander,04000US22,Louisiana,2014,2014,55224,26772,louisiana
+5,Pacific Islander,04000US24,Maryland,2014,2014,71075,15307,maryland
+5,Pacific Islander,04000US25,Massachusetts,2014,2014,82692,11553,massachusetts
+5,Pacific Islander,04000US27,Minnesota,2014,2014,52995,39583,minnesota
+5,Pacific Islander,04000US29,Missouri,2014,2014,87851,72910,missouri
+5,Pacific Islander,04000US31,Nebraska,2014,2014,68396,47037,nebraska
+5,Pacific Islander,04000US32,Nevada,2014,2014,43178,19710,nevada
+5,Pacific Islander,04000US34,New Jersey,2014,2014,47083,31699,new-jersey
+5,Pacific Islander,04000US36,New York,2014,2014,30210,12137,new-york
+5,Pacific Islander,04000US37,North Carolina,2014,2014,41953,12785,north-carolina
+5,Pacific Islander,04000US40,Oklahoma,2014,2014,37487,12238,oklahoma
+5,Pacific Islander,04000US41,Oregon,2014,2014,26987,10587,oregon
+5,Pacific Islander,04000US42,Pennsylvania,2014,2014,56984,46059,pennsylvania
+5,Pacific Islander,04000US45,South Carolina,2014,2014,32135,11158,south-carolina
+5,Pacific Islander,04000US48,Texas,2014,2014,44367,7094,texas
+5,Pacific Islander,04000US49,Utah,2014,2014,60929,12450,utah
+5,Pacific Islander,04000US51,Virginia,2014,2014,108850,44310,virginia
+5,Pacific Islander,04000US53,Washington,2014,2014,55027,15596,washington
+5,Pacific Islander,04000US55,Wisconsin,2014,2014,45224,22530,wisconsin
+6,Other,04000US01,Alabama,2014,2014,27688,2869,alabama
+6,Other,04000US02,Alaska,2014,2014,46040,30812,alaska
+6,Other,04000US04,Arizona,2014,2014,37428,1770,arizona
+6,Other,04000US05,Arkansas,2014,2014,34780,5352,arkansas
+6,Other,04000US06,California,2014,2014,46015,722,california
+6,Other,04000US08,Colorado,2014,2014,40278,4092,colorado
+6,Other,04000US09,Connecticut,2014,2014,34444,4321,connecticut
+6,Other,04000US10,Delaware,2014,2014,40843,6203,delaware
+6,Other,04000US11,District of Columbia,2014,2014,48019,8090,district-of-columbia
+6,Other,04000US12,Florida,2014,2014,39652,2343,florida
+6,Other,04000US13,Georgia,2014,2014,37174,3334,georgia
+6,Other,04000US15,Hawaii,2014,2014,47059,3509,hawaii
+6,Other,04000US16,Idaho,2014,2014,37185,5102,idaho
+6,Other,04000US17,Illinois,2014,2014,46104,1218,illinois
+6,Other,04000US18,Indiana,2014,2014,38922,4476,indiana
+6,Other,04000US19,Iowa,2014,2014,45986,13103,iowa
+6,Other,04000US20,Kansas,2014,2014,40960,3684,kansas
+6,Other,04000US21,Kentucky,2014,2014,32914,4731,kentucky
+6,Other,04000US22,Louisiana,2014,2014,39048,6584,louisiana
+6,Other,04000US23,Maine,2014,2014,62188,25142,maine
+6,Other,04000US24,Maryland,2014,2014,58343,4148,maryland
+6,Other,04000US25,Massachusetts,2014,2014,30768,1512,massachusetts
+6,Other,04000US26,Michigan,2014,2014,41522,4799,michigan
+6,Other,04000US27,Minnesota,2014,2014,40064,4075,minnesota
+6,Other,04000US28,Mississippi,2014,2014,46947,3847,mississippi
+6,Other,04000US29,Missouri,2014,2014,27683,5431,missouri
+6,Other,04000US30,Montana,2014,2014,56198,20622,montana
+6,Other,04000US31,Nebraska,2014,2014,42465,6297,nebraska
+6,Other,04000US32,Nevada,2014,2014,41947,2468,nevada
+6,Other,04000US33,New Hampshire,2014,2014,29071,11596,new-hampshire
+6,Other,04000US34,New Jersey,2014,2014,44072,1865,new-jersey
+6,Other,04000US35,New Mexico,2014,2014,31712,1758,new-mexico
+6,Other,04000US36,New York,2014,2014,35941,773,new-york
+6,Other,04000US37,North Carolina,2014,2014,29978,1854,north-carolina
+6,Other,04000US38,North Dakota,2014,2014,61565,16069,north-dakota
+6,Other,04000US39,Ohio,2014,2014,35377,2831,ohio
+6,Other,04000US40,Oklahoma,2014,2014,37384,2169,oklahoma
+6,Other,04000US41,Oregon,2014,2014,37623,3416,oregon
+6,Other,04000US42,Pennsylvania,2014,2014,31952,2554,pennsylvania
+6,Other,04000US44,Rhode Island,2014,2014,31283,3467,rhode-island
+6,Other,04000US45,South Carolina,2014,2014,30761,4400,south-carolina
+6,Other,04000US46,South Dakota,2014,2014,36700,22013,south-dakota
+6,Other,04000US47,Tennessee,2014,2014,29035,3447,tennessee
+6,Other,04000US48,Texas,2014,2014,40139,906,texas
+6,Other,04000US49,Utah,2014,2014,41712,3968,utah
+6,Other,04000US51,Virginia,2014,2014,53147,5333,virginia
+6,Other,04000US53,Washington,2014,2014,45208,3166,washington
+6,Other,04000US54,West Virginia,2014,2014,22077,21111,west-virginia
+6,Other,04000US55,Wisconsin,2014,2014,34564,2610,wisconsin
+6,Other,04000US56,Wyoming,2014,2014,32398,18722,wyoming
+6,Other,04000US72,Puerto Rico,2014,2014,16231,717,puerto-rico
+7,Two Or More,04000US01,Alabama,2014,2014,37563,5758,alabama
+7,Two Or More,04000US02,Alaska,2014,2014,63909,5767,alaska
+7,Two Or More,04000US04,Arizona,2014,2014,48202,3193,arizona
+7,Two Or More,04000US05,Arkansas,2014,2014,34603,4460,arkansas
+7,Two Or More,04000US06,California,2014,2014,60587,1368,california
+7,Two Or More,04000US08,Colorado,2014,2014,50134,2795,colorado
+7,Two Or More,04000US09,Connecticut,2014,2014,52546,6666,connecticut
+7,Two Or More,04000US10,Delaware,2014,2014,49267,5721,delaware
+7,Two Or More,04000US11,District of Columbia,2014,2014,72691,27195,district-of-columbia
+7,Two Or More,04000US12,Florida,2014,2014,42670,2007,florida
+7,Two Or More,04000US13,Georgia,2014,2014,45775,4444,georgia
+7,Two Or More,04000US15,Hawaii,2014,2014,69801,3252,hawaii
+7,Two Or More,04000US16,Idaho,2014,2014,34297,6880,idaho
+7,Two Or More,04000US17,Illinois,2014,2014,47687,4875,illinois
+7,Two Or More,04000US18,Indiana,2014,2014,35339,6397,indiana
+7,Two Or More,04000US19,Iowa,2014,2014,35681,3056,iowa
+7,Two Or More,04000US20,Kansas,2014,2014,38214,5860,kansas
+7,Two Or More,04000US21,Kentucky,2014,2014,38004,7241,kentucky
+7,Two Or More,04000US22,Louisiana,2014,2014,38985,8987,louisiana
+7,Two Or More,04000US23,Maine,2014,2014,32677,5723,maine
+7,Two Or More,04000US24,Maryland,2014,2014,71686,6451,maryland
+7,Two Or More,04000US25,Massachusetts,2014,2014,49743,3619,massachusetts
+7,Two Or More,04000US26,Michigan,2014,2014,33040,2961,michigan
+7,Two Or More,04000US27,Minnesota,2014,2014,43628,5159,minnesota
+7,Two Or More,04000US28,Mississippi,2014,2014,32218,7033,mississippi
+7,Two Or More,04000US29,Missouri,2014,2014,37676,4607,missouri
+7,Two Or More,04000US30,Montana,2014,2014,40757,11193,montana
+7,Two Or More,04000US31,Nebraska,2014,2014,38565,9133,nebraska
+7,Two Or More,04000US32,Nevada,2014,2014,52305,6510,nevada
+7,Two Or More,04000US33,New Hampshire,2014,2014,55106,16011,new-hampshire
+7,Two Or More,04000US34,New Jersey,2014,2014,60607,7379,new-jersey
+7,Two Or More,04000US35,New Mexico,2014,2014,33810,5413,new-mexico
+7,Two Or More,04000US36,New York,2014,2014,49803,3216,new-york
+7,Two Or More,04000US37,North Carolina,2014,2014,37547,3442,north-carolina
+7,Two Or More,04000US38,North Dakota,2014,2014,41838,12036,north-dakota
+7,Two Or More,04000US39,Ohio,2014,2014,35713,1937,ohio
+7,Two Or More,04000US40,Oklahoma,2014,2014,44571,2763,oklahoma
+7,Two Or More,04000US41,Oregon,2014,2014,37469,5396,oregon
+7,Two Or More,04000US42,Pennsylvania,2014,2014,37432,2665,pennsylvania
+7,Two Or More,04000US44,Rhode Island,2014,2014,40536,8422,rhode-island
+7,Two Or More,04000US45,South Carolina,2014,2014,42925,9271,south-carolina
+7,Two Or More,04000US46,South Dakota,2014,2014,50333,10868,south-dakota
+7,Two Or More,04000US47,Tennessee,2014,2014,34383,3616,tennessee
+7,Two Or More,04000US48,Texas,2014,2014,49174,2280,texas
+7,Two Or More,04000US49,Utah,2014,2014,48794,5067,utah
+7,Two Or More,04000US50,Vermont,2014,2014,43973,6715,vermont
+7,Two Or More,04000US51,Virginia,2014,2014,67610,4762,virginia
+7,Two Or More,04000US53,Washington,2014,2014,53999,3283,washington
+7,Two Or More,04000US54,West Virginia,2014,2014,32967,10351,west-virginia
+7,Two Or More,04000US55,Wisconsin,2014,2014,41193,4053,wisconsin
+7,Two Or More,04000US56,Wyoming,2014,2014,29451,15606,wyoming
+7,Two Or More,04000US72,Puerto Rico,2014,2014,20092,1233,puerto-rico
+8,White Non-Hispanic,04000US01,Alabama,2014,2014,50076,594,alabama
+8,White Non-Hispanic,04000US02,Alaska,2014,2014,80656,2297,alaska
+8,White Non-Hispanic,04000US04,Arizona,2014,2014,55321,662,arizona
+8,White Non-Hispanic,04000US05,Arkansas,2014,2014,45456,848,arkansas
+8,White Non-Hispanic,04000US06,California,2014,2014,73017,624,california
+8,White Non-Hispanic,04000US08,Colorado,2014,2014,67360,772,colorado
+8,White Non-Hispanic,04000US09,Connecticut,2014,2014,78959,1453,connecticut
+8,White Non-Hispanic,04000US10,Delaware,2014,2014,65361,1815,delaware
+8,White Non-Hispanic,04000US11,District of Columbia,2014,2014,117134,4932,district-of-columbia
+8,White Non-Hispanic,04000US12,Florida,2014,2014,52321,336,florida
+8,White Non-Hispanic,04000US13,Georgia,2014,2014,57555,763,georgia
+8,White Non-Hispanic,04000US15,Hawaii,2014,2014,70259,2593,hawaii
+8,White Non-Hispanic,04000US16,Idaho,2014,2014,49536,1343,idaho
+8,White Non-Hispanic,04000US17,Illinois,2014,2014,64349,611,illinois
+8,White Non-Hispanic,04000US18,Indiana,2014,2014,52105,390,indiana
+8,White Non-Hispanic,04000US19,Iowa,2014,2014,55243,705,iowa
+8,White Non-Hispanic,04000US20,Kansas,2014,2014,56010,713,kansas
+8,White Non-Hispanic,04000US21,Kentucky,2014,2014,45179,627,kentucky
+8,White Non-Hispanic,04000US22,Louisiana,2014,2014,54940,981,louisiana
+8,White Non-Hispanic,04000US23,Maine,2014,2014,50041,944,maine
+8,White Non-Hispanic,04000US24,Maryland,2014,2014,82846,1279,maryland
+8,White Non-Hispanic,04000US25,Massachusetts,2014,2014,75598,672,massachusetts
+8,White Non-Hispanic,04000US26,Michigan,2014,2014,53496,497,michigan
+8,White Non-Hispanic,04000US27,Minnesota,2014,2014,64824,768,minnesota
+8,White Non-Hispanic,04000US28,Mississippi,2014,2014,48844,1222,mississippi
+8,White Non-Hispanic,04000US29,Missouri,2014,2014,51383,441,missouri
+8,White Non-Hispanic,04000US30,Montana,2014,2014,48005,1303,montana
+8,White Non-Hispanic,04000US31,Nebraska,2014,2014,55976,718,nebraska
+8,White Non-Hispanic,04000US32,Nevada,2014,2014,56514,1134,nevada
+8,White Non-Hispanic,04000US33,New Hampshire,2014,2014,67318,1531,new-hampshire
+8,White Non-Hispanic,04000US34,New Jersey,2014,2014,82182,728,new-jersey
+8,White Non-Hispanic,04000US35,New Mexico,2014,2014,53422,1741,new-mexico
+8,White Non-Hispanic,04000US36,New York,2014,2014,68283,519,new-york
+8,White Non-Hispanic,04000US37,North Carolina,2014,2014,52759,588,north-carolina
+8,White Non-Hispanic,04000US38,North Dakota,2014,2014,61864,1182,north-dakota
+8,White Non-Hispanic,04000US39,Ohio,2014,2014,52815,445,ohio
+8,White Non-Hispanic,04000US40,Oklahoma,2014,2014,51525,474,oklahoma
+8,White Non-Hispanic,04000US41,Oregon,2014,2014,52915,777,oregon
+8,White Non-Hispanic,04000US42,Pennsylvania,2014,2014,57540,503,pennsylvania
+8,White Non-Hispanic,04000US44,Rhode Island,2014,2014,61406,1445,rhode-island
+8,White Non-Hispanic,04000US45,South Carolina,2014,2014,52356,593,south-carolina
+8,White Non-Hispanic,04000US46,South Dakota,2014,2014,53187,1574,south-dakota
+8,White Non-Hispanic,04000US47,Tennessee,2014,2014,48218,698,tennessee
+8,White Non-Hispanic,04000US48,Texas,2014,2014,65786,456,texas
+8,White Non-Hispanic,04000US49,Utah,2014,2014,63994,972,utah
+8,White Non-Hispanic,04000US50,Vermont,2014,2014,54640,1681,vermont
+8,White Non-Hispanic,04000US51,Virginia,2014,2014,70878,707,virginia
+8,White Non-Hispanic,04000US53,Washington,2014,2014,63519,806,washington
+8,White Non-Hispanic,04000US54,West Virginia,2014,2014,41673,673,west-virginia
+8,White Non-Hispanic,04000US55,Wisconsin,2014,2014,56083,410,wisconsin
+8,White Non-Hispanic,04000US56,Wyoming,2014,2014,60360,1647,wyoming
+8,White Non-Hispanic,04000US72,Puerto Rico,2014,2014,27995,9478,puerto-rico
+9,Hispanic,04000US01,Alabama,2014,2014,31664,2519,alabama
+9,Hispanic,04000US02,Alaska,2014,2014,54996,9276,alaska
+9,Hispanic,04000US04,Arizona,2014,2014,39180,1080,arizona
+9,Hispanic,04000US05,Arkansas,2014,2014,35348,1947,arkansas
+9,Hispanic,04000US06,California,2014,2014,47434,478,california
+9,Hispanic,04000US08,Colorado,2014,2014,44174,1575,colorado
+9,Hispanic,04000US09,Connecticut,2014,2014,39148,2365,connecticut
+9,Hispanic,04000US10,Delaware,2014,2014,50525,2696,delaware
+9,Hispanic,04000US11,District of Columbia,2014,2014,63065,13111,district-of-columbia
+9,Hispanic,04000US12,Florida,2014,2014,40903,509,florida
+9,Hispanic,04000US13,Georgia,2014,2014,39492,1985,georgia
+9,Hispanic,04000US15,Hawaii,2014,2014,58683,6111,hawaii
+9,Hispanic,04000US16,Idaho,2014,2014,39070,2666,idaho
+9,Hispanic,04000US17,Illinois,2014,2014,47466,972,illinois
+9,Hispanic,04000US18,Indiana,2014,2014,41125,2443,indiana
+9,Hispanic,04000US19,Iowa,2014,2014,42447,4370,iowa
+9,Hispanic,04000US20,Kansas,2014,2014,39869,2524,kansas
+9,Hispanic,04000US21,Kentucky,2014,2014,33991,4160,kentucky
+9,Hispanic,04000US22,Louisiana,2014,2014,44938,2972,louisiana
+9,Hispanic,04000US23,Maine,2014,2014,52477,13726,maine
+9,Hispanic,04000US24,Maryland,2014,2014,63020,3545,maryland
+9,Hispanic,04000US25,Massachusetts,2014,2014,34507,1948,massachusetts
+9,Hispanic,04000US26,Michigan,2014,2014,42649,1934,michigan
+9,Hispanic,04000US27,Minnesota,2014,2014,42060,2718,minnesota
+9,Hispanic,04000US28,Mississippi,2014,2014,41723,3287,mississippi
+9,Hispanic,04000US29,Missouri,2014,2014,39724,3729,missouri
+9,Hispanic,04000US30,Montana,2014,2014,36281,4044,montana
+9,Hispanic,04000US31,Nebraska,2014,2014,40050,1997,nebraska
+9,Hispanic,04000US32,Nevada,2014,2014,43640,2285,nevada
+9,Hispanic,04000US33,New Hampshire,2014,2014,44520,8576,new-hampshire
+9,Hispanic,04000US34,New Jersey,2014,2014,47794,1742,new-jersey
+9,Hispanic,04000US35,New Mexico,2014,2014,38236,1874,new-mexico
+9,Hispanic,04000US36,New York,2014,2014,40740,773,new-york
+9,Hispanic,04000US37,North Carolina,2014,2014,32463,1768,north-carolina
+9,Hispanic,04000US38,North Dakota,2014,2014,44516,10601,north-dakota
+9,Hispanic,04000US39,Ohio,2014,2014,38794,2925,ohio
+9,Hispanic,04000US40,Oklahoma,2014,2014,37783,1661,oklahoma
+9,Hispanic,04000US41,Oregon,2014,2014,39780,1987,oregon
+9,Hispanic,04000US42,Pennsylvania,2014,2014,35231,1450,pennsylvania
+9,Hispanic,04000US44,Rhode Island,2014,2014,30797,2316,rhode-island
+9,Hispanic,04000US45,South Carolina,2014,2014,35595,2307,south-carolina
+9,Hispanic,04000US46,South Dakota,2014,2014,43338,12669,south-dakota
+9,Hispanic,04000US47,Tennessee,2014,2014,35941,2292,tennessee
+9,Hispanic,04000US48,Texas,2014,2014,41177,427,texas
+9,Hispanic,04000US49,Utah,2014,2014,42772,2399,utah
+9,Hispanic,04000US50,Vermont,2014,2014,50538,15474,vermont
+9,Hispanic,04000US51,Virginia,2014,2014,60491,1911,virginia
+9,Hispanic,04000US53,Washington,2014,2014,47010,1725,washington
+9,Hispanic,04000US54,West Virginia,2014,2014,34907,12351,west-virginia
+9,Hispanic,04000US55,Wisconsin,2014,2014,37140,1535,wisconsin
+9,Hispanic,04000US56,Wyoming,2014,2014,43002,2923,wyoming
+9,Hispanic,04000US72,Puerto Rico,2014,2014,18862,364,puerto-rico
+0,Total,04000US01,Alabama,2013,2013,42849,641,alabama
+0,Total,04000US02,Alaska,2013,2013,72237,1892,alaska
+0,Total,04000US04,Arizona,2013,2013,48510,587,arizona
+0,Total,04000US05,Arkansas,2013,2013,40511,710,arkansas
+0,Total,04000US06,California,2013,2013,60190,255,california
+0,Total,04000US08,Colorado,2013,2013,58823,808,colorado
+0,Total,04000US09,Connecticut,2013,2013,67098,1058,connecticut
+0,Total,04000US10,Delaware,2013,2013,57846,1876,delaware
+0,Total,04000US11,District of Columbia,2013,2013,67572,3383,district-of-columbia
+0,Total,04000US12,Florida,2013,2013,46036,310,florida
+0,Total,04000US13,Georgia,2013,2013,47829,628,georgia
+0,Total,04000US15,Hawaii,2013,2013,68020,1523,hawaii
+0,Total,04000US16,Idaho,2013,2013,46783,930,idaho
+0,Total,04000US17,Illinois,2013,2013,56210,403,illinois
+0,Total,04000US18,Indiana,2013,2013,47529,516,indiana
+0,Total,04000US19,Iowa,2013,2013,52229,533,iowa
+0,Total,04000US20,Kansas,2013,2013,50972,609,kansas
+0,Total,04000US21,Kentucky,2013,2013,43399,650,kentucky
+0,Total,04000US22,Louisiana,2013,2013,44164,869,louisiana
+0,Total,04000US23,Maine,2013,2013,46974,797,maine
+0,Total,04000US24,Maryland,2013,2013,72483,718,maryland
+0,Total,04000US25,Massachusetts,2013,2013,66768,715,massachusetts
+0,Total,04000US26,Michigan,2013,2013,48273,378,michigan
+0,Total,04000US27,Minnesota,2013,2013,60702,432,minnesota
+0,Total,04000US28,Mississippi,2013,2013,37963,1029,mississippi
+0,Total,04000US29,Missouri,2013,2013,46931,427,missouri
+0,Total,04000US30,Montana,2013,2013,46972,1140,montana
+0,Total,04000US31,Nebraska,2013,2013,51440,493,nebraska
+0,Total,04000US32,Nevada,2013,2013,51230,589,nevada
+0,Total,04000US33,New Hampshire,2013,2013,64230,1347,new-hampshire
+0,Total,04000US34,New Jersey,2013,2013,70165,546,new-jersey
+0,Total,04000US35,New Mexico,2013,2013,43872,950,new-mexico
+0,Total,04000US36,New York,2013,2013,57369,431,new-york
+0,Total,04000US37,North Carolina,2013,2013,45906,424,north-carolina
+0,Total,04000US38,North Dakota,2013,2013,55759,1452,north-dakota
+0,Total,04000US39,Ohio,2013,2013,48081,406,ohio
+0,Total,04000US40,Oklahoma,2013,2013,45690,534,oklahoma
+0,Total,04000US41,Oregon,2013,2013,50251,532,oregon
+0,Total,04000US42,Pennsylvania,2013,2013,52007,256,pennsylvania
+0,Total,04000US44,Rhode Island,2013,2013,55902,1902,rhode-island
+0,Total,04000US45,South Carolina,2013,2013,44163,659,south-carolina
+0,Total,04000US46,South Dakota,2013,2013,48947,1091,south-dakota
+0,Total,04000US47,Tennessee,2013,2013,44297,501,tennessee
+0,Total,04000US48,Texas,2013,2013,51704,238,texas
+0,Total,04000US49,Utah,2013,2013,59770,762,utah
+0,Total,04000US50,Vermont,2013,2013,52578,1561,vermont
+0,Total,04000US51,Virginia,2013,2013,62666,665,virginia
+0,Total,04000US53,Washington,2013,2013,58405,671,washington
+0,Total,04000US54,West Virginia,2013,2013,41253,746,west-virginia
+0,Total,04000US55,Wisconsin,2013,2013,51467,370,wisconsin
+0,Total,04000US56,Wyoming,2013,2013,58752,1796,wyoming
+0,Total,04000US72,Puerto Rico,2013,2013,19183,313,puerto-rico
+1,White,04000US01,Alabama,2013,2013,49465,726,alabama
+1,White,04000US02,Alaska,2013,2013,79102,2827,alaska
+1,White,04000US04,Arizona,2013,2013,50487,437,arizona
+1,White,04000US05,Arkansas,2013,2013,43950,894,arkansas
+1,White,04000US06,California,2013,2013,62412,336,california
+1,White,04000US08,Colorado,2013,2013,61067,488,colorado
+1,White,04000US09,Connecticut,2013,2013,73486,1287,connecticut
+1,White,04000US10,Delaware,2013,2013,61227,1582,delaware
+1,White,04000US11,District of Columbia,2013,2013,111886,4044,district-of-columbia
+1,White,04000US12,Florida,2013,2013,48794,478,florida
+1,White,04000US13,Georgia,2013,2013,54717,697,georgia
+1,White,04000US15,Hawaii,2013,2013,66794,2459,hawaii
+1,White,04000US16,Idaho,2013,2013,47378,1093,idaho
+1,White,04000US17,Illinois,2013,2013,61156,356,illinois
+1,White,04000US18,Indiana,2013,2013,50359,431,indiana
+1,White,04000US19,Iowa,2013,2013,53351,756,iowa
+1,White,04000US20,Kansas,2013,2013,52515,836,kansas
+1,White,04000US21,Kentucky,2013,2013,45019,610,kentucky
+1,White,04000US22,Louisiana,2013,2013,54230,1070,louisiana
+1,White,04000US23,Maine,2013,2013,47138,858,maine
+1,White,04000US24,Maryland,2013,2013,81199,835,maryland
+1,White,04000US25,Massachusetts,2013,2013,71042,738,massachusetts
+1,White,04000US26,Michigan,2013,2013,51708,365,michigan
+1,White,04000US27,Minnesota,2013,2013,62634,587,minnesota
+1,White,04000US28,Mississippi,2013,2013,47382,1072,mississippi
+1,White,04000US29,Missouri,2013,2013,49954,433,missouri
+1,White,04000US30,Montana,2013,2013,48400,1283,montana
+1,White,04000US31,Nebraska,2013,2013,53010,735,nebraska
+1,White,04000US32,Nevada,2013,2013,54271,937,nevada
+1,White,04000US33,New Hampshire,2013,2013,64786,1388,new-hampshire
+1,White,04000US34,New Jersey,2013,2013,75688,793,new-jersey
+1,White,04000US35,New Mexico,2013,2013,46443,1072,new-mexico
+1,White,04000US36,New York,2013,2013,64108,650,new-york
+1,White,04000US37,North Carolina,2013,2013,51132,444,north-carolina
+1,White,04000US38,North Dakota,2013,2013,58349,1649,north-dakota
+1,White,04000US39,Ohio,2013,2013,51328,298,ohio
+1,White,04000US40,Oklahoma,2013,2013,48898,739,oklahoma
+1,White,04000US41,Oregon,2013,2013,51015,568,oregon
+1,White,04000US42,Pennsylvania,2013,2013,55452,389,pennsylvania
+1,White,04000US44,Rhode Island,2013,2013,61198,1312,rhode-island
+1,White,04000US45,South Carolina,2013,2013,51262,565,south-carolina
+1,White,04000US46,South Dakota,2013,2013,51115,986,south-dakota
+1,White,04000US47,Tennessee,2013,2013,47435,519,tennessee
+1,White,04000US48,Texas,2013,2013,54802,437,texas
+1,White,04000US49,Utah,2013,2013,61311,561,utah
+1,White,04000US50,Vermont,2013,2013,52789,1756,vermont
+1,White,04000US51,Virginia,2013,2013,67430,793,virginia
+1,White,04000US53,Washington,2013,2013,60183,468,washington
+1,White,04000US54,West Virginia,2013,2013,41568,789,west-virginia
+1,White,04000US55,Wisconsin,2013,2013,53763,547,wisconsin
+1,White,04000US56,Wyoming,2013,2013,60110,1278,wyoming
+1,White,04000US72,Puerto Rico,2013,2013,19459,427,puerto-rico
+2,Black,04000US01,Alabama,2013,2013,29210,918,alabama
+2,Black,04000US02,Alaska,2013,2013,51780,13403,alaska
+2,Black,04000US04,Arizona,2013,2013,36528,1558,arizona
+2,Black,04000US05,Arkansas,2013,2013,25540,1430,arkansas
+2,Black,04000US06,California,2013,2013,40856,952,california
+2,Black,04000US08,Colorado,2013,2013,43145,2930,colorado
+2,Black,04000US09,Connecticut,2013,2013,41286,1913,connecticut
+2,Black,04000US10,Delaware,2013,2013,51995,3091,delaware
+2,Black,04000US11,District of Columbia,2013,2013,38124,3081,district-of-columbia
+2,Black,04000US12,Florida,2013,2013,32956,852,florida
+2,Black,04000US13,Georgia,2013,2013,35288,639,georgia
+2,Black,04000US15,Hawaii,2013,2013,66629,10904,hawaii
+2,Black,04000US16,Idaho,2013,2013,41579,31710,idaho
+2,Black,04000US17,Illinois,2013,2013,32244,656,illinois
+2,Black,04000US18,Indiana,2013,2013,29509,1441,indiana
+2,Black,04000US19,Iowa,2013,2013,28526,3304,iowa
+2,Black,04000US20,Kansas,2013,2013,31589,1225,kansas
+2,Black,04000US21,Kentucky,2013,2013,29703,2266,kentucky
+2,Black,04000US22,Louisiana,2013,2013,27090,625,louisiana
+2,Black,04000US23,Maine,2013,2013,22007,10222,maine
+2,Black,04000US24,Maryland,2013,2013,57907,1422,maryland
+2,Black,04000US25,Massachusetts,2013,2013,44157,2698,massachusetts
+2,Black,04000US26,Michigan,2013,2013,28441,794,michigan
+2,Black,04000US27,Minnesota,2013,2013,31021,2315,minnesota
+2,Black,04000US28,Mississippi,2013,2013,25184,886,mississippi
+2,Black,04000US29,Missouri,2013,2013,31949,1012,missouri
+2,Black,04000US30,Montana,2013,2013,26414,21871,montana
+2,Black,04000US31,Nebraska,2013,2013,27786,3080,nebraska
+2,Black,04000US32,Nevada,2013,2013,34629,3093,nevada
+2,Black,04000US33,New Hampshire,2013,2013,46818,13504,new-hampshire
+2,Black,04000US34,New Jersey,2013,2013,44124,1767,new-jersey
+2,Black,04000US35,New Mexico,2013,2013,45829,6662,new-mexico
+2,Black,04000US36,New York,2013,2013,40522,754,new-york
+2,Black,04000US37,North Carolina,2013,2013,32092,526,north-carolina
+2,Black,04000US38,North Dakota,2013,2013,28829,7441,north-dakota
+2,Black,04000US39,Ohio,2013,2013,28023,917,ohio
+2,Black,04000US40,Oklahoma,2013,2013,30043,1799,oklahoma
+2,Black,04000US41,Oregon,2013,2013,30806,5045,oregon
+2,Black,04000US42,Pennsylvania,2013,2013,32186,949,pennsylvania
+2,Black,04000US44,Rhode Island,2013,2013,32122,3270,rhode-island
+2,Black,04000US45,South Carolina,2013,2013,29289,947,south-carolina
+2,Black,04000US46,South Dakota,2013,2013,40083,14418,south-dakota
+2,Black,04000US47,Tennessee,2013,2013,32086,759,tennessee
+2,Black,04000US48,Texas,2013,2013,37608,756,texas
+2,Black,04000US49,Utah,2013,2013,32969,8841,utah
+2,Black,04000US50,Vermont,2013,2013,53505,15564,vermont
+2,Black,04000US51,Virginia,2013,2013,41828,933,virginia
+2,Black,04000US53,Washington,2013,2013,40760,3099,washington
+2,Black,04000US54,West Virginia,2013,2013,30500,3872,west-virginia
+2,Black,04000US55,Wisconsin,2013,2013,26935,1122,wisconsin
+2,Black,04000US56,Wyoming,2013,2013,41432,20807,wyoming
+2,Black,04000US72,Puerto Rico,2013,2013,18463,1154,puerto-rico
+3,Native American,04000US01,Alabama,2013,2013,38333,7989,alabama
+3,Native American,04000US02,Alaska,2013,2013,40705,2128,alaska
+3,Native American,04000US04,Arizona,2013,2013,30582,1721,arizona
+3,Native American,04000US05,Arkansas,2013,2013,41330,9816,arkansas
+3,Native American,04000US06,California,2013,2013,44879,2506,california
+3,Native American,04000US08,Colorado,2013,2013,35858,5521,colorado
+3,Native American,04000US09,Connecticut,2013,2013,65983,19915,connecticut
+3,Native American,04000US10,Delaware,2013,2013,34390,10120,delaware
+3,Native American,04000US11,District of Columbia,2013,2013,67373,40861,district-of-columbia
+3,Native American,04000US12,Florida,2013,2013,42095,8142,florida
+3,Native American,04000US13,Georgia,2013,2013,44849,6242,georgia
+3,Native American,04000US16,Idaho,2013,2013,38168,6979,idaho
+3,Native American,04000US17,Illinois,2013,2013,40336,8406,illinois
+3,Native American,04000US18,Indiana,2013,2013,36951,3778,indiana
+3,Native American,04000US19,Iowa,2013,2013,35082,13689,iowa
+3,Native American,04000US20,Kansas,2013,2013,46303,15037,kansas
+3,Native American,04000US21,Kentucky,2013,2013,27276,22874,kentucky
+3,Native American,04000US22,Louisiana,2013,2013,42417,7407,louisiana
+3,Native American,04000US23,Maine,2013,2013,38495,12159,maine
+3,Native American,04000US24,Maryland,2013,2013,49080,8834,maryland
+3,Native American,04000US25,Massachusetts,2013,2013,38297,12195,massachusetts
+3,Native American,04000US26,Michigan,2013,2013,35838,3499,michigan
+3,Native American,04000US27,Minnesota,2013,2013,35764,4123,minnesota
+3,Native American,04000US28,Mississippi,2013,2013,28182,6184,mississippi
+3,Native American,04000US29,Missouri,2013,2013,32431,9325,missouri
+3,Native American,04000US30,Montana,2013,2013,28792,2728,montana
+3,Native American,04000US31,Nebraska,2013,2013,30455,6305,nebraska
+3,Native American,04000US32,Nevada,2013,2013,36683,6506,nevada
+3,Native American,04000US34,New Jersey,2013,2013,33086,9461,new-jersey
+3,Native American,04000US35,New Mexico,2013,2013,27172,1580,new-mexico
+3,Native American,04000US36,New York,2013,2013,34193,4712,new-york
+3,Native American,04000US37,North Carolina,2013,2013,29381,2980,north-carolina
+3,Native American,04000US38,North Dakota,2013,2013,27810,5342,north-dakota
+3,Native American,04000US39,Ohio,2013,2013,35561,8357,ohio
+3,Native American,04000US40,Oklahoma,2013,2013,37605,1464,oklahoma
+3,Native American,04000US41,Oregon,2013,2013,33953,5280,oregon
+3,Native American,04000US42,Pennsylvania,2013,2013,38908,10652,pennsylvania
+3,Native American,04000US44,Rhode Island,2013,2013,20574,20197,rhode-island
+3,Native American,04000US45,South Carolina,2013,2013,42995,7650,south-carolina
+3,Native American,04000US46,South Dakota,2013,2013,25337,3257,south-dakota
+3,Native American,04000US47,Tennessee,2013,2013,40611,5915,tennessee
+3,Native American,04000US48,Texas,2013,2013,47538,4096,texas
+3,Native American,04000US49,Utah,2013,2013,44783,6931,utah
+3,Native American,04000US50,Vermont,2013,2013,60880,38451,vermont
+3,Native American,04000US51,Virginia,2013,2013,57075,12295,virginia
+3,Native American,04000US53,Washington,2013,2013,40371,2745,washington
+3,Native American,04000US54,West Virginia,2013,2013,24792,17064,west-virginia
+3,Native American,04000US55,Wisconsin,2013,2013,36711,6745,wisconsin
+3,Native American,04000US56,Wyoming,2013,2013,47356,11869,wyoming
+3,Native American,04000US72,Puerto Rico,2013,2013,17963,3365,puerto-rico
+4,Asian,04000US01,Alabama,2013,2013,58713,12396,alabama
+4,Asian,04000US02,Alaska,2013,2013,76126,11034,alaska
+4,Asian,04000US04,Arizona,2013,2013,65257,3789,arizona
+4,Asian,04000US05,Arkansas,2013,2013,60439,9743,arkansas
+4,Asian,04000US06,California,2013,2013,76535,916,california
+4,Asian,04000US08,Colorado,2013,2013,72315,5554,colorado
+4,Asian,04000US09,Connecticut,2013,2013,86018,4805,connecticut
+4,Asian,04000US10,Delaware,2013,2013,70868,10337,delaware
+4,Asian,04000US11,District of Columbia,2013,2013,63218,13881,district-of-columbia
+4,Asian,04000US12,Florida,2013,2013,60221,2505,florida
+4,Asian,04000US13,Georgia,2013,2013,63314,5067,georgia
+4,Asian,04000US15,Hawaii,2013,2013,73386,2371,hawaii
+4,Asian,04000US16,Idaho,2013,2013,46476,9039,idaho
+4,Asian,04000US17,Illinois,2013,2013,75454,2472,illinois
+4,Asian,04000US18,Indiana,2013,2013,51127,9488,indiana
+4,Asian,04000US19,Iowa,2013,2013,61664,3644,iowa
+4,Asian,04000US20,Kansas,2013,2013,56115,6811,kansas
+4,Asian,04000US21,Kentucky,2013,2013,53885,10267,kentucky
+4,Asian,04000US22,Louisiana,2013,2013,47382,4763,louisiana
+4,Asian,04000US23,Maine,2013,2013,52347,13728,maine
+4,Asian,04000US24,Maryland,2013,2013,92666,5786,maryland
+4,Asian,04000US25,Massachusetts,2013,2013,80337,4111,massachusetts
+4,Asian,04000US26,Michigan,2013,2013,73157,3583,michigan
+4,Asian,04000US27,Minnesota,2013,2013,65107,3887,minnesota
+4,Asian,04000US28,Mississippi,2013,2013,44824,10017,mississippi
+4,Asian,04000US29,Missouri,2013,2013,51758,12661,missouri
+4,Asian,04000US30,Montana,2013,2013,60511,3611,montana
+4,Asian,04000US31,Nebraska,2013,2013,48936,6588,nebraska
+4,Asian,04000US32,Nevada,2013,2013,59826,3707,nevada
+4,Asian,04000US33,New Hampshire,2013,2013,64969,13811,new-hampshire
+4,Asian,04000US34,New Jersey,2013,2013,101672,1503,new-jersey
+4,Asian,04000US35,New Mexico,2013,2013,62096,13472,new-mexico
+4,Asian,04000US36,New York,2013,2013,63121,2556,new-york
+4,Asian,04000US37,North Carolina,2013,2013,67263,3890,north-carolina
+4,Asian,04000US38,North Dakota,2013,2013,23038,4025,north-dakota
+4,Asian,04000US39,Ohio,2013,2013,71209,3523,ohio
+4,Asian,04000US40,Oklahoma,2013,2013,53594,5022,oklahoma
+4,Asian,04000US41,Oregon,2013,2013,67189,4105,oregon
+4,Asian,04000US42,Pennsylvania,2013,2013,63524,3870,pennsylvania
+4,Asian,04000US44,Rhode Island,2013,2013,47781,5504,rhode-island
+4,Asian,04000US45,South Carolina,2013,2013,59280,6434,south-carolina
+4,Asian,04000US46,South Dakota,2013,2013,41981,12178,south-dakota
+4,Asian,04000US47,Tennessee,2013,2013,65550,6872,tennessee
+4,Asian,04000US48,Texas,2013,2013,76376,2868,texas
+4,Asian,04000US49,Utah,2013,2013,56257,7475,utah
+4,Asian,04000US50,Vermont,2013,2013,57115,17031,vermont
+4,Asian,04000US51,Virginia,2013,2013,98021,3358,virginia
+4,Asian,04000US53,Washington,2013,2013,70885,2689,washington
+4,Asian,04000US54,West Virginia,2013,2013,52938,9043,west-virginia
+4,Asian,04000US55,Wisconsin,2013,2013,60153,7734,wisconsin
+4,Asian,04000US56,Wyoming,2013,2013,24387,20073,wyoming
+4,Asian,04000US72,Puerto Rico,2013,2013,10089,3767,puerto-rico
+5,Pacific Islander,04000US01,Alabama,2013,2013,66077,51063,alabama
+5,Pacific Islander,04000US02,Alaska,2013,2013,49728,9799,alaska
+5,Pacific Islander,04000US04,Arizona,2013,2013,32482,11626,arizona
+5,Pacific Islander,04000US05,Arkansas,2013,2013,29130,24842,arkansas
+5,Pacific Islander,04000US06,California,2013,2013,58293,6925,california
+5,Pacific Islander,04000US08,Colorado,2013,2013,65599,22110,colorado
+5,Pacific Islander,04000US12,Florida,2013,2013,53318,21164,florida
+5,Pacific Islander,04000US13,Georgia,2013,2013,32638,6165,georgia
+5,Pacific Islander,04000US15,Hawaii,2013,2013,52492,7185,hawaii
+5,Pacific Islander,04000US16,Idaho,2013,2013,60523,41641,idaho
+5,Pacific Islander,04000US17,Illinois,2013,2013,65983,18764,illinois
+5,Pacific Islander,04000US19,Iowa,2013,2013,43306,29462,iowa
+5,Pacific Islander,04000US23,Maine,2013,2013,8996,791,maine
+5,Pacific Islander,04000US24,Maryland,2013,2013,69244,17898,maryland
+5,Pacific Islander,04000US25,Massachusetts,2013,2013,91615,76074,massachusetts
+5,Pacific Islander,04000US26,Michigan,2013,2013,46978,3295,michigan
+5,Pacific Islander,04000US27,Minnesota,2013,2013,21458,14690,minnesota
+5,Pacific Islander,04000US29,Missouri,2013,2013,50520,29433,missouri
+5,Pacific Islander,04000US30,Montana,2013,2013,52983,9240,montana
+5,Pacific Islander,04000US31,Nebraska,2013,2013,37151,20954,nebraska
+5,Pacific Islander,04000US32,Nevada,2013,2013,35420,17556,nevada
+5,Pacific Islander,04000US34,New Jersey,2013,2013,127708,79705,new-jersey
+5,Pacific Islander,04000US36,New York,2013,2013,34636,8384,new-york
+5,Pacific Islander,04000US37,North Carolina,2013,2013,60844,23711,north-carolina
+5,Pacific Islander,04000US39,Ohio,2013,2013,42637,25593,ohio
+5,Pacific Islander,04000US40,Oklahoma,2013,2013,34977,5576,oklahoma
+5,Pacific Islander,04000US41,Oregon,2013,2013,27243,10038,oregon
+5,Pacific Islander,04000US45,South Carolina,2013,2013,42276,11218,south-carolina
+5,Pacific Islander,04000US46,South Dakota,2013,2013,85174,55718,south-dakota
+5,Pacific Islander,04000US47,Tennessee,2013,2013,40654,30870,tennessee
+5,Pacific Islander,04000US48,Texas,2013,2013,54624,17617,texas
+5,Pacific Islander,04000US49,Utah,2013,2013,48456,5355,utah
+5,Pacific Islander,04000US51,Virginia,2013,2013,96906,30210,virginia
+5,Pacific Islander,04000US53,Washington,2013,2013,54426,3770,washington
+5,Pacific Islander,04000US54,West Virginia,2013,2013,28371,15888,west-virginia
+6,Other,04000US01,Alabama,2013,2013,34149,7854,alabama
+6,Other,04000US02,Alaska,2013,2013,59991,12176,alaska
+6,Other,04000US04,Arizona,2013,2013,35134,1660,arizona
+6,Other,04000US05,Arkansas,2013,2013,30320,3266,arkansas
+6,Other,04000US06,California,2013,2013,43390,850,california
+6,Other,04000US08,Colorado,2013,2013,38821,3051,colorado
+6,Other,04000US09,Connecticut,2013,2013,33902,2270,connecticut
+6,Other,04000US10,Delaware,2013,2013,32260,7879,delaware
+6,Other,04000US11,District of Columbia,2013,2013,34991,15366,district-of-columbia
+6,Other,04000US12,Florida,2013,2013,40345,2318,florida
+6,Other,04000US13,Georgia,2013,2013,34643,2170,georgia
+6,Other,04000US15,Hawaii,2013,2013,48871,10164,hawaii
+6,Other,04000US16,Idaho,2013,2013,34718,5756,idaho
+6,Other,04000US17,Illinois,2013,2013,41895,1456,illinois
+6,Other,04000US18,Indiana,2013,2013,31119,2123,indiana
+6,Other,04000US19,Iowa,2013,2013,37915,4636,iowa
+6,Other,04000US20,Kansas,2013,2013,39737,3785,kansas
+6,Other,04000US21,Kentucky,2013,2013,39133,9049,kentucky
+6,Other,04000US22,Louisiana,2013,2013,36901,7661,louisiana
+6,Other,04000US23,Maine,2013,2013,66345,30371,maine
+6,Other,04000US24,Maryland,2013,2013,58751,2925,maryland
+6,Other,04000US25,Massachusetts,2013,2013,31049,1448,massachusetts
+6,Other,04000US26,Michigan,2013,2013,34144,2670,michigan
+6,Other,04000US27,Minnesota,2013,2013,36371,4179,minnesota
+6,Other,04000US28,Mississippi,2013,2013,27634,8390,mississippi
+6,Other,04000US29,Missouri,2013,2013,31669,4530,missouri
+6,Other,04000US31,Nebraska,2013,2013,41842,7973,nebraska
+6,Other,04000US32,Nevada,2013,2013,39768,2804,nevada
+6,Other,04000US33,New Hampshire,2013,2013,38190,18479,new-hampshire
+6,Other,04000US34,New Jersey,2013,2013,43572,2670,new-jersey
+6,Other,04000US35,New Mexico,2013,2013,32252,1799,new-mexico
+6,Other,04000US36,New York,2013,2013,35627,1388,new-york
+6,Other,04000US37,North Carolina,2013,2013,32558,2492,north-carolina
+6,Other,04000US38,North Dakota,2013,2013,48914,29884,north-dakota
+6,Other,04000US39,Ohio,2013,2013,37467,3242,ohio
+6,Other,04000US40,Oklahoma,2013,2013,37762,2672,oklahoma
+6,Other,04000US41,Oregon,2013,2013,38883,3474,oregon
+6,Other,04000US42,Pennsylvania,2013,2013,30263,2772,pennsylvania
+6,Other,04000US44,Rhode Island,2013,2013,29549,6019,rhode-island
+6,Other,04000US45,South Carolina,2013,2013,31191,2084,south-carolina
+6,Other,04000US46,South Dakota,2013,2013,46116,30704,south-dakota
+6,Other,04000US47,Tennessee,2013,2013,30296,2345,tennessee
+6,Other,04000US48,Texas,2013,2013,39533,1311,texas
+6,Other,04000US49,Utah,2013,2013,40334,3865,utah
+6,Other,04000US51,Virginia,2013,2013,50089,4298,virginia
+6,Other,04000US53,Washington,2013,2013,37747,2316,washington
+6,Other,04000US54,West Virginia,2013,2013,50541,28034,west-virginia
+6,Other,04000US55,Wisconsin,2013,2013,32425,2747,wisconsin
+6,Other,04000US56,Wyoming,2013,2013,48505,11095,wyoming
+6,Other,04000US72,Puerto Rico,2013,2013,17437,781,puerto-rico
+7,Two Or More,04000US01,Alabama,2013,2013,40614,5941,alabama
+7,Two Or More,04000US02,Alaska,2013,2013,58086,7702,alaska
+7,Two Or More,04000US04,Arizona,2013,2013,49148,3425,arizona
+7,Two Or More,04000US05,Arkansas,2013,2013,34077,6412,arkansas
+7,Two Or More,04000US06,California,2013,2013,57836,1801,california
+7,Two Or More,04000US08,Colorado,2013,2013,46131,4647,colorado
+7,Two Or More,04000US09,Connecticut,2013,2013,51086,5916,connecticut
+7,Two Or More,04000US10,Delaware,2013,2013,27023,11027,delaware
+7,Two Or More,04000US11,District of Columbia,2013,2013,89428,17339,district-of-columbia
+7,Two Or More,04000US12,Florida,2013,2013,41824,1854,florida
+7,Two Or More,04000US13,Georgia,2013,2013,49548,4815,georgia
+7,Two Or More,04000US15,Hawaii,2013,2013,65832,4634,hawaii
+7,Two Or More,04000US16,Idaho,2013,2013,30794,6558,idaho
+7,Two Or More,04000US17,Illinois,2013,2013,47054,5250,illinois
+7,Two Or More,04000US18,Indiana,2013,2013,38249,3773,indiana
+7,Two Or More,04000US19,Iowa,2013,2013,43288,7178,iowa
+7,Two Or More,04000US20,Kansas,2013,2013,42033,4804,kansas
+7,Two Or More,04000US21,Kentucky,2013,2013,34656,10537,kentucky
+7,Two Or More,04000US22,Louisiana,2013,2013,31524,6825,louisiana
+7,Two Or More,04000US23,Maine,2013,2013,41795,8589,maine
+7,Two Or More,04000US24,Maryland,2013,2013,68896,6891,maryland
+7,Two Or More,04000US25,Massachusetts,2013,2013,46611,4269,massachusetts
+7,Two Or More,04000US26,Michigan,2013,2013,33689,1605,michigan
+7,Two Or More,04000US27,Minnesota,2013,2013,42781,5549,minnesota
+7,Two Or More,04000US28,Mississippi,2013,2013,30707,4310,mississippi
+7,Two Or More,04000US29,Missouri,2013,2013,36996,5981,missouri
+7,Two Or More,04000US30,Montana,2013,2013,34787,8036,montana
+7,Two Or More,04000US31,Nebraska,2013,2013,43589,8805,nebraska
+7,Two Or More,04000US32,Nevada,2013,2013,47472,7251,nevada
+7,Two Or More,04000US33,New Hampshire,2013,2013,44831,3394,new-hampshire
+7,Two Or More,04000US34,New Jersey,2013,2013,55701,5553,new-jersey
+7,Two Or More,04000US35,New Mexico,2013,2013,47567,6036,new-mexico
+7,Two Or More,04000US36,New York,2013,2013,49510,2924,new-york
+7,Two Or More,04000US37,North Carolina,2013,2013,37052,3995,north-carolina
+7,Two Or More,04000US38,North Dakota,2013,2013,38505,11558,north-dakota
+7,Two Or More,04000US39,Ohio,2013,2013,35333,2721,ohio
+7,Two Or More,04000US40,Oklahoma,2013,2013,38860,2772,oklahoma
+7,Two Or More,04000US41,Oregon,2013,2013,44967,3524,oregon
+7,Two Or More,04000US42,Pennsylvania,2013,2013,37816,3413,pennsylvania
+7,Two Or More,04000US44,Rhode Island,2013,2013,41167,13514,rhode-island
+7,Two Or More,04000US45,South Carolina,2013,2013,31880,2382,south-carolina
+7,Two Or More,04000US46,South Dakota,2013,2013,37888,9733,south-dakota
+7,Two Or More,04000US47,Tennessee,2013,2013,33764,3340,tennessee
+7,Two Or More,04000US48,Texas,2013,2013,47707,1979,texas
+7,Two Or More,04000US49,Utah,2013,2013,48501,4798,utah
+7,Two Or More,04000US50,Vermont,2013,2013,34042,11247,vermont
+7,Two Or More,04000US51,Virginia,2013,2013,61667,3248,virginia
+7,Two Or More,04000US53,Washington,2013,2013,50063,3662,washington
+7,Two Or More,04000US54,West Virginia,2013,2013,30883,5445,west-virginia
+7,Two Or More,04000US55,Wisconsin,2013,2013,36834,5682,wisconsin
+7,Two Or More,04000US56,Wyoming,2013,2013,48579,6918,wyoming
+7,Two Or More,04000US72,Puerto Rico,2013,2013,20447,1191,puerto-rico
+8,White Non-Hispanic,04000US01,Alabama,2013,2013,49799,722,alabama
+8,White Non-Hispanic,04000US02,Alaska,2013,2013,79483,2749,alaska
+8,White Non-Hispanic,04000US04,Arizona,2013,2013,53850,741,arizona
+8,White Non-Hispanic,04000US05,Arkansas,2013,2013,44489,952,arkansas
+8,White Non-Hispanic,04000US06,California,2013,2013,70786,444,california
+8,White Non-Hispanic,04000US08,Colorado,2013,2013,64104,757,colorado
+8,White Non-Hispanic,04000US09,Connecticut,2013,2013,76593,1219,connecticut
+8,White Non-Hispanic,04000US10,Delaware,2013,2013,62067,1600,delaware
+8,White Non-Hispanic,04000US11,District of Columbia,2013,2013,118402,4912,district-of-columbia
+8,White Non-Hispanic,04000US12,Florida,2013,2013,51081,346,florida
+8,White Non-Hispanic,04000US13,Georgia,2013,2013,56264,632,georgia
+8,White Non-Hispanic,04000US15,Hawaii,2013,2013,68143,3027,hawaii
+8,White Non-Hispanic,04000US16,Idaho,2013,2013,47940,1216,idaho
+8,White Non-Hispanic,04000US17,Illinois,2013,2013,62320,380,illinois
+8,White Non-Hispanic,04000US18,Indiana,2013,2013,50685,436,indiana
+8,White Non-Hispanic,04000US19,Iowa,2013,2013,53818,766,iowa
+8,White Non-Hispanic,04000US20,Kansas,2013,2013,54202,917,kansas
+8,White Non-Hispanic,04000US21,Kentucky,2013,2013,45127,592,kentucky
+8,White Non-Hispanic,04000US22,Louisiana,2013,2013,54487,1066,louisiana
+8,White Non-Hispanic,04000US23,Maine,2013,2013,47176,837,maine
+8,White Non-Hispanic,04000US24,Maryland,2013,2013,81927,847,maryland
+8,White Non-Hispanic,04000US25,Massachusetts,2013,2013,72332,812,massachusetts
+8,White Non-Hispanic,04000US26,Michigan,2013,2013,51982,352,michigan
+8,White Non-Hispanic,04000US27,Minnesota,2013,2013,63028,628,minnesota
+8,White Non-Hispanic,04000US28,Mississippi,2013,2013,47540,1124,mississippi
+8,White Non-Hispanic,04000US29,Missouri,2013,2013,50098,358,missouri
+8,White Non-Hispanic,04000US30,Montana,2013,2013,48569,1297,montana
+8,White Non-Hispanic,04000US31,Nebraska,2013,2013,54212,732,nebraska
+8,White Non-Hispanic,04000US32,Nevada,2013,2013,56151,880,nevada
+8,White Non-Hispanic,04000US33,New Hampshire,2013,2013,64965,1377,new-hampshire
+8,White Non-Hispanic,04000US34,New Jersey,2013,2013,80156,694,new-jersey
+8,White Non-Hispanic,04000US35,New Mexico,2013,2013,53101,1626,new-mexico
+8,White Non-Hispanic,04000US36,New York,2013,2013,65981,562,new-york
+8,White Non-Hispanic,04000US37,North Carolina,2013,2013,51793,432,north-carolina
+8,White Non-Hispanic,04000US38,North Dakota,2013,2013,58769,1612,north-dakota
+8,White Non-Hispanic,04000US39,Ohio,2013,2013,51532,302,ohio
+8,White Non-Hispanic,04000US40,Oklahoma,2013,2013,49713,737,oklahoma
+8,White Non-Hispanic,04000US41,Oregon,2013,2013,51972,600,oregon
+8,White Non-Hispanic,04000US42,Pennsylvania,2013,2013,55991,397,pennsylvania
+8,White Non-Hispanic,04000US44,Rhode Island,2013,2013,62242,1731,rhode-island
+8,White Non-Hispanic,04000US45,South Carolina,2013,2013,51664,575,south-carolina
+8,White Non-Hispanic,04000US46,South Dakota,2013,2013,51411,980,south-dakota
+8,White Non-Hispanic,04000US47,Tennessee,2013,2013,47759,582,tennessee
+8,White Non-Hispanic,04000US48,Texas,2013,2013,63682,539,texas
+8,White Non-Hispanic,04000US49,Utah,2013,2013,62591,742,utah
+8,White Non-Hispanic,04000US50,Vermont,2013,2013,52877,1784,vermont
+8,White Non-Hispanic,04000US51,Virginia,2013,2013,68061,966,virginia
+8,White Non-Hispanic,04000US53,Washington,2013,2013,61161,480,washington
+8,White Non-Hispanic,04000US54,West Virginia,2013,2013,41528,793,west-virginia
+8,White Non-Hispanic,04000US55,Wisconsin,2013,2013,54626,556,wisconsin
+8,White Non-Hispanic,04000US56,Wyoming,2013,2013,60708,942,wyoming
+8,White Non-Hispanic,04000US72,Puerto Rico,2013,2013,30559,9237,puerto-rico
+9,Hispanic,04000US01,Alabama,2013,2013,34773,3355,alabama
+9,Hispanic,04000US02,Alaska,2013,2013,60521,14881,alaska
+9,Hispanic,04000US04,Arizona,2013,2013,37179,873,arizona
+9,Hispanic,04000US05,Arkansas,2013,2013,31410,2036,arkansas
+9,Hispanic,04000US06,California,2013,2013,45800,449,california
+9,Hispanic,04000US08,Colorado,2013,2013,40606,1376,colorado
+9,Hispanic,04000US09,Connecticut,2013,2013,37125,2170,connecticut
+9,Hispanic,04000US10,Delaware,2013,2013,37092,4195,delaware
+9,Hispanic,04000US11,District of Columbia,2013,2013,50861,7016,district-of-columbia
+9,Hispanic,04000US12,Florida,2013,2013,40420,572,florida
+9,Hispanic,04000US13,Georgia,2013,2013,36921,1163,georgia
+9,Hispanic,04000US15,Hawaii,2013,2013,59755,5448,hawaii
+9,Hispanic,04000US16,Idaho,2013,2013,39676,3333,idaho
+9,Hispanic,04000US17,Illinois,2013,2013,45074,1190,illinois
+9,Hispanic,04000US18,Indiana,2013,2013,34994,2502,indiana
+9,Hispanic,04000US19,Iowa,2013,2013,38892,4355,iowa
+9,Hispanic,04000US20,Kansas,2013,2013,39912,2007,kansas
+9,Hispanic,04000US21,Kentucky,2013,2013,35358,3731,kentucky
+9,Hispanic,04000US22,Louisiana,2013,2013,46058,5295,louisiana
+9,Hispanic,04000US23,Maine,2013,2013,40515,15453,maine
+9,Hispanic,04000US24,Maryland,2013,2013,62366,2003,maryland
+9,Hispanic,04000US25,Massachusetts,2013,2013,35094,1758,massachusetts
+9,Hispanic,04000US26,Michigan,2013,2013,37034,1518,michigan
+9,Hispanic,04000US27,Minnesota,2013,2013,41708,2670,minnesota
+9,Hispanic,04000US28,Mississippi,2013,2013,34288,6060,mississippi
+9,Hispanic,04000US29,Missouri,2013,2013,38208,4802,missouri
+9,Hispanic,04000US30,Montana,2013,2013,34614,12667,montana
+9,Hispanic,04000US31,Nebraska,2013,2013,36800,3117,nebraska
+9,Hispanic,04000US32,Nevada,2013,2013,42617,1669,nevada
+9,Hispanic,04000US33,New Hampshire,2013,2013,47082,5337,new-hampshire
+9,Hispanic,04000US34,New Jersey,2013,2013,47248,1224,new-jersey
+9,Hispanic,04000US35,New Mexico,2013,2013,36152,1163,new-mexico
+9,Hispanic,04000US36,New York,2013,2013,40347,785,new-york
+9,Hispanic,04000US37,North Carolina,2013,2013,34637,1583,north-carolina
+9,Hispanic,04000US38,North Dakota,2013,2013,33418,14701,north-dakota
+9,Hispanic,04000US39,Ohio,2013,2013,38128,2027,ohio
+9,Hispanic,04000US40,Oklahoma,2013,2013,39003,1717,oklahoma
+9,Hispanic,04000US41,Oregon,2013,2013,38909,1728,oregon
+9,Hispanic,04000US42,Pennsylvania,2013,2013,34270,1479,pennsylvania
+9,Hispanic,04000US44,Rhode Island,2013,2013,29706,3413,rhode-island
+9,Hispanic,04000US45,South Carolina,2013,2013,35257,2243,south-carolina
+9,Hispanic,04000US46,South Dakota,2013,2013,36204,1539,south-dakota
+9,Hispanic,04000US47,Tennessee,2013,2013,35158,3349,tennessee
+9,Hispanic,04000US48,Texas,2013,2013,40473,409,texas
+9,Hispanic,04000US49,Utah,2013,2013,41909,1937,utah
+9,Hispanic,04000US50,Vermont,2013,2013,42487,23381,vermont
+9,Hispanic,04000US51,Virginia,2013,2013,58744,3392,virginia
+9,Hispanic,04000US53,Washington,2013,2013,42001,1352,washington
+9,Hispanic,04000US54,West Virginia,2013,2013,45498,10452,west-virginia
+9,Hispanic,04000US55,Wisconsin,2013,2013,33394,1994,wisconsin
+9,Hispanic,04000US56,Wyoming,2013,2013,44920,9102,wyoming
+9,Hispanic,04000US72,Puerto Rico,2013,2013,19128,308,puerto-rico
